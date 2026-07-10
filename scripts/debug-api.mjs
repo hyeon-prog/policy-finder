@@ -14,6 +14,14 @@ async function probe(label, url) {
 }
 
 const base = "https://www.youthcenter.go.kr/go/ythip/getPlcy";
-await probe("getPlcy 기본(메타 확인)", `${base}?apiKeyNm=${key}&pageNum=1&pageSize=2&rtnType=json`);
-await probe("getPlcy 키워드검색(서버필터 동작 확인)", `${base}?apiKeyNm=${key}&pageNum=1&pageSize=2&rtnType=json&plcyKywdNm=${encodeURIComponent("월세")}`);
-await probe("구버전 youthPlcyList.do", `https://www.youthcenter.go.kr/opi/youthPlcyList.do?openApiVlak=${key}&display=2&pageIndex=1`);
+await probe("getPlcy 기본키", `${base}?apiKeyNm=${key}&pageNum=1&pageSize=1&rtnType=json`);
+
+// 두 번째 시크릿(YOUTH_API_KEY_2)이 있으면 그 키도 테스트
+const key2 = process.env.YOUTH_API_KEY_2;
+if (key2 && key2 !== key) {
+  const r = await fetch(`${base}?apiKeyNm=${key2}&pageNum=1&pageSize=1&rtnType=json`, { signal: AbortSignal.timeout(20000) });
+  const t = (await r.text()).replace(/\s+/g, " ").slice(0, 700).replaceAll(key2, "***").replaceAll(key, "***");
+  console.log(`== getPlcy 두번째키 (HTTP ${r.status}):`, t);
+} else {
+  console.log("== 두번째키 없음 또는 동일");
+}

@@ -82,22 +82,31 @@ function parseRegions(zipCd) {
   return sidos;
 }
 
-/** 신청기간 문자열 → { open: 현재 접수 가능 여부, deadline: 표시용 문구 } */
+/**
+ * 신청기간 판정 → { open, deadline }
+ * 실제 목록 응답에는 aplyYmd가 없고 aplyPrdSeCd(구분코드)와
+ * bizPrdBgngYmd/bizPrdEndYmd(사업기간)만 옵니다.
+ * 코드: 0057001 특정기간 / 0057002 상시 / 0057003 마감
+ */
 function parseApply(raw, today) {
+  // 혹시 상세형 응답에 aplyYmd("20260101 ~ 20261231")가 있으면 우선 사용
   const ymd = clean(raw.aplyYmd);
-  if (!ymd) return { open: true, deadline: "상시 신청 (상세 공고 확인)" };
-
   const m = ymd.match(/(\d{8})\s*~\s*(\d{8})/);
   if (m) {
     const open = today >= m[1] && today <= m[2];
     const fmt = (s) => `${s.slice(0, 4)}-${s.slice(4, 6)}-${s.slice(6, 8)}`;
-    return {
-      open,
-      deadline: `${fmt(m[1])} ~ ${fmt(m[2])}${open ? "" : " (접수 기간 아님)"}`,
-    };
+    return { open, deadline: `${fmt(m[1])} ~ ${fmt(m[2])}${open ? "" : " (접수 기간 아님)"}` };
   }
-  // "상시", "예산 소진 시까지" 등 기간 형식이 아니면 접수 가능으로 간주하고 원문 표시
-  return { open: true, deadline: trunc(ymd, 60) };
+
+  const se = clean(raw.aplyPrdSeCd);
+  if (se === "0057003") return { open: false, deadline: "접수 마감 (공고 확인)" };
+
+  const end = clean(raw.bizPrdEndYmd).replace(/\D/g, "");
+  if (end.length === 8 && end < today) {
+    return { open: false, deadline: `사업기간 종료 (~${end.slice(0, 4)}-${end.slice(4, 6)}-${end.slice(6, 8)})` };
+  }
+  if (se === "0057001") return { open: true, deadline: "기간제 모집 — 상세 공고에서 접수기간 확인" };
+  return { open: true, deadline: "상시 신청 (상세 공고 확인)" };
 }
 
 /** 주관기관명으로 정부정책/지자체 구분 (중앙부처는 보통 부·처·청·위원회로 끝남) */
@@ -200,16 +209,20 @@ if (!key && !process.env.YOUTH_API_MOCK) {
 
   apiItems = list
     .map((raw) => mapPolicy(raw, today))
+    .filter((it) => it.name)                                   // 필드 마스킹·불량 행 제외 (키 승인 전엔 전부 null)
     .filter((it) => it.open)                                   // 접수 중인 것만
     .filter((it) => {                                          // 큐레이션과 중복 제거
       const n = normName(it.name);
-      if (seen.has(n)) return false;
+      if (!n || seen.has(n)) return false;
       seen.add(n);
       return !curatedNames.some((c) => n.includes(c) || c.includes(n));
     })
     .slice(0, MAX_API_ITEMS);
-  source = "curated+youthcenter";
-  console.log(`API ${list.length}건 중 ${apiItems.length}건 채택 (접수중·중복제거 후)`);
+  source = apiItems.length ? "curated+youthcenter" : "curated";
+  console.log(`API ${list.length}건 중 ${apiItems.length}건 채택 (유효·접수중·중복제거 후)`);
+  if (list.length > 0 && apiItems.length === 0 && !clean(list[0].plcyNm)) {
+    console.log("⚠️ 응답 필드가 전부 비어 있습니다 — 인증키가 아직 승인 대기 상태일 수 있습니다.");
+  }
 }
 
 const output = {
@@ -219,5 +232,18 @@ const output = {
   items: [...curated.items, ...apiItems],
 };
 
-writeFileSync(outPath, JSON.stringify(output, null, 2) + "\n");
-console.log(`data/policies.json 생성 완료 — 총 ${output.items.length}건 (source: ${source})`);
+// 실질 내용이 같으면 파일을 덮어쓰지 않음 (generatedAt만 바뀌는 커밋 방지)
+let unchanged = false;
+try {
+  const prev = JSON.parse(readFileSync(outPath, "utf8"));
+  unchanged =
+    JSON.stringify({ ...prev, generatedAt: null }) ===
+    JSON.stringify({ ...output, generatedAt: null });
+} catch { /* 기존 파일이 없거나 손상 → 새로 작성 */ }
+
+if (unchanged) {
+  console.log("데이터 내용 변화 없음 — policies.json 유지");
+} else {
+  writeFileSync(outPath, JSON.stringify(output, null, 2) + "\n");
+  console.log(`data/policies.json 생성 완료 — 총 ${output.items.length}건 (source: ${source})`);
+}
