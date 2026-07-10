@@ -20,6 +20,11 @@ jobs:
         with:
           node-version: 20
 
+      - name: Debug API probe
+        env:
+          YOUTH_API_KEY: ${{ secrets.YOUTH_API_KEY }}
+        run: node scripts/debug-api.mjs
+
       - name: Fetch latest policies from youthcenter API
         env:
           YOUTH_API_KEY: ${{ secrets.YOUTH_API_KEY }}
