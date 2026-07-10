@@ -32,6 +32,13 @@ const CATEGORY_COLORS = {
   "공모전": "var(--cat-contest)",
 };
 
+// 행정구역 개편 별칭: 사용자가 선택한 시/도 ↔ 통합 후 명칭 매칭
+// (2026년 개편으로 광주광역시+전라남도 → 전남광주통합특별시)
+const REGION_ALIASES = {
+  "광주광역시": ["전남광주통합특별시"],
+  "전라남도": ["전남광주통합특별시"],
+};
+
 // 취업 상태 코드 → 한글 라벨 (미충족 사유 표시에 사용)
 const EMPLOYMENT_LABELS = {
   student: "학생", jobseeker: "구직자", employed: "재직자",
@@ -111,11 +118,12 @@ function evaluateItem(user, item) {
     });
   }
 
-  // ② 거주지 조건 ("전국"이면 무조건 통과)
+  // ② 거주지 조건 ("전국"이면 무조건 통과, 행정구역 개편 별칭 포함 매칭)
   if (!e.regions.includes("전국")) {
+    const userRegions = [user.sido, ...(REGION_ALIASES[user.sido] || [])];
     checks.push({
       label: "거주지",
-      pass: e.regions.includes(user.sido),
+      pass: e.regions.some((r) => userRegions.includes(r)),
       hint: `${e.regions.join(", ")} 거주자 대상`,
     });
   }

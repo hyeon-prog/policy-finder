@@ -1,18 +1,20 @@
 #!/usr/bin/env node
 /**
  * =====================================================================
- * 온통청년 청년정책 Open API → data/policies.json 생성 스크립트
+ * 온통청년 청년정책 → data/policies.json 생성 스크립트
  * ---------------------------------------------------------------------
- * 실행:  YOUTH_API_KEY=<인증키> node scripts/fetch-policies.mjs
- * 테스트: YOUTH_API_MOCK=<mock.json 경로> node scripts/fetch-policies.mjs
+ * 데이터 소스 (우선순위):
+ *  1) 공식 오픈API getPlcy (YOUTH_API_KEY 필요)
+ *     — 인증키 승인 전에는 모든 필드가 null로 마스킹되어 옴
+ *  2) 온통청년 웹 통합검색 JSON (portalPolicySearch, 키 불필요)
+ *     — 사이트 프론트엔드가 쓰는 공개 엔드포인트, 전체 필드 제공
+ *  3) 둘 다 실패 시 큐레이션 데이터(data/curated.json)만으로 생성
  *
- * 동작 원칙 (실서비스 안전장치):
- *  - 인증키가 없으면 큐레이션 데이터(data/curated.json)만으로 재생성하고 종료
- *  - API 응답이 예상 형태가 아니면 기존 policies.json을 건드리지 않고 실패 종료
- *  - API 항목은 큐레이션 항목과 이름이 겹치면 제외(중복 방지)
+ * 실행:  node scripts/fetch-policies.mjs            (포털 폴백 사용)
+ *        YOUTH_API_KEY=<키> node scripts/...        (공식 API 우선)
+ *        YOUTH_API_MOCK=<파일> node scripts/...     (목 응답 테스트)
  *
  * GitHub Actions(.github/workflows/update-data.yml)가 매일 실행합니다.
- * 인증키 발급: 온통청년(youthcenter.go.kr) 회원가입 → 오픈API 인증키 신청
  * ===================================================================== */
 
 import { readFileSync, writeFileSync } from "node:fs";
@@ -22,32 +24,74 @@ import { fileURLToPath } from "node:url";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
 const API_URL = "https://www.youthcenter.go.kr/go/ythip/getPlcy";
+const PORTAL_URL = "https://www.youthcenter.go.kr/pubot/search/portalPolicySearch";
 const MAX_API_ITEMS = 30; // 페이지 성능을 위해 API 항목 수 제한
 
 /* ---------------- 코드 → 값 매핑 테이블 ---------------- */
 
-// 법정동코드 앞 2자리 → 시/도명
+// 법정동코드 앞 2자리 → 시/도명 (정적 폴백 — 실행 시 getCtpvCd API로 최신화)
+// 2026년 행정구역 개편 반영: 12 = 전남광주통합특별시 등
 const SIDO_BY_PREFIX = {
-  "11": "서울특별시", "26": "부산광역시", "27": "대구광역시", "28": "인천광역시",
-  "29": "광주광역시", "30": "대전광역시", "31": "울산광역시", "36": "세종특별자치시",
+  "11": "서울특별시", "12": "전남광주통합특별시", "26": "부산광역시",
+  "27": "대구광역시", "28": "인천광역시", "29": "광주광역시",
+  "30": "대전광역시", "31": "울산광역시", "36": "세종특별자치시",
   "41": "경기도", "43": "충청북도", "44": "충청남도", "46": "전라남도",
   "47": "경상북도", "48": "경상남도", "50": "제주특별자치도",
   "51": "강원특별자치도", "52": "전북특별자치도",
 };
+let SIDO_NAMES = [...new Set(Object.values(SIDO_BY_PREFIX))];
 
-// 정책 대분류 → 사이트 카테고리
-const CATEGORY_BY_LCLSF = {
-  "일자리": "취업", "주거": "주거", "교육": "교육",
-  "복지문화": "생활지원", "참여권리": "참여·권리",
-};
+/** 온통청년 시/도 코드 API(키 불필요)로 최신 행정구역 반영 */
+async function refreshSidoMap() {
+  try {
+    const res = await fetch(
+      "https://www.youthcenter.go.kr/go/ythip/getCtpvCd?rtnType=json",
+      { signal: AbortSignal.timeout(15000) }
+    );
+    const json = await res.json();
+    const list = json?.admVOList?.admVOList;
+    if (Array.isArray(list)) {
+      list.forEach(({ admCode, admCodeNm }) => {
+        if (admCode && admCodeNm) SIDO_BY_PREFIX[String(admCode).slice(0, 2)] = admCodeNm;
+      });
+      SIDO_NAMES = [...new Set(Object.values(SIDO_BY_PREFIX))];
+      console.log(`시/도 코드 ${list.length}건 동기화`);
+    }
+  } catch { /* 실패 시 정적 폴백 사용 */ }
+}
 
-// 취업요건코드 → 사이트 취업상태 값 (알 수 없는 코드는 '무관' 처리)
+// 정책 분류 텍스트 → 사이트 카테고리 (키워드 우선순위 순)
+const CATEGORY_RULES = [
+  [/주거|전월세|월세|임대|이사/, "주거"],
+  [/창업/, "창업"],
+  [/일자리|취업|일경험|채용/, "취업"],
+  [/금융|자산|대출|통장/, "금융"],
+  [/교육|역량|자격증|장학/, "교육"],
+  [/복지|문화|건강|생활/, "생활지원"],
+  [/참여|권리/, "참여·권리"],
+];
+
+function normalizeCategory(...texts) {
+  const t = texts.map(clean).join(" ");
+  for (const [re, cat] of CATEGORY_RULES) if (re.test(t)) return cat;
+  return clean(texts[1]).split(",")[0] || "기타";
+}
+
+// 취업요건코드(공식 API) → 사이트 취업상태 값
 const JOB_CODE_MAP = {
   "0013001": "employed",      // 재직자
   "0013002": "self-employed", // 자영업자
   "0013003": "jobseeker",     // 미취업자
   "0013004": "freelancer",    // 프리랜서
 };
+
+// 취업상태명(포털 검색) 키워드 → 사이트 취업상태 값
+const EMPM_NAME_MAP = [
+  [/재직/, "employed"],
+  [/자영업/, "self-employed"],
+  [/미취업|구직/, "jobseeker"],
+  [/프리랜서/, "freelancer"],
+];
 
 /* ---------------- 유틸 ---------------- */
 
@@ -72,24 +116,31 @@ const normName = (s) => clean(s).replace(/[\s()\[\]「」·+ⅠⅡ\-~]/g, "");
 
 /* ---------------- 필드 매핑 ---------------- */
 
-/** zipCd(법정동코드 목록) → 시/도명 배열. 10개 시/도 이상이면 전국으로 간주 */
-function parseRegions(zipCd) {
+/**
+ * 지역 판정: 법정동코드(zipCd) 우선, 없으면 지역명 문자열(stdgNm)에서
+ * 시/도명을 스캔. 10개 시/도 이상이거나 판별 불가면 "전국".
+ */
+function parseRegions(zipCd, stdgNm) {
   const prefixes = new Set(
     String(zipCd ?? "").split(",").map((s) => s.trim().slice(0, 2)).filter(Boolean)
   );
-  const sidos = [...new Set([...prefixes].map((p) => SIDO_BY_PREFIX[p]).filter(Boolean))];
+  let sidos = [...new Set([...prefixes].map((p) => SIDO_BY_PREFIX[p]).filter(Boolean))];
+
+  if (sidos.length === 0 && stdgNm) {
+    // 전체 시/도명만 정확히 매칭 (축약 매칭은 "경기도 광주시" 같은 오분류를 유발)
+    const names = clean(stdgNm);
+    sidos = SIDO_NAMES.filter((n) => names.includes(n));
+  }
   if (sidos.length === 0 || sidos.length >= 10) return ["전국"];
   return sidos;
 }
 
 /**
  * 신청기간 판정 → { open, deadline }
- * 실제 목록 응답에는 aplyYmd가 없고 aplyPrdSeCd(구분코드)와
- * bizPrdBgngYmd/bizPrdEndYmd(사업기간)만 옵니다.
+ * aplyYmd("20260101 ~ 20261231") > 신청기간구분코드 > 사업기간 순으로 판단.
  * 코드: 0057001 특정기간 / 0057002 상시 / 0057003 마감
  */
 function parseApply(raw, today) {
-  // 혹시 상세형 응답에 aplyYmd("20260101 ~ 20261231")가 있으면 우선 사용
   const ymd = clean(raw.aplyYmd);
   const m = ymd.match(/(\d{8})\s*~\s*(\d{8})/);
   if (m) {
@@ -117,18 +168,31 @@ function classifyType(raw) {
   return "policy";
 }
 
-/** API 원본 1건 → 사이트 아이템 스키마 */
+/** 취업상태: 코드(공식 API) 또는 상태명(포털) → 사이트 값 배열 */
+function parseEmployment(raw) {
+  const fromCode = String(raw.jobCd ?? "").split(",")
+    .map((c) => JOB_CODE_MAP[c.trim()]).filter(Boolean);
+  if (fromCode.length) return [...new Set(fromCode)];
+
+  const name = clean(raw.empmSttsNm);
+  if (!name || /제한없음|무관/.test(name)) return null;
+  const fromName = EMPM_NAME_MAP.filter(([re]) => re.test(name)).map(([, v]) => v);
+  return fromName.length ? [...new Set(fromName)] : null;
+}
+
+/** 혼인상태명 → "married" | "single" | null */
+function parseMarital(raw) {
+  const name = clean(raw.mrgSttsNm);
+  if (/기혼/.test(name) && !/미혼/.test(name)) return "married";
+  if (/미혼/.test(name) && !/기혼/.test(name)) return "single";
+  return null;
+}
+
+/** API/포털 원본 1건 → 사이트 아이템 스키마 (camelCase 정규화 이후) */
 function mapPolicy(raw, today) {
   const { open, deadline } = parseApply(raw, today);
   const minAge = num(raw.sprtTrgtMinAge);
   const maxAge = num(raw.sprtTrgtMaxAge);
-  const employment = [
-    ...new Set(
-      String(raw.jobCd ?? "").split(",")
-        .map((c) => JOB_CODE_MAP[c.trim()])
-        .filter(Boolean)
-    ),
-  ];
 
   const ageText =
     minAge || maxAge ? `만 ${minAge ?? "제한없음"}~${maxAge ?? "제한없음"}세` : "";
@@ -140,7 +204,7 @@ function mapPolicy(raw, today) {
     open,
     source: "youthcenter",
     name: trunc(clean(raw.plcyNm), 60),
-    category: CATEGORY_BY_LCLSF[clean(raw.lclsfNm)] || clean(raw.mclsfNm) || "기타",
+    category: normalizeCategory(raw.lclsfNm, raw.mclsfNm, raw.plcyNm),
     summary: trunc(clean(raw.plcySprtCn) || clean(raw.plcyExplnCn) || "상세 공고 참조", 90),
     target: trunc([ageText, targetSrc].filter(Boolean).join(" — ") || "상세 공고 참조", 130),
     deadline,
@@ -149,67 +213,137 @@ function mapPolicy(raw, today) {
     eligibility: {
       minAge: minAge && minAge > 0 ? minAge : null,
       maxAge: maxAge && maxAge > 0 && maxAge < 120 ? maxAge : null,
-      regions: parseRegions(raw.zipCd),
-      maxIncomeRatio: null,   // API 소득 조건은 서술형이라 매칭에 사용하지 않음
-      employment: employment.length ? employment : null,
-      maritalStatus: null,     // 혼인 코드 매핑은 보수적으로 무관 처리
+      regions: parseRegions(raw.zipCd, raw.stdgNm),
+      maxIncomeRatio: null,   // 소득 조건은 서술형이라 매칭에 사용하지 않음
+      employment: parseEmployment(raw),
+      maritalStatus: parseMarital(raw),
       requiresChildren: false,
       minHouseholdSize: null,
     },
   };
 }
 
-/* ---------------- 메인 ---------------- */
+/** 포털 검색 응답(UPPER_SNAKE_CASE) → 공식 API와 같은 camelCase 형태로 정규화 */
+function normalizePortalItem(r) {
+  const bgng = clean(r.APLY_PRD_BGNG_YMD).replace(/\D/g, "");
+  const end = clean(r.APLY_PRD_END_YMD).replace(/\D/g, "");
+  return {
+    plcyNo: r.DOCID,
+    plcyNm: r.PLCY_NM,
+    plcyExplnCn: r.PLCY_EXPLN_CN,
+    plcySprtCn: r.PLCY_SPRT_CN,
+    lclsfNm: r.USER_LCLSF_NM,
+    mclsfNm: r.USER_MCLSF_NM,
+    sprvsnInstCdNm: r.SPRVSN_INST_CD_NM,
+    rgtrUpInstCdNm: r.RGTR_UP_INST_CD_NM,
+    operInstCdNm: r.OPER_INST_CD_NM,
+    aplyPrdSeCd: r.APLY_PRD_SE_CD,
+    aplyYmd: bgng.length === 8 && end.length === 8 ? `${bgng} ~ ${end}` : "",
+    bizPrdEndYmd: r.BIZ_PRD_END_YMD,
+    plcyAplyMthdCn: r.PLCY_APLY_MTHD_CN,
+    aplyUrlAddr: r.APLY_URL_ADDR,
+    refUrlAddr1: r.REF_URL_ADDR1,
+    addAplyQlfcCndCn: r.ADD_APLY_QLFC_CND_CN,
+    sprtTrgtMinAge: r.SPRT_TRGT_MIN_AGE,
+    sprtTrgtMaxAge: r.SPRT_TRGT_MAX_AGE,
+    zipCd: r.STDG_CD,
+    stdgNm: r.STDG_NM,
+    empmSttsNm: r.EMPM_STTS_NM,
+    mrgSttsNm: r.MRG_STTS_NM,
+  };
+}
 
-async function fetchApiList(key) {
-  // 테스트용 목 응답 (YOUTH_API_MOCK=파일경로)
+/* ---------------- 데이터 소스 호출 ---------------- */
+
+/** 1순위: 공식 오픈API (키 승인 전에는 필드가 전부 null) */
+async function fetchOfficialList(key) {
   if (process.env.YOUTH_API_MOCK) {
-    return JSON.parse(readFileSync(process.env.YOUTH_API_MOCK, "utf8"));
+    const json = JSON.parse(readFileSync(process.env.YOUTH_API_MOCK, "utf8"));
+    return json?.result?.youthPolicyList ?? null;
   }
+  if (!key) return null;
   const params = new URLSearchParams({
     apiKeyNm: key, pageNum: "1", pageSize: "100", rtnType: "json",
   });
   const res = await fetch(`${API_URL}?${params}`, { signal: AbortSignal.timeout(30000) });
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  return res.json();
+  if (!res.ok) throw new Error(`getPlcy HTTP ${res.status}`);
+  const json = await res.json();
+  return json?.result?.youthPolicyList ?? null;
 }
+
+/** 2순위: 온통청년 웹 통합검색 JSON (키 불필요, 최신순 정렬) */
+async function fetchPortalList() {
+  const res = await fetch(PORTAL_URL, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      Accept: "application/json",
+      Referer: "https://www.youthcenter.go.kr/youthPolicy/ythPlcyTotalSearch",
+      "User-Agent": "Mozilla/5.0 PolicyFinder/1.0 (github.com/hyeon-prog/policy-finder)",
+    },
+    body: JSON.stringify({
+      query: "", pageNum: 1, listCount: 100,
+      sortFields: "DATE/DESC", searchFields: "all",
+    }),
+    signal: AbortSignal.timeout(30000),
+  });
+  if (!res.ok) throw new Error(`portalPolicySearch HTTP ${res.status}`);
+  const json = await res.json();
+  const list = json?.searchResult?.youthpolicy;
+  return Array.isArray(list) ? list.map(normalizePortalItem) : null;
+}
+
+/* ---------------- 메인 ---------------- */
 
 const curated = JSON.parse(readFileSync(path.join(ROOT, "data", "curated.json"), "utf8"));
 const outPath = path.join(ROOT, "data", "policies.json");
 const key = process.env.YOUTH_API_KEY;
 
+await refreshSidoMap();
+
+let rawList = null;
+let sourceTag = null;
+
+// 1) 공식 API 시도
+try {
+  const list = await fetchOfficialList(key);
+  if (Array.isArray(list) && list.length && clean(list[0].plcyNm)) {
+    rawList = list;
+    sourceTag = "youthcenter";
+    console.log(`공식 오픈API 사용 — ${list.length}건 수신`);
+  } else if (Array.isArray(list) && list.length) {
+    console.log("⚠️ 공식 API 응답 필드가 마스킹됨(인증키 승인 대기 추정) — 포털 검색으로 폴백");
+  }
+} catch (e) {
+  console.log(`공식 API 실패(${e.message}) — 포털 검색으로 폴백`);
+}
+
+// 2) 포털 검색 폴백
+if (!rawList) {
+  try {
+    const list = await fetchPortalList();
+    if (Array.isArray(list) && list.length && clean(list[0].plcyNm)) {
+      rawList = list;
+      sourceTag = "youthcenter-portal";
+      console.log(`포털 통합검색 사용 — ${list.length}건 수신`);
+    }
+  } catch (e) {
+    console.log(`포털 검색 실패(${e.message}) — 큐레이션 데이터만 사용`);
+  }
+}
+
+// 3) 매핑 · 필터 · 병합
 let apiItems = [];
 let source = "curated";
 
-if (!key && !process.env.YOUTH_API_MOCK) {
-  console.log("YOUTH_API_KEY 미설정 — 큐레이션 데이터만으로 생성합니다.");
-} else {
-  const json = await fetchApiList(key);
-  const list = json?.result?.youthPolicyList;
-  if (!Array.isArray(list)) {
-    // 예상 밖 응답이면 기존 파일을 건드리지 않고 실패 (Actions 로그로 확인)
-    console.error("API 응답 형식이 예상과 다릅니다:", JSON.stringify(json).slice(0, 300));
-    process.exit(1);
-  }
-  // 진단 모드: 실제 응답 필드 확인용 (DEBUG_DUMP=1)
-  if (process.env.DEBUG_DUMP) {
-    console.log("FIELD KEYS:", Object.keys(list[0] || {}).join(","));
-    console.log("SAMPLE ITEMS:", JSON.stringify(list.slice(0, 2)).slice(0, 3500));
-    const aplyStats = {};
-    list.forEach((r) => {
-      const s = clean(r.aplyYmd).slice(0, 25) || "(empty)";
-      aplyStats[s] = (aplyStats[s] || 0) + 1;
-    });
-    console.log("APLY SAMPLES:", JSON.stringify(Object.entries(aplyStats).slice(0, 12)));
-  }
-
+if (rawList) {
   const today = todayYmdKst();
   const curatedNames = curated.items.map((it) => normName(it.name));
   const seen = new Set();
 
-  apiItems = list
+  apiItems = rawList
     .map((raw) => mapPolicy(raw, today))
-    .filter((it) => it.name)                                   // 필드 마스킹·불량 행 제외 (키 승인 전엔 전부 null)
+    .filter((it) => it.name)                                   // 불량 행 제외
     .filter((it) => it.open)                                   // 접수 중인 것만
     .filter((it) => {                                          // 큐레이션과 중복 제거
       const n = normName(it.name);
@@ -218,11 +352,9 @@ if (!key && !process.env.YOUTH_API_MOCK) {
       return !curatedNames.some((c) => n.includes(c) || c.includes(n));
     })
     .slice(0, MAX_API_ITEMS);
-  source = apiItems.length ? "curated+youthcenter" : "curated";
-  console.log(`API ${list.length}건 중 ${apiItems.length}건 채택 (유효·접수중·중복제거 후)`);
-  if (list.length > 0 && apiItems.length === 0 && !clean(list[0].plcyNm)) {
-    console.log("⚠️ 응답 필드가 전부 비어 있습니다 — 인증키가 아직 승인 대기 상태일 수 있습니다.");
-  }
+
+  if (apiItems.length) source = `curated+${sourceTag}`;
+  console.log(`${rawList.length}건 중 ${apiItems.length}건 채택 (유효·접수중·중복제거 후)`);
 }
 
 const output = {
