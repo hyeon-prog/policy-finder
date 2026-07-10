@@ -182,6 +182,18 @@ if (!key && !process.env.YOUTH_API_MOCK) {
     console.error("API 응답 형식이 예상과 다릅니다:", JSON.stringify(json).slice(0, 300));
     process.exit(1);
   }
+  // 진단 모드: 실제 응답 필드 확인용 (DEBUG_DUMP=1)
+  if (process.env.DEBUG_DUMP) {
+    console.log("FIELD KEYS:", Object.keys(list[0] || {}).join(","));
+    console.log("SAMPLE ITEMS:", JSON.stringify(list.slice(0, 2)).slice(0, 3500));
+    const aplyStats = {};
+    list.forEach((r) => {
+      const s = clean(r.aplyYmd).slice(0, 25) || "(empty)";
+      aplyStats[s] = (aplyStats[s] || 0) + 1;
+    });
+    console.log("APLY SAMPLES:", JSON.stringify(Object.entries(aplyStats).slice(0, 12)));
+  }
+
   const today = todayYmdKst();
   const curatedNames = curated.items.map((it) => normName(it.name));
   const seen = new Set();

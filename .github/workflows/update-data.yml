@@ -23,6 +23,7 @@ jobs:
       - name: Fetch latest policies from youthcenter API
         env:
           YOUTH_API_KEY: ${{ secrets.YOUTH_API_KEY }}
+          DEBUG_DUMP: "1"
         run: node scripts/fetch-policies.mjs
 
       - name: Commit & push if changed
