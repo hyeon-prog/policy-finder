@@ -44,6 +44,9 @@ const $ = (selector) => document.querySelector(selector);
 let lastMatch = null;
 let activeType = "all";
 
+// 사용 중인 데이터셋 — 기본은 번들 데이터(js/data.js), 라이브 JSON 로드 성공 시 교체
+let itemsData = { items: ITEMS, verifiedAt: DATA_VERIFIED_AT, live: false };
+
 /* ------------------------------------------------------------------ *
  * 1. 거주지 드롭다운 초기화 (시/도 → 시/군/구 연동)
  * ------------------------------------------------------------------ */
@@ -322,10 +325,12 @@ function renderLists() {
 function renderResults() {
   $("#results").classList.remove("hidden");
   $("#result-summary").textContent =
-    `전체 ${ITEMS.length}개 항목 중 바로 신청 가능 ${lastMatch.perfect.length}건, ` +
+    `전체 ${itemsData.items.length}개 항목 중 바로 신청 가능 ${lastMatch.perfect.length}건, ` +
     `접수 대기 ${lastMatch.waiting.length}건, 관심 항목 ${lastMatch.partial.length}건을 찾았습니다.`;
   $("#data-note").textContent =
-    `ℹ️ 정보 기준일 ${DATA_VERIFIED_AT} — 실제 자격·기한·금액은 각 기관 공고를 반드시 확인하세요.`;
+    `ℹ️ 정보 기준일 ${itemsData.verifiedAt}` +
+    (itemsData.live ? " · 온통청년 API 연동 데이터 포함" : "") +
+    ` — 실제 자격·기한·금액은 각 기관 공고를 반드시 확인하세요.`;
 
   renderTabs();
   renderLists();
@@ -351,7 +356,7 @@ function initForm() {
     }
     errorEl.classList.add("hidden");
 
-    lastMatch = matchItems(buildUserProfile(form), ITEMS);
+    lastMatch = matchItems(buildUserProfile(form), itemsData.items);
     activeType = "all"; // 새 검색은 항상 '전체' 탭부터
     renderResults();
   });
@@ -368,11 +373,44 @@ function initForm() {
 }
 
 /* ------------------------------------------------------------------ *
- * 7. 앱 시작
+ * 7. 라이브 데이터 로드 (GitHub Actions가 매일 갱신하는 data/policies.json)
+ * ------------------------------------------------------------------ *
+ * 같은 오리진의 정적 JSON이라 CORS·키 노출 문제가 없습니다.
+ * 로드 실패(file:// 실행, 네트워크 오류 등) 시 번들 데이터로 폴백합니다.
+ * ------------------------------------------------------------------ */
+
+async function loadLiveData() {
+  try {
+    const res = await fetch("data/policies.json", { cache: "no-store" });
+    if (!res.ok) return;
+    const json = await res.json();
+    if (!Array.isArray(json.items) || json.items.length === 0) return;
+
+    itemsData = {
+      items: json.items,
+      verifiedAt: (json.generatedAt || json.verifiedAt || DATA_VERIFIED_AT).slice(0, 10),
+      live: String(json.source || "").includes("youthcenter"),
+    };
+    $("#footer-verified").textContent = itemsData.verifiedAt;
+
+    // 이미 검색한 상태라면 새 데이터로 결과 갱신
+    if (lastMatch) {
+      lastMatch = matchItems(buildUserProfile($("#user-form")), itemsData.items);
+      renderTabs();
+      renderLists();
+    }
+  } catch (_) {
+    /* 폴백: 번들 데이터(js/data.js) 그대로 사용 */
+  }
+}
+
+/* ------------------------------------------------------------------ *
+ * 8. 앱 시작
  * ------------------------------------------------------------------ */
 initRegionSelects();
 initTabs();
 initForm();
+loadLiveData();
 
 // 푸터에 데이터 기준일 표시
 document.getElementById("footer-verified").textContent = DATA_VERIFIED_AT;
