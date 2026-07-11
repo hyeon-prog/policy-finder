@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-07-10T14:12:37.160Z",
+  "generatedAt": "2026-07-11T00:13:50.616Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -594,33 +594,6 @@
       }
     },
     {
-      "id": "yc-20260619005400213242",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026년 경북 청년창업 지역정착 지원사업 신규참여자 2차 추가모집 공고",
-      "category": "창업",
-      "summary": "창업활동비 최대 20백만원(정착활동비 포함), 교육, 컨설팅, 네트워킹 등 지원",
-      "target": "만 19~39세 — 경북 외 거주 39세 이하 예비 청년창업자 경북 지역 내 창업 지원사업 (경북 거주 청년은 경북 외 거주 청년과 팀 이룰 시 지원 가능)",
-      "deadline": "2026-06-22 ~ 2026-07-10",
-      "applyMethod": "경북경제진흥원 홈페이지(www.gepa.kr) 공고문에서 서류 확인 후 이메일(gepa02@gepa.kr) 신청",
-      "link": "https://www.gepa.kr/",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": [
-          "jobseeker"
-        ],
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
       "id": "yc-20260618005400213240",
       "type": "local",
       "open": true,
@@ -925,31 +898,6 @@
       }
     },
     {
-      "id": "yc-20260513005400213183",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026년 청년농업인(청년창업형 후계농업경영인) 영농정착지원사업(2차)",
-      "category": "창업",
-      "summary": "○ 영농정착지원금 차등 지급 · 1년차: 월 110만 원 / 2년차: 월 100만 원 / 3년차: 월 90만 원 ○ 정책자금 및 연계 지원 · 후계농업경영인 육…",
-      "target": "만 18~39세 — ○ 영농 초기 소득이 불안정한 청년농업인 대상, 최장 3년간 영농정착지원금 지급 및 농지·자금·교육 등 연계 지원",
-      "deadline": "2026-06-01 ~ 2026-07-10",
-      "applyMethod": "○ 농림사업정보시스템(농업e지) 온라인 신청",
-      "link": "https://www.nongupez.go.kr/nsm/main",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
       "id": "yc-20260513005400213196",
       "type": "local",
       "open": true,
@@ -1044,6 +992,58 @@
         ],
         "maxIncomeRatio": null,
         "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260513005400213191",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "부산청년센터 운영",
+      "category": "참여·권리",
+      "summary": "① 정책 및 확산 분야 - 청년정책 홍보 및 안내, 청년 거버넌스 운영 등 ② 참여 및 활동 분야 - 청년활동 마일리지, 소셜 다이닝, 부산청년멘토단, 청년봉사…",
+      "target": "만 18~39세 — 청년주도의 청년정책 추진 및 창의적 활동, 교류지원",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://young.busan.go.kr/bycenter/index.n",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 39,
+        "regions": [
+          "부산광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260513005400213202",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "부산 면접정장 대여서비스(드림옷장)",
+      "category": "취업",
+      "summary": "입사 면접용 정장 무료 대여 및 코디 컨설팅 - 만 15~39세 이하 부산 거주(거소) 청년 구직자 대상 정장 대여 - 자켓, 셔츠, 블라우스, 치마, 바지,…",
+      "target": "만 18~39세 — ※ 부산 거주(거소) 청년 ※ 타 지역 거주(거소) 청년의 경우 부산소재 기업 면접 시 가능",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인예약 ▷ 예약승인 ▷ 현장방문 대여 ▷ 정장 반납",
+      "link": "https://busanjob.net/yjob/view.do?no=1113",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 39,
+        "regions": [
+          "부산광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": [
+          "jobseeker"
+        ],
         "maritalStatus": null,
         "requiresChildren": false,
         "minHouseholdSize": null
