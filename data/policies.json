@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-07-11T00:13:50.616Z",
+  "generatedAt": "2026-07-13T00:14:31.755Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -392,6 +392,31 @@
       }
     },
     {
+      "id": "yc-20260708005400213251",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "「공공임대주택 청년창업공간」입주기업 모집",
+      "category": "주거",
+      "summary": "○ 개별 사무실 무상 제공 · 임차 보증금 및 임차료 지원 · 공간 규모: 전용 54㎡(약 16평) · 소재지: 전남광주통합특별시 북구 서하로194번길 2 오치…",
+      "target": "만 19~35세 — ○ 공공임대주택 상가 유휴공간을 활용, 청년 창업 활동을 지원하여 지역 활성화와 일자리 창출을 돕기 위한 청년창업공간 입주기업 모집",
+      "deadline": "2026-07-13 ~ 2026-07-29",
+      "applyMethod": "○ 신청방법: 온라인 및 방문 접수 · 온라인: 북구청 홈페이지 공지사항 확인 및 서식 작성 후 이메일 제출 · 이메일: espoirbr@ko…",
+      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1396&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 35,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
       "id": "yc-20260708005400213252",
       "type": "local",
       "open": true,
@@ -408,31 +433,6 @@
         "maxAge": 39,
         "regions": [
           "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260706005400213250",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026 청년 취업교육(N잡/프리랜서, 진로/취업 커리어 개발 교육)",
-      "category": "취업",
-      "summary": "1차) N잡·프리랜서 교육(7회) : 7.14.~8.25. (화) 19시 운영 * 신청 : ~7.12.(선착순 마감) - 교육내용 : 포트폴리오 작성, 비즈니스…",
-      "target": "만 19~39세 — 선착순 지원 / 원하는 일정 선택 시 미참여자 우선 회차별 선발",
-      "deadline": "2026-06-26 ~ 2026-07-12",
-      "applyMethod": "중랑청년청 인스타그램 참조 및 링크 네이버폼 작성 신청(1차)",
-      "link": "https://forms.gle/9q7YJFCCpry7fg8r7",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "서울특별시"
         ],
         "maxIncomeRatio": null,
         "employment": null,
