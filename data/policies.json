@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-07-13T00:14:31.755Z",
+  "generatedAt": "2026-07-14T23:38:27.909Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -292,6 +292,58 @@
       "source": "curated"
     },
     {
+      "id": "yc-20260714005400113259",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년도약 인재양성 부트캠프",
+      "category": "교육",
+      "summary": "청년도약 인재양성 부트캠프는 대학의 우수한 교육 체계와 교내 기반 시설(인프라)을 활용하여 청년들에게 재도약 기회를 제공하는 프로그램이며, 은 AI, 반도체,…",
+      "target": "만 19~34세 — 첨단산업 분야 취·창업을 희망하는 청년(만19세 ~ 34세 이하 청년)",
+      "deadline": "2026-07-07 ~ 2026-07-31",
+      "applyMethod": "(온라인신청)https://www.nais.or.kr/ 청년도약 부트캠프 ->교육프로그램 신청 -> 회원가입 및 로그인 -> 대학별 교육프로그…",
+      "link": "https://www.nais.or.kr/member/login",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 34,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260714005400113258",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "k-뉴딜 아카데미",
+      "category": "취업",
+      "summary": "ㅇ 참여 청년에게는 참여수당(최대 월 50만원까지)과 훈련비 전액 지원(자부담 없음) - 수료 후에는 고용센터를 통해 취업지원 등 고용서비스 연계 가능 ⁎︎아카…",
+      "target": "만 15~34세 — ㅇ미취업 청년(만 15세 이상~만 34세 이하) * 참여 신청일 현재 고용보험에 가입되어 있지 않은 사람",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "ㅇ 고용24(www.work24.go.kr)에서 'K-뉴딜 아카데미' 검색 후 아카데미 정보 확인 → 연계된 개별 기업 모집 페이지에서 수강…",
+      "link": "https://www.work24.go.kr/cm/c/f/1100/selecSystInfo.do?currentPageNo=1&recordCountPerPage=10&systId=SI00000512&systClId=SC00000391",
+      "eligibility": {
+        "minAge": 15,
+        "maxAge": 34,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": [
+          "jobseeker"
+        ],
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
       "id": "yc-20260710005400213255",
       "type": "local",
       "open": true,
@@ -457,7 +509,7 @@
         "minAge": 19,
         "maxAge": 39,
         "regions": [
-          "전국"
+          "전남광주통합특별시"
         ],
         "maxIncomeRatio": null,
         "employment": null,
@@ -992,58 +1044,6 @@
         ],
         "maxIncomeRatio": null,
         "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260513005400213191",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "부산청년센터 운영",
-      "category": "참여·권리",
-      "summary": "① 정책 및 확산 분야 - 청년정책 홍보 및 안내, 청년 거버넌스 운영 등 ② 참여 및 활동 분야 - 청년활동 마일리지, 소셜 다이닝, 부산청년멘토단, 청년봉사…",
-      "target": "만 18~39세 — 청년주도의 청년정책 추진 및 창의적 활동, 교류지원",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://young.busan.go.kr/bycenter/index.n",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 39,
-        "regions": [
-          "부산광역시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260513005400213202",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "부산 면접정장 대여서비스(드림옷장)",
-      "category": "취업",
-      "summary": "입사 면접용 정장 무료 대여 및 코디 컨설팅 - 만 15~39세 이하 부산 거주(거소) 청년 구직자 대상 정장 대여 - 자켓, 셔츠, 블라우스, 치마, 바지,…",
-      "target": "만 18~39세 — ※ 부산 거주(거소) 청년 ※ 타 지역 거주(거소) 청년의 경우 부산소재 기업 면접 시 가능",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인예약 ▷ 예약승인 ▷ 현장방문 대여 ▷ 정장 반납",
-      "link": "https://busanjob.net/yjob/view.do?no=1113",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 39,
-        "regions": [
-          "부산광역시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": [
-          "jobseeker"
-        ],
         "maritalStatus": null,
         "requiresChildren": false,
         "minHouseholdSize": null
