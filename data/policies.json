@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-07-20T08:21:15.918Z",
+  "generatedAt": "2026-07-21T00:15:42.195Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -448,31 +448,6 @@
       }
     },
     {
-      "id": "yc-20260710005400213255",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "[청년드림은행] 2026년 7월 가계부 워크샵 - 내꿈실현 돈관리",
-      "category": "금융",
-      "summary": "✔이런 분에게 적합해요 - 돈 관리 어떻게 시작해야 할지 모르겠어요 - 나의 한 달 지출을 알고 싶어요 - 예산을 계획하고 통장 시스템을 만들고 싶어요 - 가계…",
-      "target": "만 19~39세 — 만족스러운 돈 관리법을 찾고 계세요? 바로 여기 있어요! 나만의 꿈지도를 그리며 목표를 설정하고, 현실적인 돈 관리 방법을 듣고 싶다면 지금 바로 신청하세요! ✔ 강의 내용 맛보기 Vol. 1 돈과 관계맺기 Vo…",
-      "deadline": "2026-07-08 ~ 2026-07-20",
-      "applyMethod": "✔ 7월 20일(월)까지 신청 마감 - 일 시 : 2026년 7월 22일 (수) 저녁 7-9시 - 장 소 : 청년드림은행 (전남광주통합특별시…",
-      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1400&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
       "id": "yc-20260710005400213254",
       "type": "local",
       "open": true,
@@ -514,31 +489,6 @@
         "maxAge": null,
         "regions": [
           "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260709005400213253",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "『광주청년창업지원센터』입주스타트업(20기) 모집",
-      "category": "창업",
-      "summary": "○ 사무공간 지원 · 사무용 집기류 및 무인경비시스템 제공 ○ 편의시설 지원 · 회의실, 휴게실 등 공용시설 이용 지원 ○ 창업지원 프로그램 · 센터 보유 기술…",
-      "target": "만 15~39세 — ○ 지역 내 청년(예비)창업가 전문기업 육성 및 지원을 위한 입주스타트업 모집 · 창업 준비 공간, 입주 공간, 정보교류, 창업교육 등 창업 관련 개방형 네트워크 공간 지원",
-      "deadline": "2026-07-06 ~ 2026-07-20",
-      "applyMethod": "○ 접수방법 · 방문접수 또는 e-mail 접수 ○ 접수처 · [61436] 광주광역시 동구 동계천로 150 『I-PLEX 광주』 2층 운영본…",
-      "link": "https://www.gjtp.or.kr/home/business.cs?act=view&amp;bsnssId=2222&amp;ctg01=01,02,03,04,05,06,09,07,08,10,11,12&amp;ctg02=04&amp;ctg03=14&amp;pageIndex=1&amp;pageUnit=30&amp;searchKeyword=",
-      "eligibility": {
-        "minAge": 15,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
         ],
         "maxIncomeRatio": null,
         "employment": null,
@@ -1040,6 +990,56 @@
       "deadline": "상시 신청 (상세 공고 확인)",
       "applyMethod": "부산신용보증재단 상담 후 신청",
       "link": "https://young.busan.go.kr/index.nm?menuCd=54",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 39,
+        "regions": [
+          "부산광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260513005400213200",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "부산 청년 임차보증금 대출 및 대출이자 지원(머물자리론)",
+      "category": "주거",
+      "summary": "○ 지원내용 : 임차보증금 대출 및 대출이자 지원 - 대출한도 : 최대 1억원 이내 (임차보증금 90% 범위 내) - 이자지원 : 연소득 45백만원 이하 2.5…",
+      "target": "만 19~39세 — - 주민등록상 부산거주 무주택 청년 세대주 - 주택기준 : 임차보증금 2억원 이하 - 임대차계약을 체결하고 임차보증금 5% 이상을 지불한 자",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "부산청년플랫폼 누리집 온라인 신청",
+      "link": "https://young.busan.go.kr/index.nm?menuCd=0",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "부산광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260513005400213188",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "부산청년 글로벌 잡(JOB) 챌린지 프로젝트",
+      "category": "취업",
+      "summary": "① 해외일경험 참여 청년의 글로벌 기업 취업 매칭 - (기업) 정규직 채용 조건의 인재 채용 인건비 제공 (1인 월 150만원*최대3개월) - (청년) 채용 전…",
+      "target": "만 18~39세 — 해외일경험 참여 청년의 글로벌 기업 취업 매칭 위해 정규직 채용 조건의 인턴 채용 인건비 제공",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "'부산일자리정보망' 홈페이지",
+      "link": "https://busanjob.net",
       "eligibility": {
         "minAge": 18,
         "maxAge": 39,
