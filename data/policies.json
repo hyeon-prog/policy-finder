@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-07-21T00:15:42.195Z",
+  "generatedAt": "2026-07-23T06:37:53.330Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -336,33 +336,6 @@
         ],
         "maxIncomeRatio": null,
         "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260718005400113263",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "K-뉴딜아카데미",
-      "category": "교육",
-      "summary": "\"□ 지원대상 ○ 미취업 청년(15~34세) □ 지원내용 ○ (기업) 훈련비 지원 ○ (청년) 무료 훈련 및 참여수당 지원\"",
-      "target": "만 15~34세 — ◦ 군 경력자는 복무기간에 비례하여 참여 제한 연령을 연동하여 적용(최고 만 39세로 한정)",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.work24.go.kr",
-      "eligibility": {
-        "minAge": 15,
-        "maxAge": 34,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": [
-          "jobseeker"
-        ],
         "maritalStatus": null,
         "requiresChildren": false,
         "minHouseholdSize": null
@@ -1040,6 +1013,31 @@
       "deadline": "상시 신청 (상세 공고 확인)",
       "applyMethod": "'부산일자리정보망' 홈페이지",
       "link": "https://busanjob.net",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 39,
+        "regions": [
+          "부산광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260513005400213195",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "부산 청년 생활인구 유입 활성화(부산온나청년패스)",
+      "category": "금융",
+      "summary": "① 부산온나청년패스 신청 및 발급 - (신청) 대상자가 “부산청년플랫폼”에서 「부산온나청년패스」 신청 - (승인) 신청즉시 발급, 실시간 승인 ② 제휴업체 할인…",
+      "target": "만 18~39세 — ※ 타시도 청년(주민등록이 부산광역시 외로 등록되어 있는 청년)",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "부산청년플랫폼-부산청년정책-부산온나청년패스 신청",
+      "link": "https://young.busan.go.kr/index.nm?menuCd=269",
       "eligibility": {
         "minAge": 18,
         "maxAge": 39,
