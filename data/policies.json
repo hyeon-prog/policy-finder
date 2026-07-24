@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-07-23T06:37:53.330Z",
+  "generatedAt": "2026-07-24T00:14:55.416Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -290,6 +290,60 @@
         "minHouseholdSize": null
       },
       "source": "curated"
+    },
+    {
+      "id": "yc-20260722005400213267",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "(서해구) 청년 자격증 응시료 지원",
+      "category": "취업",
+      "summary": "○ 1인1회, 연 최대 10만원 범위 자격증시험 응시료 지원 ※ 실제 본인이 부담한 비용만 신청 가능 ○ 지원 자격증 종목 - 국가기술자격증, 국가전문자격증,…",
+      "target": "만 18~39세 — --",
+      "deadline": "2026-02-01 ~ 2026-11-30",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://youth.incheon.go.kr/youthpolicy/youthPolicyInfoDetail.do?poly_seq=465",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 39,
+        "regions": [
+          "인천광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": [
+          "jobseeker"
+        ],
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260722005400213266",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "(검단구) 청년 자격증 응시료 지원",
+      "category": "취업",
+      "summary": "○ 1인1회, 연 최대 10만원 범위 자격증시험 응시료 지원 ※ 실제 본인이 부담한 비용만 신청 가능 ○ 지원 자격증 종목 - 국가기술자격증, 국가전문자격증,…",
+      "target": "만 18~39세 — --",
+      "deadline": "2026-02-01 ~ 2026-11-30",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://youth.incheon.go.kr/youthpolicy/youthPolicyInfoDetail.do?poly_seq=462",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 39,
+        "regions": [
+          "인천광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": [
+          "jobseeker"
+        ],
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
     },
     {
       "id": "yc-20260718005400113262",
@@ -990,56 +1044,6 @@
       "link": "https://young.busan.go.kr/index.nm?menuCd=0",
       "eligibility": {
         "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "부산광역시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260513005400213188",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "부산청년 글로벌 잡(JOB) 챌린지 프로젝트",
-      "category": "취업",
-      "summary": "① 해외일경험 참여 청년의 글로벌 기업 취업 매칭 - (기업) 정규직 채용 조건의 인재 채용 인건비 제공 (1인 월 150만원*최대3개월) - (청년) 채용 전…",
-      "target": "만 18~39세 — 해외일경험 참여 청년의 글로벌 기업 취업 매칭 위해 정규직 채용 조건의 인턴 채용 인건비 제공",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "'부산일자리정보망' 홈페이지",
-      "link": "https://busanjob.net",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 39,
-        "regions": [
-          "부산광역시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260513005400213195",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "부산 청년 생활인구 유입 활성화(부산온나청년패스)",
-      "category": "금융",
-      "summary": "① 부산온나청년패스 신청 및 발급 - (신청) 대상자가 “부산청년플랫폼”에서 「부산온나청년패스」 신청 - (승인) 신청즉시 발급, 실시간 승인 ② 제휴업체 할인…",
-      "target": "만 18~39세 — ※ 타시도 청년(주민등록이 부산광역시 외로 등록되어 있는 청년)",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "부산청년플랫폼-부산청년정책-부산온나청년패스 신청",
-      "link": "https://young.busan.go.kr/index.nm?menuCd=269",
-      "eligibility": {
-        "minAge": 18,
         "maxAge": 39,
         "regions": [
           "부산광역시"
