@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-07-25T06:06:07.987Z",
+  "generatedAt": "2026-07-29T00:12:52.836Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -290,6 +290,81 @@
         "minHouseholdSize": null
       },
       "source": "curated"
+    },
+    {
+      "id": "yc-20260728005400213308",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "[남구] 구직청년 증명사진 촬영지원",
+      "category": "취업",
+      "summary": "❍ 지원기간 : 2026. 7. ~ 12. ※ 예산 소진 시 조기 마감 ❍ 지원대상 : 신청일 기준 청년 구직자로서, 본인이 남구 주민이거나 남구 소재 대학교에…",
+      "target": "만 19~39세 — [남구] 구직청년 증명사진 촬영지원",
+      "deadline": "2026-07-27 ~ 2026-12-18",
+      "applyMethod": "1) 신청 및 접수 - 신청기간: 2026. 7. 27. ~ 12. 18. ※ 예산 소진 시 조기 종료 - 신청방법: 방문 또는 이메일 신청…",
+      "link": "https://www.namgu.gwangju.kr/board.es?mid=a10604010000&bid=0001",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260728005400213310",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026년 하반기 임신부 가사지원서비스 지원사업",
+      "category": "금융",
+      "summary": "○ 가사 지원 또는 정리수납 서비스 이용 지원 · 임신부 거주지 내 청소, 정리정돈 등 가사 지원 또는 정리수납 서비스 이용 지원 · 전남광주통합특별시 자치구…",
+      "target": "만 1~99세 — ○ 임신부의 가사 어려움을 덜어주고 출산 준비를 돕기 위한 가사지원서비스 지원사업",
+      "deadline": "2026-07-28 ~ 2026-09-30",
+      "applyMethod": "○ 온라인시스템 신청 · 신청처: https://jngji.kr · 홈페이지 접속 > 광주권역 거주자 > 임신부 가사지원서비스 > 임신부 본인…",
+      "link": "https://www.xn--hc0by27bu6atul3dc6t.kr/main/housework",
+      "eligibility": {
+        "minAge": 1,
+        "maxAge": 99,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260728005400213309",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026년 찬찬히 청년 사회생활(정서·심리)지원 캠퍼스 참여자 모집",
+      "category": "금융",
+      "summary": "○ 그룹형 교육과정 운영 및 통합 힐링 워크샵 병행 · 자아존중감 향상 · 정서 및 스트레스 조절 · 의사소통 · 대인관계 · 문제해결 역량 강화 ※ 필요시 개…",
+      "target": "만 18~34세 — ○ 찬찬히 청년을 위한 맞춤형 평생학습 프로그램 · 또래 친구들과 소그룹으로 함께하며 자기 이해 및 사회생활에 필요한 소통법 학습 · 정서조절, 대인관계, 문제해결 등 사회생활 역량 강화",
+      "deadline": "2026-07-20 ~ 2026-12-31",
+      "applyMethod": "○ 네이버폼을 통한 온라인 접수 · https://naver.me/x3cfS0qQ",
+      "link": "https://form.naver.com/response/2RU8EfZleUt",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 34,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
     },
     {
       "id": "yc-20260724005400113307",
@@ -598,6 +673,31 @@
       }
     },
     {
+      "id": "yc-20260722005400213295",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026년 서구 청년도전지원사업",
+      "category": "취업",
+      "summary": "단계별 맞춤형 프로그램 및 수당(최대 350만원) 제공 - 단기(5주, 50만원×1개월) : 밀착상담, 자신감 회복, 진로탐색, 취업역량 - 중기(15주, 50…",
+      "target": "만 18~39세 — 구직 단념 청년에게 맞춤형 프로그램(단·중·장기)을 통해 취업 의지 격려 및 쉬었음 상태 장기화 방지 등",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "신청(고용 24 또는 센터 방문) → 신청자 조건 확인 → 프로그램 참여자 선정 ※ 온라인 신청시 운영기관 &apos;서구 청년도전지원센터&a…",
+      "link": "https://www.work24.go.kr/wk/g/b/1100/busiIntro.do",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 39,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
       "id": "yc-20260722005400213271",
       "type": "local",
       "open": true,
@@ -636,31 +736,6 @@
       "link": "https://youth.gwangju.go.kr/www/51?siteId=www&plcyNo=20260618005400213239&url=%2Fwww%2Fpolicy%2FallYgPolicyView",
       "eligibility": {
         "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260722005400213295",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026년 서구 청년도전지원사업",
-      "category": "취업",
-      "summary": "단계별 맞춤형 프로그램 및 수당(최대 350만원) 제공 - 단기(5주, 50만원×1개월) : 밀착상담, 자신감 회복, 진로탐색, 취업역량 - 중기(15주, 50…",
-      "target": "만 18~39세 — 구직 단념 청년에게 맞춤형 프로그램(단·중·장기)을 통해 취업 의지 격려 및 쉬었음 상태 장기화 방지 등",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "신청(고용 24 또는 센터 방문) → 신청자 조건 확인 → 프로그램 참여자 선정 ※ 온라인 신청시 운영기관 &apos;서구 청년도전지원센터&a…",
-      "link": "https://www.work24.go.kr/wk/g/b/1100/busiIntro.do",
-      "eligibility": {
-        "minAge": 18,
         "maxAge": 39,
         "regions": [
           "전남광주통합특별시"
@@ -898,31 +973,6 @@
       }
     },
     {
-      "id": "yc-20260722005400213285",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026년 성인진로상담",
-      "category": "교육",
-      "summary": "○ 맞춤형 1:1 상담 제공 · 진로 설계 · 경력 전환 · 학습 방향 · 관계 및 마음 고민 상담 ○ 상담 운영 · 상담 신청 후 성인진로컨설턴트 파견 · 상…",
-      "target": "만 1~99세 — ○ 광주시민이 자신의 진로를 자각, 탐색, 계획, 준비, 관리할 수 있도록 무료 상담 제공 · 진흥원에서 양성한 성인진로컨설턴트 파견 · 생애주기에 맞는 맞춤형 1:1 상담 제공",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "○ 신청방법 · 진흥원 홈페이지(www.gie.kr) 접속 · 성인진로상담 메뉴 클릭 · 정보입력 후 접수",
-      "link": "https://youth.gwangju.go.kr/www/51?siteId=www&plcyNo=20260618005400213240&url=%2Fwww%2Fpolicy%2FallYgPolicyView",
-      "eligibility": {
-        "minAge": 1,
-        "maxAge": 99,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
       "id": "yc-20260722005400213297",
       "type": "local",
       "open": true,
@@ -948,67 +998,17 @@
       }
     },
     {
-      "id": "yc-20260722005400213289",
+      "id": "yc-20260722005400213285",
       "type": "local",
       "open": true,
       "source": "youthcenter",
-      "name": "2026 마음건강상담소 2차 참여자 모집 (접수 마감)",
-      "category": "금융",
-      "summary": "· 1:1 전문 심리상담 제공 (기본 6회기, 최대 8회기) · 필요 시 심리검사 지원 · 마음건강 증진 프로그램 운영",
-      "target": "만 19~39세 — 청년 정신건강 증진을 위한 1:1 전문심리상담 지원",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "광주청년통합플랫폼 온라인 신청 → 상담소 배정 → 마음건강 상담 진행 → 만족도 조사",
-      "link": "https://youth.gwangju.go.kr/www/50?formSeq=100&mapngColumn=policy_id&mapngId=1383&url=%2Fwww%2Fform%2FapplFormView",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260722005400213268",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026년 「청년농업인 스마트창농 교육」",
+      "name": "2026년 성인진로상담",
       "category": "교육",
-      "summary": "○ 청년농업인 스마트창농 교육 운영 · 교육장소: 전남광주통합특별시농업기술센터 스마트농업교육관 등 · 교육내용: 유통경영, 마케팅, 브랜딩 실무교육 등 · 주요…",
-      "target": "만 18~45세 — ○ 농산물 유통·마케팅 교육을 통한 청년농업인의 경영혁신 역량 강화 · 유통경영, 마케팅, 브랜딩 실무교육 등",
-      "deadline": "2026-07-16 ~ 2026-07-31",
-      "applyMethod": "○ 제출방법: 이메일 또는 방문접수 · 이메일: youmin9355@korea.kr · 방문신청: 09:00~18:00 농업기술센터 농업지원과…",
-      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1407&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 45,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260722005400213273",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026년 신혼부부 전세자금 대출이자 지원 안내",
-      "category": "주거",
-      "summary": "○ 납입 대출이자의 일부 지원 · 무자녀 0.5% · 1자녀 0.7% · 2자녀이상 1.0% ○ 지원한도 · 대출 신청자가 은행에 납입한 총 이자액 범위 내 ○…",
-      "target": "만 1~99세 — ○ 「주택도시기금 신혼부부 전용 전세자금대출」 신규 대출자 및 대출 연장자 대출이자 지원 · 납입 대출이자의 일부 지원 · 무자녀 0.5%, 1자녀 0.7%, 2자녀이상 1.0%",
-      "deadline": "2026-01-05 ~ 2026-10-30",
-      "applyMethod": "○ 신청방법 : 광주아이키움플랫폼 확인 후 신청 및 청구(구비서류 첨부)",
-      "link": "https://www.xn--hc0by27bu6atul3dc6t.kr/main/rentSubsidy",
+      "summary": "○ 맞춤형 1:1 상담 제공 · 진로 설계 · 경력 전환 · 학습 방향 · 관계 및 마음 고민 상담 ○ 상담 운영 · 상담 신청 후 성인진로컨설턴트 파견 · 상…",
+      "target": "만 1~99세 — ○ 광주시민이 자신의 진로를 자각, 탐색, 계획, 준비, 관리할 수 있도록 무료 상담 제공 · 진흥원에서 양성한 성인진로컨설턴트 파견 · 생애주기에 맞는 맞춤형 1:1 상담 제공",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "○ 신청방법 · 진흥원 홈페이지(www.gie.kr) 접속 · 성인진로상담 메뉴 클릭 · 정보입력 후 접수",
+      "link": "https://youth.gwangju.go.kr/www/51?siteId=www&plcyNo=20260618005400213240&url=%2Fwww%2Fpolicy%2FallYgPolicyView",
       "eligibility": {
         "minAge": 1,
         "maxAge": 99,
@@ -1023,20 +1023,20 @@
       }
     },
     {
-      "id": "yc-20260722005400213277",
+      "id": "yc-20260722005400213289",
       "type": "local",
       "open": true,
       "source": "youthcenter",
-      "name": "[22개 시·군] 2026 청년 잡업 프로젝트 자격증 취득 온라인 수강권 지원사업",
-      "category": "교육",
-      "summary": "전남광주통합특별시 22개 시·군 거주 미취업 청년(19~34세) 1,100명 대상 다양한 강의로 원하는 스펙 쌓기! 자격증 관련 약 1,600개 이상 강의 수강…",
-      "target": "만 19~34세 — 취업 경쟁력 강화를 위한 미취업 청년 대상 자격증 취득 온라인 수강권 지원(7개 분야 약 1,600개 이상 강의 제공)",
-      "deadline": "2026-07-24 ~ 2026-08-23",
-      "applyMethod": "온라인 신청 → 신청자 정보 조회 → 대상자 선정 안내 → 학습시작 → 만족도 조사",
-      "link": "https://youth.gwangju.go.kr/www/50?formSeq=127&mapngColumn=policy_id&mapngId=1394&url=%2Fwww%2Fform%2FapplFormView",
+      "name": "2026 마음건강상담소 2차 참여자 모집 (접수 마감)",
+      "category": "금융",
+      "summary": "· 1:1 전문 심리상담 제공 (기본 6회기, 최대 8회기) · 필요 시 심리검사 지원 · 마음건강 증진 프로그램 운영",
+      "target": "만 19~39세 — 청년 정신건강 증진을 위한 1:1 전문심리상담 지원",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "광주청년통합플랫폼 온라인 신청 → 상담소 배정 → 마음건강 상담 진행 → 만족도 조사",
+      "link": "https://youth.gwangju.go.kr/www/50?formSeq=100&mapngColumn=policy_id&mapngId=1383&url=%2Fwww%2Fform%2FapplFormView",
       "eligibility": {
         "minAge": 19,
-        "maxAge": 34,
+        "maxAge": 39,
         "regions": [
           "전남광주통합특별시"
         ],
