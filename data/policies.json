@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-07-29T00:12:52.836Z",
+  "generatedAt": "2026-07-30T00:15:26.767Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -290,6 +290,56 @@
         "minHouseholdSize": null
       },
       "source": "curated"
+    },
+    {
+      "id": "yc-20260729005400113312",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "충남형 청년 한달살이 프로그램 운영",
+      "category": "참여·권리",
+      "summary": "2~4주간 타 시도 청년들에게 충남에서의 주거, 생활, 일자리 체험 등을 제공하여 지역유입 및 정착 유도 ※ 2026년 부여군, 서천군, 홍성군, 예산군 진행",
+      "target": "만 19~39세 — 해당 없음",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "별도 문의",
+      "link": "https://www.chungnam.go.kr/cnportal/media/article/view.do?articleNo=MD0003388797&menuNo=500167",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "충청남도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260729005400213313",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "전남광주 기후에너지 JOB 스쿨 참가자 모집",
+      "category": "취업",
+      "summary": "○ 교육비 무료 ○ 참여혜택 · 전체의 80%(13시간) 이상 수강 시 기후에너지진흥원장 명의 이수증 발급 · 점심 식사, 교육 교재 및 현장 탐방 차량 지원…",
+      "target": "만 19~39세 — ○ 기후에너지 분야 직업 탐색 프로그램 · 지역 대학생 및 청년 대상 기후·에너지 관련 직업 및 취업정보, 최신 트렌드 파악 교육 과정 운영 · 교육명: 전남광주 기후에너지 JOB 스쿨",
+      "deadline": "2026-07-23 ~ 2026-08-06",
+      "applyMethod": "○ 신청방법 : 온라인 신청(선착순) / https://forms.gle/2qzzCSAu5EyaEEJi7",
+      "link": "https://forms.gle/2qzzCSAu5EyaEEJi7",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
     },
     {
       "id": "yc-20260728005400213308",
@@ -648,31 +698,6 @@
       }
     },
     {
-      "id": "yc-20260722005400213276",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "「공공임대주택 청년창업공간」입주기업 모집",
-      "category": "주거",
-      "summary": "○ 개별 사무실 무상 제공 · 임차 보증금 및 임차료 지원 · 공간 규모: 전용 54㎡(약 16평) · 소재지: 전남광주통합특별시 북구 서하로194번길 2 오치…",
-      "target": "만 19~35세 — ○ 공공임대주택 상가 유휴공간을 활용, 청년 창업 활동을 지원하여 지역 활성화와 일자리 창출을 돕기 위한 청년창업공간 입주기업 모집",
-      "deadline": "2026-07-13 ~ 2026-07-29",
-      "applyMethod": "○ 신청방법: 온라인 및 방문 접수 · 온라인: 북구청 홈페이지 공지사항 확인 및 서식 작성 후 이메일 제출 · 이메일: espoirbr@ko…",
-      "link": "https://youth.gwangju.go.kr/www/51?siteId=www&plcyNo=20260708005400213251&url=%2Fwww%2Fpolicy%2FallYgPolicyView",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 35,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
       "id": "yc-20260722005400213295",
       "type": "local",
       "open": true,
@@ -698,17 +723,17 @@
       }
     },
     {
-      "id": "yc-20260722005400213271",
+      "id": "yc-20260722005400213287",
       "type": "local",
       "open": true,
       "source": "youthcenter",
-      "name": "[광주 서구] 마음회복×진로설계 특강",
-      "category": "교육",
-      "summary": "○ (오전) 미술치료 : 그림검사(빗속의 사람)을 통해 집단 동질감으로 고립감을 해소하고 취업 준비 과정의 심리적 어려움을 정황하여 자기 이해 증진 ○ (오후)…",
-      "target": "만 19~39세 — 진로 불안에서 오는 스트레스에 대해 극복할수 있도록 긍정 감정의 선순환 구조를 만들고, 개인이 가진 핵심 강점 영역으로 인생의 방향성을 (재)설계 할수 있도록 지원",
-      "deadline": "2026-07-20 ~ 2026-08-07",
-      "applyMethod": "(7. 20. ~ 8. 7.) 참여자 모집 - (8. 13.) 선정자 개별 문자 - (8. 20.) 진로설계 특강 운영 - (~8월) 활동증명…",
-      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1404&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "name": "2026년 서구 하반기 청년강사 모집",
+      "category": "참여·권리",
+      "summary": "1. 서구 청년 PI스쿨 청년강사 POOL 등록 2. 선정자 대상 강사비 및 재료비 등 지원 3. 우수 청년강사 대상 재등록",
+      "target": "만 19~39세 — 광주광역시 서구에서 청년의 지식과 재능을 공유하는 환경 조성을 위해 「2026년 서구 청년 PI스쿨」청년강사 하반기 참여자를 모집하고자 합니다. 다양한 분야에서 경험을 지닌 서구 청년이라면 누구나 지원 가능하오니…",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "신청(이메일접수) - 서류 검토 - 선정자발표 - 프로그램 운영",
+      "link": "https://youth.gwangju.go.kr/www/51?siteId=www&plcyNo=20260618005400213239&url=%2Fwww%2Fpolicy%2FallYgPolicyView",
       "eligibility": {
         "minAge": 19,
         "maxAge": 39,
@@ -723,17 +748,17 @@
       }
     },
     {
-      "id": "yc-20260722005400213287",
+      "id": "yc-20260722005400213271",
       "type": "local",
       "open": true,
       "source": "youthcenter",
-      "name": "2026년 서구 하반기 청년강사 모집",
-      "category": "참여·권리",
-      "summary": "1. 서구 청년 PI스쿨 청년강사 POOL 등록 2. 선정자 대상 강사비 및 재료비 등 지원 3. 우수 청년강사 대상 재등록",
-      "target": "만 19~39세 — 광주광역시 서구에서 청년의 지식과 재능을 공유하는 환경 조성을 위해 「2026년 서구 청년 PI스쿨」청년강사 하반기 참여자를 모집하고자 합니다. 다양한 분야에서 경험을 지닌 서구 청년이라면 누구나 지원 가능하오니…",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "신청(이메일접수) - 서류 검토 - 선정자발표 - 프로그램 운영",
-      "link": "https://youth.gwangju.go.kr/www/51?siteId=www&plcyNo=20260618005400213239&url=%2Fwww%2Fpolicy%2FallYgPolicyView",
+      "name": "[광주 서구] 마음회복×진로설계 특강",
+      "category": "교육",
+      "summary": "○ (오전) 미술치료 : 그림검사(빗속의 사람)을 통해 집단 동질감으로 고립감을 해소하고 취업 준비 과정의 심리적 어려움을 정황하여 자기 이해 증진 ○ (오후)…",
+      "target": "만 19~39세 — 진로 불안에서 오는 스트레스에 대해 극복할수 있도록 긍정 감정의 선순환 구조를 만들고, 개인이 가진 핵심 강점 영역으로 인생의 방향성을 (재)설계 할수 있도록 지원",
+      "deadline": "2026-07-20 ~ 2026-08-07",
+      "applyMethod": "(7. 20. ~ 8. 7.) 참여자 모집 - (8. 13.) 선정자 개별 문자 - (8. 20.) 진로설계 특강 운영 - (~8월) 활동증명…",
+      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1404&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
       "eligibility": {
         "minAge": 19,
         "maxAge": 39,
@@ -1012,31 +1037,6 @@
       "eligibility": {
         "minAge": 1,
         "maxAge": 99,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260722005400213289",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026 마음건강상담소 2차 참여자 모집 (접수 마감)",
-      "category": "금융",
-      "summary": "· 1:1 전문 심리상담 제공 (기본 6회기, 최대 8회기) · 필요 시 심리검사 지원 · 마음건강 증진 프로그램 운영",
-      "target": "만 19~39세 — 청년 정신건강 증진을 위한 1:1 전문심리상담 지원",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "광주청년통합플랫폼 온라인 신청 → 상담소 배정 → 마음건강 상담 진행 → 만족도 조사",
-      "link": "https://youth.gwangju.go.kr/www/50?formSeq=100&mapngColumn=policy_id&mapngId=1383&url=%2Fwww%2Fform%2FapplFormView",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
         "regions": [
           "전남광주통합특별시"
         ],
