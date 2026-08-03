@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-07-30T00:15:26.767Z",
+  "generatedAt": "2026-08-03T08:51:57.709Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -292,6 +292,31 @@
       "source": "curated"
     },
     {
+      "id": "yc-20260731005400213314",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "[8월 접수] 2026년 구직청년 자격증 취득지원 사업(8월 3일 10시 접수 예정)",
+      "category": "교육",
+      "summary": "※ 단계별 시험(필기,실기 등)은 명칭과 상관 없이 합산 신청 가능(개별 신청하여 지급 완료 시, 당해 연도 추가 신청 및 소급 지원 불가) ❍ 지원분야 - 한…",
+      "target": "만 19~39세 — 구직활동에 필요한 어학(능력)·자격증 시험 응시료 지원",
+      "deadline": "2026-08-03 ~ 2026-08-31",
+      "applyMethod": "시험 응시 → 전남광주통합특별시청년통합플랫폼 접수 → 제출 서류 확인 (자격심사 및 중복지원여부 조회) → 선정안내 및 만족도조사 → 지원금…",
+      "link": "https://youth.gwangju.go.kr/www/50?formSeq=130&mapngColumn=policy_id&mapngId=1408&url=%2Fwww%2Fform%2FapplFormView",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
       "id": "yc-20260729005400113312",
       "type": "policy",
       "open": true,
@@ -331,6 +356,31 @@
       "eligibility": {
         "minAge": 19,
         "maxAge": 39,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260728005400213311",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "전남광주 청년 문화복지카드",
+      "category": "금융",
+      "summary": "청년의 문화생활 향유 및 자기계발 지원 위한 문화복지비 연 25만원 지원",
+      "target": "만 19~29세 — 전남광주통합특별시 22개 시·군에 거주하는 청년을 대상으로 공연관람, 학원수강, 도서구입 등을 위한 문화복지비 연 25만원 지원",
+      "deadline": "2026-08-03 ~ 2026-08-31",
+      "applyMethod": "(시 거주자) 광주은행 홈페이지 또는 주소지 읍·면·동사무소 방문신청 (군 거주자) 농협카드 홈페이지 또는 주소지 읍·면·동사무소 방문신청",
+      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1409&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 29,
         "regions": [
           "전남광주통합특별시"
         ],
@@ -698,31 +748,6 @@
       }
     },
     {
-      "id": "yc-20260722005400213295",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026년 서구 청년도전지원사업",
-      "category": "취업",
-      "summary": "단계별 맞춤형 프로그램 및 수당(최대 350만원) 제공 - 단기(5주, 50만원×1개월) : 밀착상담, 자신감 회복, 진로탐색, 취업역량 - 중기(15주, 50…",
-      "target": "만 18~39세 — 구직 단념 청년에게 맞춤형 프로그램(단·중·장기)을 통해 취업 의지 격려 및 쉬었음 상태 장기화 방지 등",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "신청(고용 24 또는 센터 방문) → 신청자 조건 확인 → 프로그램 참여자 선정 ※ 온라인 신청시 운영기관 &apos;서구 청년도전지원센터&a…",
-      "link": "https://www.work24.go.kr/wk/g/b/1100/busiIntro.do",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
       "id": "yc-20260722005400213287",
       "type": "local",
       "open": true,
@@ -748,19 +773,19 @@
       }
     },
     {
-      "id": "yc-20260722005400213271",
+      "id": "yc-20260722005400213295",
       "type": "local",
       "open": true,
       "source": "youthcenter",
-      "name": "[광주 서구] 마음회복×진로설계 특강",
-      "category": "교육",
-      "summary": "○ (오전) 미술치료 : 그림검사(빗속의 사람)을 통해 집단 동질감으로 고립감을 해소하고 취업 준비 과정의 심리적 어려움을 정황하여 자기 이해 증진 ○ (오후)…",
-      "target": "만 19~39세 — 진로 불안에서 오는 스트레스에 대해 극복할수 있도록 긍정 감정의 선순환 구조를 만들고, 개인이 가진 핵심 강점 영역으로 인생의 방향성을 (재)설계 할수 있도록 지원",
-      "deadline": "2026-07-20 ~ 2026-08-07",
-      "applyMethod": "(7. 20. ~ 8. 7.) 참여자 모집 - (8. 13.) 선정자 개별 문자 - (8. 20.) 진로설계 특강 운영 - (~8월) 활동증명…",
-      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1404&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "name": "2026년 서구 청년도전지원사업",
+      "category": "취업",
+      "summary": "단계별 맞춤형 프로그램 및 수당(최대 350만원) 제공 - 단기(5주, 50만원×1개월) : 밀착상담, 자신감 회복, 진로탐색, 취업역량 - 중기(15주, 50…",
+      "target": "만 18~39세 — 구직 단념 청년에게 맞춤형 프로그램(단·중·장기)을 통해 취업 의지 격려 및 쉬었음 상태 장기화 방지 등",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "신청(고용 24 또는 센터 방문) → 신청자 조건 확인 → 프로그램 참여자 선정 ※ 온라인 신청시 운영기관 &apos;서구 청년도전지원센터&a…",
+      "link": "https://www.work24.go.kr/wk/g/b/1100/busiIntro.do",
       "eligibility": {
-        "minAge": 19,
+        "minAge": 18,
         "maxAge": 39,
         "regions": [
           "전남광주통합특별시"
@@ -984,31 +1009,6 @@
       "deadline": "상시 신청 (상세 공고 확인)",
       "applyMethod": "광주청년통합플랫폼 신청 또는 첨부파일의 신청서 양식을 작성하여 담당자 e-mail 제출 ( ssg6012@gjyouthcenter.kr )",
       "link": "https://youth.gwangju.go.kr/www/50?formSeq=99&mapngColumn=policy_id&mapngId=1379&url=%2Fwww%2Fform%2FapplFormView",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260722005400213297",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026년 광산구 구직청년 자격증 취득비용 지원사업",
-      "category": "교육",
-      "summary": "o 접수기간: 2026. 2. 2.(월) 09:00 ~ 11. 30.(월) 18:00 ※ 예산 소진 시 조기 마감 o 지원대상: 광산구에 주민등록을 둔 미취업…",
-      "target": "만 19~39세 — 광산구의 청년의 구직활동에 대한 경제적 부담 완화 및 취업역량 강화 기여하고자 구직청년 자격증 취득비용 지원사업 시행",
-      "deadline": "2026-02-02 ~ 2026-11-30",
-      "applyMethod": "o 접수방법 - 직접방문 : 광산구청 3층, 일자리정책과 - 이 메 일 : gwangsanjob@korea.kr",
-      "link": "https://youth.gwangju.go.kr/www/50?formSeq=-1&mapngColumn=policy_id&mapngId=1268&url=%2Fwww%2Fform%2FapplFormView",
       "eligibility": {
         "minAge": 19,
         "maxAge": 39,
