@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-08-03T08:51:57.709Z",
+  "generatedAt": "2026-08-04T06:16:52.457Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -1023,20 +1023,20 @@
       }
     },
     {
-      "id": "yc-20260722005400213285",
+      "id": "yc-20260722005400213297",
       "type": "local",
       "open": true,
       "source": "youthcenter",
-      "name": "2026년 성인진로상담",
+      "name": "2026년 광산구 구직청년 자격증 취득비용 지원사업",
       "category": "교육",
-      "summary": "○ 맞춤형 1:1 상담 제공 · 진로 설계 · 경력 전환 · 학습 방향 · 관계 및 마음 고민 상담 ○ 상담 운영 · 상담 신청 후 성인진로컨설턴트 파견 · 상…",
-      "target": "만 1~99세 — ○ 광주시민이 자신의 진로를 자각, 탐색, 계획, 준비, 관리할 수 있도록 무료 상담 제공 · 진흥원에서 양성한 성인진로컨설턴트 파견 · 생애주기에 맞는 맞춤형 1:1 상담 제공",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "○ 신청방법 · 진흥원 홈페이지(www.gie.kr) 접속 · 성인진로상담 메뉴 클릭 · 정보입력 후 접수",
-      "link": "https://youth.gwangju.go.kr/www/51?siteId=www&plcyNo=20260618005400213240&url=%2Fwww%2Fpolicy%2FallYgPolicyView",
+      "summary": "o 접수기간: 2026. 2. 2.(월) 09:00 ~ 11. 30.(월) 18:00 ※ 예산 소진 시 조기 마감 o 지원대상: 광산구에 주민등록을 둔 미취업…",
+      "target": "만 19~39세 — 광산구의 청년의 구직활동에 대한 경제적 부담 완화 및 취업역량 강화 기여하고자 구직청년 자격증 취득비용 지원사업 시행",
+      "deadline": "2026-02-02 ~ 2026-11-30",
+      "applyMethod": "o 접수방법 - 직접방문 : 광산구청 3층, 일자리정책과 - 이 메 일 : gwangsanjob@korea.kr",
+      "link": "https://youth.gwangju.go.kr/www/50?formSeq=-1&mapngColumn=policy_id&mapngId=1268&url=%2Fwww%2Fform%2FapplFormView",
       "eligibility": {
-        "minAge": 1,
-        "maxAge": 99,
+        "minAge": 19,
+        "maxAge": 39,
         "regions": [
           "전남광주통합특별시"
         ],
