@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-08-04T06:16:52.457Z",
+  "generatedAt": "2026-08-05T06:14:16.511Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -290,6 +290,56 @@
         "minHouseholdSize": null
       },
       "source": "curated"
+    },
+    {
+      "id": "yc-20260804005400213319",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026. 「은평 청년 버스킹 페스타」 참가자 모집",
+      "category": "참여·권리",
+      "summary": "춤, 노래, 연주, 마술, 악기연주 등 청년 버스킹 경연 및 시상 - 시상내역 : (1등) 100만원, (2등)50만원, (3등) 30만원",
+      "target": "만 19~39세 — 19~39세 청년, 청년 모임 및 동아리",
+      "deadline": "2026-07-27 ~ 2026-08-14",
+      "applyMethod": "1) 구글 폼 링크 접속 또는 QR코드 스캔하여 신청서 접수 2) 30~90초 공연 영상 이메일 제출 - 주소 : jh0101@ep.go.kr…",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfkA3BXF4T1hK_qj7koxZor2BDTYhBj3iKahMX0yPkruUEUeg/viewform",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "서울특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260803005400213317",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "(광양시)광양청년꿈터 드림클래스",
+      "category": "교육",
+      "summary": "(강사) 강의 기회 제공, 강사비 및 재료비 지원 (수강자) 드림클래스 수강 기회 제공",
+      "target": "만 18~45세 — 광양청년꿈터 청년DB 및 국무조정실 청년인재DB 등록 완료자",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://gwangyang.go.kr/youth/kr/board/view.do?bbsId=BBS_000000000000000&nttId=6906&menuNo=102002000000",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 45,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
     },
     {
       "id": "yc-20260731005400213314",
@@ -986,56 +1036,6 @@
       "link": "https://bukgu.gwangju.kr/board.es?mid=c20201000000&bid=0330&act=view&list_no=407",
       "eligibility": {
         "minAge": 15,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260722005400213293",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년정책 서포터즈 2기",
-      "category": "참여·권리",
-      "summary": "활동실적에 따른 콘텐츠 제작비 지원 교육지원: 분야별 역량강화 교육(4회, 2시간)",
-      "target": "만 19~39세 — 2026 청년정책 통합홍보사업으로 추진되는 청년정책 서포터즈 2기를 모집합니다 청년의 시선으로 청년과 정책을 연결합니다!",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "광주청년통합플랫폼 신청 또는 첨부파일의 신청서 양식을 작성하여 담당자 e-mail 제출 ( ssg6012@gjyouthcenter.kr )",
-      "link": "https://youth.gwangju.go.kr/www/50?formSeq=99&mapngColumn=policy_id&mapngId=1379&url=%2Fwww%2Fform%2FapplFormView",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260722005400213297",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026년 광산구 구직청년 자격증 취득비용 지원사업",
-      "category": "교육",
-      "summary": "o 접수기간: 2026. 2. 2.(월) 09:00 ~ 11. 30.(월) 18:00 ※ 예산 소진 시 조기 마감 o 지원대상: 광산구에 주민등록을 둔 미취업…",
-      "target": "만 19~39세 — 광산구의 청년의 구직활동에 대한 경제적 부담 완화 및 취업역량 강화 기여하고자 구직청년 자격증 취득비용 지원사업 시행",
-      "deadline": "2026-02-02 ~ 2026-11-30",
-      "applyMethod": "o 접수방법 - 직접방문 : 광산구청 3층, 일자리정책과 - 이 메 일 : gwangsanjob@korea.kr",
-      "link": "https://youth.gwangju.go.kr/www/50?formSeq=-1&mapngColumn=policy_id&mapngId=1268&url=%2Fwww%2Fform%2FapplFormView",
-      "eligibility": {
-        "minAge": 19,
         "maxAge": 39,
         "regions": [
           "전남광주통합특별시"
