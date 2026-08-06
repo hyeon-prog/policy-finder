@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-08-05T06:14:16.511Z",
+  "generatedAt": "2026-08-06T00:13:25.640Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -331,31 +331,6 @@
       "eligibility": {
         "minAge": 18,
         "maxAge": 45,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260731005400213314",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "[8월 접수] 2026년 구직청년 자격증 취득지원 사업(8월 3일 10시 접수 예정)",
-      "category": "교육",
-      "summary": "※ 단계별 시험(필기,실기 등)은 명칭과 상관 없이 합산 신청 가능(개별 신청하여 지급 완료 시, 당해 연도 추가 신청 및 소급 지원 불가) ❍ 지원분야 - 한…",
-      "target": "만 19~39세 — 구직활동에 필요한 어학(능력)·자격증 시험 응시료 지원",
-      "deadline": "2026-08-03 ~ 2026-08-31",
-      "applyMethod": "시험 응시 → 전남광주통합특별시청년통합플랫폼 접수 → 제출 서류 확인 (자격심사 및 중복지원여부 조회) → 선정안내 및 만족도조사 → 지원금…",
-      "link": "https://youth.gwangju.go.kr/www/50?formSeq=130&mapngColumn=policy_id&mapngId=1408&url=%2Fwww%2Fform%2FapplFormView",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
         "regions": [
           "전남광주통합특별시"
         ],
@@ -1036,6 +1011,31 @@
       "link": "https://bukgu.gwangju.kr/board.es?mid=c20201000000&bid=0330&act=view&list_no=407",
       "eligibility": {
         "minAge": 15,
+        "maxAge": 39,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260722005400213293",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년정책 서포터즈 2기",
+      "category": "참여·권리",
+      "summary": "활동실적에 따른 콘텐츠 제작비 지원 교육지원: 분야별 역량강화 교육(4회, 2시간)",
+      "target": "만 19~39세 — 2026 청년정책 통합홍보사업으로 추진되는 청년정책 서포터즈 2기를 모집합니다 청년의 시선으로 청년과 정책을 연결합니다!",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "광주청년통합플랫폼 신청 또는 첨부파일의 신청서 양식을 작성하여 담당자 e-mail 제출 ( ssg6012@gjyouthcenter.kr )",
+      "link": "https://youth.gwangju.go.kr/www/50?formSeq=99&mapngColumn=policy_id&mapngId=1379&url=%2Fwww%2Fform%2FapplFormView",
+      "eligibility": {
+        "minAge": 19,
         "maxAge": 39,
         "regions": [
           "전남광주통합특별시"
