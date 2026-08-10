@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-08-07T21:44:22.676Z",
+  "generatedAt": "2026-08-10T21:48:02.116Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -798,31 +798,6 @@
       }
     },
     {
-      "id": "yc-20260722005400213287",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026년 서구 하반기 청년강사 모집",
-      "category": "참여·권리",
-      "summary": "1. 서구 청년 PI스쿨 청년강사 POOL 등록 2. 선정자 대상 강사비 및 재료비 등 지원 3. 우수 청년강사 대상 재등록",
-      "target": "만 19~39세 — 광주광역시 서구에서 청년의 지식과 재능을 공유하는 환경 조성을 위해 「2026년 서구 청년 PI스쿨」청년강사 하반기 참여자를 모집하고자 합니다. 다양한 분야에서 경험을 지닌 서구 청년이라면 누구나 지원 가능하오니…",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "신청(이메일접수) - 서류 검토 - 선정자발표 - 프로그램 운영",
-      "link": "https://youth.gwangju.go.kr/www/51?siteId=www&plcyNo=20260618005400213239&url=%2Fwww%2Fpolicy%2FallYgPolicyView",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
       "id": "yc-20260722005400213295",
       "type": "local",
       "open": true,
@@ -836,6 +811,31 @@
       "link": "https://www.work24.go.kr/wk/g/b/1100/busiIntro.do",
       "eligibility": {
         "minAge": 18,
+        "maxAge": 39,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260722005400213287",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026년 서구 하반기 청년강사 모집",
+      "category": "참여·권리",
+      "summary": "1. 서구 청년 PI스쿨 청년강사 POOL 등록 2. 선정자 대상 강사비 및 재료비 등 지원 3. 우수 청년강사 대상 재등록",
+      "target": "만 19~39세 — 광주광역시 서구에서 청년의 지식과 재능을 공유하는 환경 조성을 위해 「2026년 서구 청년 PI스쿨」청년강사 하반기 참여자를 모집하고자 합니다. 다양한 분야에서 경험을 지닌 서구 청년이라면 누구나 지원 가능하오니…",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "신청(이메일접수) - 서류 검토 - 선정자발표 - 프로그램 운영",
+      "link": "https://youth.gwangju.go.kr/www/51?siteId=www&plcyNo=20260618005400213239&url=%2Fwww%2Fpolicy%2FallYgPolicyView",
+      "eligibility": {
+        "minAge": 19,
         "maxAge": 39,
         "regions": [
           "전남광주통합특별시"
