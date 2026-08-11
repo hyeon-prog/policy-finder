@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-08-10T21:48:02.116Z",
+  "generatedAt": "2026-08-11T21:54:05.720Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -290,6 +290,106 @@
         "minHouseholdSize": null
       },
       "source": "curated"
+    },
+    {
+      "id": "yc-20260810005400213326",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "사회연대경제 청년 일경험사업 시범사업(3차)",
+      "category": "취업",
+      "summary": "○ 직무교육 · 교육시간: 총 20시간(1일 최대 8시간 편성) · 교육내용: 사회연대경제 이해 및 직무 기초역량 강화, 참여청년 직무 분야별 실무교육, 진로…",
+      "target": "만 19~39세 — ○ 사회연대경제 청년 일경험 시범사업 참여청년 3차 모집 · 미취업 청년에게 사회연대경제 분야 일경험 기회 제공 · 노동시장 진입 기반 마련 · 진로탐색 및 직무역량 강화 지원",
+      "deadline": "2026-08-07 ~ 2026-08-13",
+      "applyMethod": "○ 신청방법 · 고용24 온라인신청 · https://m.site.naver.com/29ZAK",
+      "link": "https://m.site.naver.com/29ZAK",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260810005400113328",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "산림산업 창업지원_청년 산림창업가 시너지캠프",
+      "category": "창업",
+      "summary": "2026 청년 산림창업가 시너지캠프 참가자 모집 산림분야 청년들의 창업 역량강화 및 신규시장 진입을 지원하기 위해 '2026년 청년 산림창업가 시너지캠프'를 개…",
+      "target": "만 19~39세 — 산림분야 청년들의 창업 역량강화 및 신규시장 진입을 지원하기 위해 '2026년 청년 산림창업가 시너지캠프' 개최",
+      "deadline": "2026-08-10 ~ 2026-08-25",
+      "applyMethod": "신청서 작성 후 구글폼 제출, 추첨을 통한 선정",
+      "link": "https://forms.gle/mQZEGDmkF9JUAyYS8",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260810005400213327",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026년 청년 IT 자격증 취득지원 프로그램 수강생 모집",
+      "category": "창업",
+      "summary": "○ AI시대 새로운 기회 창업 아카데미 · AI 창업트렌드 · 노코드 기반 시제품 개발 · AI활용 비즈니스 모델 · AI 발표자료 제작 · 정부지원사업 로드맵…",
+      "target": "만 19~39세 — 2026년 9월 2일부터 10월 16일까지 청년들의 역량 제고 및 취업경쟁력 향상을 위해 청년IT자격증 취득지원 프로그램을 운영하오니 많은 관심과 참여 바랍니다.",
+      "deadline": "2026-08-04 ~ 2026-09-01",
+      "applyMethod": "○ 신청방법 · QR신청 또는 문의처로 연락 · 방문접수: 남구청 일자리정책과 청년정책팀 · 이메일접수: dbswl0980@korea.kr",
+      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1420&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260806005400213323",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "「광산형 당신근처일자리」 지속일자리 분야(3기)",
+      "category": "취업",
+      "summary": "○ 공공일자리 참여 · 개별입지 현황조사, 활력옷장 2호점 운영, 이동노동자 쉼터 '쉬소' 관리, 작은도서관 활동가, 더하기센터 운영지원, 가로환경 정비, 생활…",
+      "target": "만 18~99세 — ○ 지역 기반 민간플랫폼(당근)을 활용하여 내 집 근처 공공일자리 참여 · 다양한 일 경험과 참여에 따른 보상 지급",
+      "deadline": "2026-08-12 ~ 2026-08-14",
+      "applyMethod": "○ 신청방법 · 을 통한 신청 · 1인 1곳만 신청 가능 ○ 신청경로 · 핸드폰 ⇨ 앱스토어 ⇨ 당근앱 다운 ⇨ 당근앱 클릭 ⇨ 알바 ⇨ 배너…",
+      "link": "https://youth.gwangju.go.kr/www/50?policyId=1417&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 99,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
     },
     {
       "id": "yc-20260806005400213321",
@@ -798,31 +898,6 @@
       }
     },
     {
-      "id": "yc-20260722005400213295",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026년 서구 청년도전지원사업",
-      "category": "취업",
-      "summary": "단계별 맞춤형 프로그램 및 수당(최대 350만원) 제공 - 단기(5주, 50만원×1개월) : 밀착상담, 자신감 회복, 진로탐색, 취업역량 - 중기(15주, 50…",
-      "target": "만 18~39세 — 구직 단념 청년에게 맞춤형 프로그램(단·중·장기)을 통해 취업 의지 격려 및 쉬었음 상태 장기화 방지 등",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "신청(고용 24 또는 센터 방문) → 신청자 조건 확인 → 프로그램 참여자 선정 ※ 온라인 신청시 운영기관 &apos;서구 청년도전지원센터&a…",
-      "link": "https://www.work24.go.kr/wk/g/b/1100/busiIntro.do",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
       "id": "yc-20260722005400213287",
       "type": "local",
       "open": true,
@@ -836,6 +911,31 @@
       "link": "https://youth.gwangju.go.kr/www/51?siteId=www&plcyNo=20260618005400213239&url=%2Fwww%2Fpolicy%2FallYgPolicyView",
       "eligibility": {
         "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260722005400213295",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026년 서구 청년도전지원사업",
+      "category": "취업",
+      "summary": "단계별 맞춤형 프로그램 및 수당(최대 350만원) 제공 - 단기(5주, 50만원×1개월) : 밀착상담, 자신감 회복, 진로탐색, 취업역량 - 중기(15주, 50…",
+      "target": "만 18~39세 — 구직 단념 청년에게 맞춤형 프로그램(단·중·장기)을 통해 취업 의지 격려 및 쉬었음 상태 장기화 방지 등",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "신청(고용 24 또는 센터 방문) → 신청자 조건 확인 → 프로그램 참여자 선정 ※ 온라인 신청시 운영기관 &apos;서구 청년도전지원센터&a…",
+      "link": "https://www.work24.go.kr/wk/g/b/1100/busiIntro.do",
+      "eligibility": {
+        "minAge": 18,
         "maxAge": 39,
         "regions": [
           "전남광주통합특별시"
@@ -934,106 +1034,6 @@
       "deadline": "상시 신청 (상세 공고 확인)",
       "applyMethod": "○ 학생통합지원시스템(THE조아) 참여 신청 엠코코리아 신청 : https://link24.kr/9iI9nvo 광주교통공사 신청 : https…",
       "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1378&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260722005400213286",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "[서구]2026년 전입 청년 웰컴 박스 지원사업",
-      "category": "취업",
-      "summary": "○ 웰컴 박스 제공 · 생활 물품과 청년정책 책자로 구성된 웰컴 박스 제공",
-      "target": "만 19~39세 — ○ 전입 청년 웰컴 박스 지원 · 광주광역시 서구로 전입한 1인 가구 청년들의 새로운 출발 응원 및 지역사회 적응 지원 · 청년정책 안내 자료와 생활용품이 담긴 웰컴박스 지원",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "○ 신청방법 · 방문 및 이메일(satang2526@korea.kr) 신청 가능",
-      "link": "https://youth.gwangju.go.kr/www/51?siteId=www&plcyNo=20260616005400213236&url=%2Fwww%2Fpolicy%2FallYgPolicyView",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260722005400213290",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "오픈마이크 2기",
-      "category": "교육",
-      "summary": "○ 프로그램 운영 · 참가자 소개 및 아이스브레이킹, 스토리텔링의 개요 · 특강 · 기본 스피치 강연 내용 작성하기 · 설득하는 힘 · 전문가 코칭 및 상호 피…",
-      "target": "만 19~39세 — ○ 청년 강연자 양성 프로젝트 · 내 경험을 한 편의 강연으로 완성하고, 작은 무대(토크콘서트)에서 직접 발표하는 프로그램 · 전문가 코칭과 또래 피드백 매 회차 운영 · 말의 순서와 전달 방식 학습",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "○ 아지트 홈페이지 신청 · [프로그램] → [오픈마이크 2기] → [프로그램 신청] 클릭 후 구글폼 작성",
-      "link": "https://youth.gwangju.go.kr/www/51?siteId=www&plcyNo=20260616005400213237&url=%2Fwww%2Fpolicy%2FallYgPolicyView",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260722005400213282",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026년 완도군 청년 자격증 응시료 지원사업",
-      "category": "교육",
-      "summary": "어학·한국사, 국가자격증 응시료 실비 및 교재비 지원 - 실제 결제한 응시료 및 교재비에 한하여 최대 10만원까지 지급 - 연 10만원 한도 내에서 1인당 최대…",
-      "target": "만 19~49세 — 청년 구직활동의 경제적 부담 완화 및 취업 능력 개발 지원을 위해 자격증 응시료 지원",
-      "deadline": "2026-01-21 ~ 2026-12-10",
-      "applyMethod": "온라인 접수(이메일 ruddnr0405@korea.kr) 제출 ※ 선착순 모집 - 신청기간 : 2026. 1. ~ 12. / 매월 1일 ~ 1…",
-      "link": "https://youth.gwangju.go.kr/www/51?siteId=www&plcyNo=20260702005400213247&url=%2Fwww%2Fpolicy%2FallYgPolicyView",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 49,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260722005400213293",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년정책 서포터즈 2기",
-      "category": "참여·권리",
-      "summary": "활동실적에 따른 콘텐츠 제작비 지원 교육지원: 분야별 역량강화 교육(4회, 2시간)",
-      "target": "만 19~39세 — 2026 청년정책 통합홍보사업으로 추진되는 청년정책 서포터즈 2기를 모집합니다 청년의 시선으로 청년과 정책을 연결합니다!",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "광주청년통합플랫폼 신청 또는 첨부파일의 신청서 양식을 작성하여 담당자 e-mail 제출 ( ssg6012@gjyouthcenter.kr )",
-      "link": "https://youth.gwangju.go.kr/www/50?formSeq=99&mapngColumn=policy_id&mapngId=1379&url=%2Fwww%2Fform%2FapplFormView",
       "eligibility": {
         "minAge": 19,
         "maxAge": 39,
