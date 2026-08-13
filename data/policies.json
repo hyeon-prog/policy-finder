@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-08-11T21:54:05.720Z",
+  "generatedAt": "2026-08-13T21:52:16.963Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -290,31 +290,6 @@
         "minHouseholdSize": null
       },
       "source": "curated"
-    },
-    {
-      "id": "yc-20260810005400213326",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "사회연대경제 청년 일경험사업 시범사업(3차)",
-      "category": "취업",
-      "summary": "○ 직무교육 · 교육시간: 총 20시간(1일 최대 8시간 편성) · 교육내용: 사회연대경제 이해 및 직무 기초역량 강화, 참여청년 직무 분야별 실무교육, 진로…",
-      "target": "만 19~39세 — ○ 사회연대경제 청년 일경험 시범사업 참여청년 3차 모집 · 미취업 청년에게 사회연대경제 분야 일경험 기회 제공 · 노동시장 진입 기반 마련 · 진로탐색 및 직무역량 강화 지원",
-      "deadline": "2026-08-07 ~ 2026-08-13",
-      "applyMethod": "○ 신청방법 · 고용24 온라인신청 · https://m.site.naver.com/29ZAK",
-      "link": "https://m.site.naver.com/29ZAK",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
     },
     {
       "id": "yc-20260810005400113328",
@@ -1034,6 +1009,31 @@
       "deadline": "상시 신청 (상세 공고 확인)",
       "applyMethod": "○ 학생통합지원시스템(THE조아) 참여 신청 엠코코리아 신청 : https://link24.kr/9iI9nvo 광주교통공사 신청 : https…",
       "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1378&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260722005400213286",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "[서구]2026년 전입 청년 웰컴 박스 지원사업",
+      "category": "취업",
+      "summary": "○ 웰컴 박스 제공 · 생활 물품과 청년정책 책자로 구성된 웰컴 박스 제공",
+      "target": "만 19~39세 — ○ 전입 청년 웰컴 박스 지원 · 광주광역시 서구로 전입한 1인 가구 청년들의 새로운 출발 응원 및 지역사회 적응 지원 · 청년정책 안내 자료와 생활용품이 담긴 웰컴박스 지원",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "○ 신청방법 · 방문 및 이메일(satang2526@korea.kr) 신청 가능",
+      "link": "https://youth.gwangju.go.kr/www/51?siteId=www&plcyNo=20260616005400213236&url=%2Fwww%2Fpolicy%2FallYgPolicyView",
       "eligibility": {
         "minAge": 19,
         "maxAge": 39,
