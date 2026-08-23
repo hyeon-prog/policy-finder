@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-08-21T21:29:14.881Z",
+  "generatedAt": "2026-08-23T21:26:53.793Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -642,31 +642,6 @@
       }
     },
     {
-      "id": "yc-20260812005400213333",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "광주자치경찰 「청년 서포터즈 112」 제11기 모집",
-      "category": "참여·권리",
-      "summary": "○ 활동혜택 · 필수·자율활동 완료자 모바일상품권 제공 · 최대 6,500원 이내/1회당 · 필수활동 5회 모든 활동자 수료증 발급 · 활동 우수 서포터즈 선발…",
-      "target": "만 19~39세 — ○ 자치경찰 활동 홍보를 위한 청년 서포터즈 모집 · 개인 SNS를 통한 자치경찰제 홍보 콘텐츠 게시 및 공유 활동 · 회차별 미션 수행 및 자율활동 참여",
-      "deadline": "2026-08-10 ~ 2026-08-23",
-      "applyMethod": "○ 온라인(네이버폼)을 통한 신청서 제출",
-      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1426&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
       "id": "yc-20260812005400213329",
       "type": "local",
       "open": true,
@@ -1036,6 +1011,33 @@
         ],
         "maxIncomeRatio": null,
         "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260724005400213300",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "(영종구) 청년 자격증 응시료 지원",
+      "category": "취업",
+      "summary": "○ 1인 1회, 연 최대 10만원 범위 자격증시험 응시료 지원 ※ 실제 본인이 부담한 비용만 신청 가능 ○ 자격증 한 종목 당 필기, 실기 등 여러 단계로 이루…",
+      "target": "만 18~39세 — --",
+      "deadline": "2026-02-01 ~ 2026-11-30",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://youth.incheon.go.kr/youthpolicy/youthPolicyInfoDetail.do?poly_seq=467",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 39,
+        "regions": [
+          "인천광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": [
+          "jobseeker"
+        ],
         "maritalStatus": null,
         "requiresChildren": false,
         "minHouseholdSize": null
