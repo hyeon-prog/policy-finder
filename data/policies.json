@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-08-23T21:26:53.793Z",
+  "generatedAt": "2026-08-25T21:33:21.672Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -292,6 +292,31 @@
       "source": "curated"
     },
     {
+      "id": "yc-20260824005400213349",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "[9월 1일 10시 접수 예정] 2026년 구직청년 자격증 취득지원 사업",
+      "category": "교육",
+      "summary": "※ 단계별 시험(필기,실기 등)은 명칭과 상관 없이 합산 신청 가능(개별 신청하여 지급 완료 시, 당해 연도 추가 신청 및 소급 지원 불가) ❍ 지원분야 - 한…",
+      "target": "만 19~39세 — 구직활동에 필요한 어학(능력)·자격증 시험 응시료 지원",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "시험 응시 → 전남광주통합특별시청년통합플랫폼 접수 → 제출 서류 확인 (자격심사 및 중복지원여부 조회) → 선정안내 및 만족도조사 → 지원금…",
+      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1441&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
       "id": "yc-20260821005400213344",
       "type": "local",
       "open": true,
@@ -403,31 +428,6 @@
       "deadline": "2026-08-18 ~ 2026-09-10",
       "applyMethod": "신청(선착순) - 선정 안내 문자",
       "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1435&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260820005400213342",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "창업전문가 특강 “취업? 창업!”",
-      "category": "창업",
-      "summary": "- [특강Ⅰ] 노점상에서 중견기업까지! 와이마트 성공스토리 - [특강 Ⅱ] 300만원 월급쟁이가 400억 매출 사장되기 - 즉문즉답 현장 Q&A",
-      "target": "만 19~39세 — 지역 기반 청년 창업자를 발굴하고 체계적인 성장을 지원하기 위한 「서구 창업전문가 특강」을 아래와 같이 개최하오니, 많은 관심과 참여 바랍니다. 취업과 창업이 고민되는 누구에게나 도움이 되는 강의와 현장 Q&A…",
-      "deadline": "2026-08-14 ~ 2026-08-25",
-      "applyMethod": "신청 (선착순) - 선정 안내 문자 발송",
-      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1436&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
       "eligibility": {
         "minAge": 19,
         "maxAge": 39,
@@ -658,31 +658,6 @@
         "maxAge": 39,
         "regions": [
           "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260810005400113328",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "산림산업 창업지원_청년 산림창업가 시너지캠프",
-      "category": "창업",
-      "summary": "2026 청년 산림창업가 시너지캠프 참가자 모집 산림분야 청년들의 창업 역량강화 및 신규시장 진입을 지원하기 위해 '2026년 청년 산림창업가 시너지캠프'를 개…",
-      "target": "만 19~39세 — 산림분야 청년들의 창업 역량강화 및 신규시장 진입을 지원하기 위해 '2026년 청년 산림창업가 시너지캠프' 개최",
-      "deadline": "2026-08-10 ~ 2026-08-25",
-      "applyMethod": "신청서 작성 후 구글폼 제출, 추첨을 통한 선정",
-      "link": "https://forms.gle/mQZEGDmkF9JUAyYS8",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전국"
         ],
         "maxIncomeRatio": null,
         "employment": null,
@@ -1038,6 +1013,31 @@
         "employment": [
           "jobseeker"
         ],
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260724005400213305",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026년 부평 청년주간행사 추진단 모집",
+      "category": "참여·권리",
+      "summary": "부평구 청년주간행사 기획 및 운영 참여 청년주간행사 슬로건 등 프로젝트 아이디어 발굴 청년주간행사 마케팅 방안 수립 및 홍보 진행 추진단 출범식 및 추진회의,…",
+      "target": "만 19~39세 — 공고일 현재 19세 이상 39세 이하인 청년 중 아래 조건을 1개 이상 충족하는 자 - 부평구에 주민등록을 둔 청년 - 부평구 소재 학교에서 수학한 청년(재학·휴학·졸업생 모두 포함) - 부평구 소재 직장에서 근…",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "신청서식(지원서, 개인정보 제공 동의서) 다운받아 작성·제출",
+      "link": "https://youth.incheon.go.kr/youthpolicy/youthPolicyInfoDetail.do?poly_seq=460",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "인천광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
         "maritalStatus": null,
         "requiresChildren": false,
         "minHouseholdSize": null
