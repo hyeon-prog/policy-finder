@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-08-28T05:09:55.325Z",
+  "generatedAt": "2026-08-29T03:06:57.170Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -442,56 +442,6 @@
       }
     },
     {
-      "id": "yc-20260826005400213354",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년도약 인재양성 부트캠프 사업(인공지능 분야)",
-      "category": "교육",
-      "summary": "○ 교육혜택 · 네이버클라우드·메가존클라우드 수료증 발급 · 교육비 전액 무료 · 단계별 지원금 최대 100만 원 지급 · 채용연계형 실전 인턴십 기회 부여 ·…",
-      "target": "만 19~34세 — ○ AI·첨단산업 분야 취업을 희망하는 미취업 청년 대상 실무 중심 인재양성 프로그램 · AI 기초부터 기업 연계 프로젝트, 취업지원까지 운영 · AI·첨단산업 분야 취업을 꿈꾸는 청년 대상 실무 중심 인재양성…",
-      "deadline": "2026-08-24 ~ 2026-08-28",
-      "applyMethod": "○ 홈페이지 신청",
-      "link": "https://www.scnu.ac.kr/scnuai/main.do",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 34,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260826005400213353",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "[여수]2026년 전남 청년 근속장려금 지원사업",
-      "category": "취업",
-      "summary": "○ 지원금 · 4년간 1인당 최대 2,000만원 지원 · 청년 1,500만원, 기업 500만원 ○ 연차별 지원내용 · 취업장려금(1년차): 500만원(청년 30…",
-      "target": "만 18~45세 — ○ 여수시 중소기업 취업 청년들의 장기근속 유도 및 정규직 일자리 취업 촉진을 위한 2026년 전남 청년 근속장려금 지원사업 참여기업 및 청년근로자 2차 모집",
-      "deadline": "2026-08-24 ~ 2026-08-28",
-      "applyMethod": "○ 신청방법 · 문서24 · 수신처: 전남광주통합특별시 여수시 기획경제국 경제일자리과",
-      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1443&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 45,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
       "id": "yc-20260824005400213349",
       "type": "local",
       "open": true,
@@ -792,31 +742,6 @@
       }
     },
     {
-      "id": "yc-20260812005400213330",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "「2026년 청년 창업 성장 육성 프로젝트 지원사업」 청년창업자 모집 공고",
-      "category": "창업",
-      "summary": "❍ 지원 내용 - 공통 역량강화 프로그램 - 온라인 마케팅 및 sns홍보 지원 1. 온라인 마케팅 및 홍보비(기업 당 1,000천원) 지원 2. 전문업체를 통한…",
-      "target": "만 19~39세 — 창업 성장기에 접어든 청년 창업자의 안정적인 시장 안착과 지속 가능한 성장 기반 마련을 지원하기 위하여 「2026년 청년 창업 성장 육성 프로젝트 지원사업」의 참여자를 다음과 같이 모집하오니 많은 신청 바랍니다.",
-      "deadline": "2026-08-10 ~ 2026-08-28",
-      "applyMethod": "□ 신청접수 ❍ 신청기간 : 2026. 8. 10.(월) ~ 8. 28.(금) 18:00 까지 ❍ 신청방법 : 이메일 (bunnyqu@kore…",
-      "link": "https://www.donggu.kr/board.es?mid=a10101010000&bid=0001#content",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
       "id": "yc-20260812005400213329",
       "type": "local",
       "open": true,
@@ -1033,6 +958,81 @@
         "maxAge": 34,
         "regions": [
           "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260724005400113307",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년 자금지원을 위한 햇살론유스 운영",
+      "category": "금융",
+      "summary": "대학생·청년층의 금융애로를 해소하고 향후 제도권 금융으로 안착할 수 있도록 지원",
+      "target": "만 19~34세 — 저소득 청년층을 위한 보증부대출",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "서민금융진흥원 앱에서 보증신청을 먼저 진행한 뒤, 협약은행에서 대출신청·실행을 진행 (상세사항은 서민금융진흥원 홈페이지 참조)",
+      "link": "https://www.kinfa.or.kr/financialProduct/hessalLoanYoos.do",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 34,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260724005400213301",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "(영종구) 인천시 청년월세 지원사업",
+      "category": "주거",
+      "summary": "○ 지원금액 : 1인 월 20만원씩, 최대 24개월(회) 월세 지원(기존 지원횟수 포함 한사람당 최대 24회 지급 가능) - 실제 납부하는 월세의 최대 20만원…",
+      "target": "만 35~39세 — ◎ 소득 : (청년독립가구) 기준 중위소득 60%이하 (원가구) 기준 중위소득 100% 이하 (자세한 내용은 FAQ참고) ◎ 재산 : (청년독립가구) 재산 122백만원 이하 (원가구) 재산 470백만원 이하 ◎…",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "[2026년 신청연령] (19세 ~ 34세(1991년~2007년)) 복지로를 통한 온라인신청 및 관할 행정복지센터 방문 신청 (35세 ~ 39…",
+      "link": "https://youth.incheon.go.kr/youthpolicy/youthPolicyInfoDetail.do?poly_seq=466",
+      "eligibility": {
+        "minAge": 35,
+        "maxAge": 39,
+        "regions": [
+          "인천광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260724005400213302",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "(서해구) 인천시 청년월세 지원사업",
+      "category": "주거",
+      "summary": "지원금액 : 1인 월 20만원씩, 최대 24개월(회) 월세 지원(기존 지원횟수 포함 한사람당 최대 24회 지급 가능) - 실제 납부하는 월세의 최대 20만원까지…",
+      "target": "만 35~39세 — ◎ 소득 : (청년독립가구) 기준 중위소득 60%이하 (원가구) 기준 중위소득 100% 이하 ◎ 재산 : (청년독립가구) 재산 122백만원 이하 (원가구) 재산 470백만원 이하 ◎ 주택 : 전입신고 필수 ※ 월…",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "(19세 ~ 34세) 복지로를 통한 온라인신청 및 관할 행정복지센터 방문 신청 (35세 ~ 39세) 인천청년포털을 통한 온라인신청 또는 관할…",
+      "link": "https://youth.incheon.go.kr/youthpolicy/youthPolicyInfoDetail.do?poly_seq=464",
+      "eligibility": {
+        "minAge": 35,
+        "maxAge": 39,
+        "regions": [
+          "인천광역시"
         ],
         "maxIncomeRatio": null,
         "employment": null,
