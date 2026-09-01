@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-09-01T00:29:32.477Z",
+  "generatedAt": "2026-09-01T23:11:00.819Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -381,31 +381,6 @@
       "eligibility": {
         "minAge": 1,
         "maxAge": 99,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260831005400213366",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "[남구] 2026년 청년 구직자(근로자) 취업장려금 지원",
-      "category": "취업",
-      "summary": "취업장려금 1인당 500천원 지원(1인 1회)/ 신청월 말일 지급",
-      "target": "만 19~39세 — ❍ 사 업 명 : 청년 구직자(근로자) 취업장려금 지원사업 ❍ 신청기간 : 2026. 2. 2.(월) ~ 12. ※ 예산 소진 시 사업 조기종료 ❍ 지원대상 : 청년 근로자 30명 - 기준일(2026.2.1.)로…",
-      "deadline": "2026-02-19 ~ 2026-12-18",
-      "applyMethod": "❍ 신청기간 : 2026. 2. 2.(월) ~ 12. (채용 후 6개월 경과된 시점) ❍ 신청방법 : 방문 또는 이메일 신청(iljari123…",
-      "link": "https://youth.gwangju.go.kr/www/51?siteId=www&plcyNo=20260408005400212623&url=%2Fwww%2Fpolicy%2FallYgPolicyView",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
         "regions": [
           "전남광주통합특별시"
         ],
@@ -920,31 +895,6 @@
       }
     },
     {
-      "id": "yc-20260810005400213327",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026년 청년 IT 자격증 취득지원 프로그램 수강생 모집",
-      "category": "창업",
-      "summary": "○ AI시대 새로운 기회 창업 아카데미 · AI 창업트렌드 · 노코드 기반 시제품 개발 · AI활용 비즈니스 모델 · AI 발표자료 제작 · 정부지원사업 로드맵…",
-      "target": "만 19~39세 — 2026년 9월 2일부터 10월 16일까지 청년들의 역량 제고 및 취업경쟁력 향상을 위해 청년IT자격증 취득지원 프로그램을 운영하오니 많은 관심과 참여 바랍니다.",
-      "deadline": "2026-08-04 ~ 2026-09-01",
-      "applyMethod": "○ 신청방법 · QR신청 또는 문의처로 연락 · 방문접수: 남구청 일자리정책과 청년정책팀 · 이메일접수: dbswl0980@korea.kr",
-      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1420&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
       "id": "yc-20260806005400213321",
       "type": "local",
       "open": true,
@@ -1034,6 +984,56 @@
       "eligibility": {
         "minAge": 19,
         "maxAge": 39,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260728005400213310",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026년 하반기 임신부 가사지원서비스 지원사업",
+      "category": "금융",
+      "summary": "○ 가사 지원 또는 정리수납 서비스 이용 지원 · 임신부 거주지 내 청소, 정리정돈 등 가사 지원 또는 정리수납 서비스 이용 지원 · 전남광주통합특별시 자치구…",
+      "target": "만 1~99세 — ○ 임신부의 가사 어려움을 덜어주고 출산 준비를 돕기 위한 가사지원서비스 지원사업",
+      "deadline": "2026-07-28 ~ 2026-09-30",
+      "applyMethod": "○ 온라인시스템 신청 · 신청처: https://jngji.kr · 홈페이지 접속 > 광주권역 거주자 > 임신부 가사지원서비스 > 임신부 본인…",
+      "link": "https://www.xn--hc0by27bu6atul3dc6t.kr/main/housework",
+      "eligibility": {
+        "minAge": 1,
+        "maxAge": 99,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260728005400213309",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026년 찬찬히 청년 사회생활(정서·심리)지원 캠퍼스 참여자 모집",
+      "category": "금융",
+      "summary": "○ 그룹형 교육과정 운영 및 통합 힐링 워크샵 병행 · 자아존중감 향상 · 정서 및 스트레스 조절 · 의사소통 · 대인관계 · 문제해결 역량 강화 ※ 필요시 개…",
+      "target": "만 18~34세 — ○ 찬찬히 청년을 위한 맞춤형 평생학습 프로그램 · 또래 친구들과 소그룹으로 함께하며 자기 이해 및 사회생활에 필요한 소통법 학습 · 정서조절, 대인관계, 문제해결 등 사회생활 역량 강화",
+      "deadline": "2026-07-20 ~ 2026-12-31",
+      "applyMethod": "○ 네이버폼을 통한 온라인 접수 · https://naver.me/x3cfS0qQ",
+      "link": "https://form.naver.com/response/2RU8EfZleUt",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 34,
         "regions": [
           "전남광주통합특별시"
         ],
