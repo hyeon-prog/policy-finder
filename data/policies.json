@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-08-29T03:06:57.170Z",
+  "generatedAt": "2026-09-01T00:29:32.477Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -292,6 +292,156 @@
       "source": "curated"
     },
     {
+      "id": "yc-20260831005400213361",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "삼척중앙시장 청년몰 청년상인 수시모집",
+      "category": "창업",
+      "summary": "청년몰 입점 계약(최대 7년), 공유재산 사용료 연 50~60만 원(면적 등 점포 여건에 따른 차액 발생)",
+      "target": "만 18~49세 — 삼척중앙시장 청년몰 입점 희망 청년상인 모집",
+      "deadline": "2026-08-31 ~ 2026-12-31",
+      "applyMethod": "◦ (신청서접수) 2026. 8. 31.(월) ~ 12. 31.(목) ◦ (신청방법) 이메일 신청, 방문 및 등기우편 접수 * 방문접수 기간…",
+      "link": "https://www.samcheok.go.kr/media/00084/00095.web?amode=view&mgtNo=37890&cd=01&cpage=1&sstring=%EC%B2%AD%EB%85%84%EB%AA%B0&stype=title",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 49,
+        "regions": [
+          "강원특별자치도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260831005400213364",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "(최초공개) LH 현직자가 이 것마저 공개....",
+      "category": "취업",
+      "summary": ".",
+      "target": "만 19~39세 — 2026년 남구 청년와락 &apos;현직자와의 특별한 만남&apos; 청년 - 현직자 멘토링 강의 프로그램 ㅇ 일시: 2026. 10. 13.(화) 14:00 ~ 16:00 ㅇ 장소: 남구 청년와락(남구 독립로…",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "https://naver.me/FJOcNIEc",
+      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1454&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260831005400213362",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년도약 인재양성 부트캠프(제조AI 분야)",
+      "category": "교육",
+      "summary": "○ 교육과정 운영 · 초급 과정: 생성형 AI 활용, AI 기초, 제조데이터 이해, AI 프로그래밍 기초, 스마트제조 기초 등 · 중급 과정: 산업 분야별 제조…",
+      "target": "만 19~34세 — ○ 제조AI 전문인재 양성 프로그램 · 취업준비 청년을 실무형 인재로 성장시키는 집중형 제조 AI 교육과정 · 생성형 AI·제조데이터 분석·스마트제조 등 핵심 기술 기반 교육 · 교육-프로젝트-현장실습-취업연계로…",
+      "deadline": "2026-08-26 ~ 2026-09-25",
+      "applyMethod": "○ 포스터 내 QR 확인 ○ 홈페이지 신청: https://www.nais.or.kr/",
+      "link": "https://www.nais.or.kr/",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 34,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260831005400213363",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026년 전남광주통합특별시 청년축제",
+      "category": "참여·권리",
+      "summary": "○ 컨퍼런스 · 전남‧광주청년 컨퍼런스 · 전일빌딩 4층 라운지 공간 일대 · 13:00~17:00 ○ 페스타 · ACC 하늘마당 메인무대 · 특별공연, 강연대…",
+      "target": "만 1~99세 — ○ 주제 · 피파페(새롭게 피어난 두 파장의 울림, 청년페스타) ○ 행사내용 · 컨퍼런스, 개막행사, 특별공연, 부스운영 등",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "해당 없음",
+      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1451&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "eligibility": {
+        "minAge": 1,
+        "maxAge": 99,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260831005400213366",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "[남구] 2026년 청년 구직자(근로자) 취업장려금 지원",
+      "category": "취업",
+      "summary": "취업장려금 1인당 500천원 지원(1인 1회)/ 신청월 말일 지급",
+      "target": "만 19~39세 — ❍ 사 업 명 : 청년 구직자(근로자) 취업장려금 지원사업 ❍ 신청기간 : 2026. 2. 2.(월) ~ 12. ※ 예산 소진 시 사업 조기종료 ❍ 지원대상 : 청년 근로자 30명 - 기준일(2026.2.1.)로…",
+      "deadline": "2026-02-19 ~ 2026-12-18",
+      "applyMethod": "❍ 신청기간 : 2026. 2. 2.(월) ~ 12. (채용 후 6개월 경과된 시점) ❍ 신청방법 : 방문 또는 이메일 신청(iljari123…",
+      "link": "https://youth.gwangju.go.kr/www/51?siteId=www&plcyNo=20260408005400212623&url=%2Fwww%2Fpolicy%2FallYgPolicyView",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260831005400213365",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "[남구] 증명사진 무료지원",
+      "category": "취업",
+      "summary": "❍ 지원기간 : 2026. 7. ~ 12. ※ 예산 소진 시 조기 마감 ❍ 지원대상 : 신청일 기준 청년 구직자로서, 본인이 남구 주민이거나 남구 소재 대학교에…",
+      "target": "만 19~39세 — [남구] 2026년 구직청년 증명사진 촬영지원",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "1) 신청 및 접수 - 신청기간: 2026. 7. 27. ~ 12. 18. ※ 예산 소진 시 조기 종료 - 신청방법: 방문 또는 이메일 신청…",
+      "link": "https://www.namgu.gwangju.kr/board.es?mid=a10604010000&bid=0001",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
       "id": "yc-20260828005400213359",
       "type": "local",
       "open": true,
@@ -417,25 +567,28 @@
       }
     },
     {
-      "id": "yc-20260826005400213355",
-      "type": "local",
+      "id": "yc-20260824005400113351",
+      "type": "policy",
       "open": true,
       "source": "youthcenter",
-      "name": "[담양]청년 스토리 저장소 영상제작 참여자 모집",
-      "category": "참여·권리",
-      "summary": "○ 사진·영상 기반 홍보 콘텐츠 제작 · 담양 청년의 직업, 활동 등을 인터뷰를 통해 콘텐츠 제작 · 청년 활동 홍보 및 지역사회 청년 스토리 아카이브 구축 ○…",
-      "target": "만 19~49세 — ○ 담양을 기반으로 활동하는 청년들의 직업, 활동 등을 인터뷰를 통해 사진·영상 기반의 공감형 홍보 콘텐츠 제작 · 청년 활동 홍보 및 지역사회 청년 스토리 아카이브 구축 · 청년들의 다양한 삶과 활동 기록을 통…",
-      "deadline": "2026-08-24 ~ 2026-08-31",
-      "applyMethod": "○ 신청서 작성 후 메일 제출(kmsun36@korea.kr)",
-      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1445&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "name": "희망사다리 장학사업(Ⅰ,Ⅱ유형)",
+      "category": "교육",
+      "summary": "1. 희망사다리 장학사업Ⅰ유형(중소기업 취업연계 장학금) ㅇ 소개: 중소·중견기업 취업·창업(희망)자를 위한 장학금 ㅇ 신청기간: 2026. 9. 1.(화) 0…",
+      "target": "만 0~99999세 — 희망사다리 장학사업Ⅰ유형(중소기업 취업연계 장학금) : 중소·중견기업 취업·창업(희망)자를 위한 장학금 희망사다리 장학사업Ⅱ유형(고졸 후학습자 장학금) : 선취업 후학습을 희망하는 자를 위한 장학금",
+      "deadline": "2026-09-01 ~ 2026-09-18",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.kosaf.go.kr",
       "eligibility": {
-        "minAge": 19,
-        "maxAge": 49,
+        "minAge": null,
+        "maxAge": null,
         "regions": [
-          "전남광주통합특별시"
+          "전국"
         ],
         "maxIncomeRatio": null,
-        "employment": null,
+        "employment": [
+          "employed",
+          "jobseeker"
+        ],
         "maritalStatus": null,
         "requiresChildren": false,
         "minHouseholdSize": null
@@ -450,9 +603,9 @@
       "category": "교육",
       "summary": "※ 단계별 시험(필기,실기 등)은 명칭과 상관 없이 합산 신청 가능(개별 신청하여 지급 완료 시, 당해 연도 추가 신청 및 소급 지원 불가) ❍ 지원분야 - 한…",
       "target": "만 19~39세 — 구직활동에 필요한 어학(능력)·자격증 시험 응시료 지원",
-      "deadline": "상시 신청 (상세 공고 확인)",
+      "deadline": "2026-09-01 ~ 2026-12-31",
       "applyMethod": "시험 응시 → 전남광주통합특별시청년통합플랫폼 접수 → 제출 서류 확인 (자격심사 및 중복지원여부 조회) → 선정안내 및 만족도조사 → 지원금…",
-      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1441&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "link": "https://youth.gwangju.go.kr/www/50?formSeq=131&mapngColumn=policy_id&mapngId=1441&url=%2Fwww%2Fform%2FapplFormView",
       "eligibility": {
         "minAge": 19,
         "maxAge": 39,
@@ -467,20 +620,20 @@
       }
     },
     {
-      "id": "yc-20260821005400213344",
+      "id": "yc-20260821005400213345",
       "type": "local",
       "open": true,
       "source": "youthcenter",
-      "name": "청년도약 인재양성 부트캠프 사업(인문·사회 분야)",
-      "category": "교육",
-      "summary": "○ 부트캠프 취·창업 성공하자 · K-Food AX: 커피·베이커리 레시피 기획 및 온라인 홍보 AX 전문가 양성 과정 · 문화콘텐츠 AX: AI 숏폼 콘텐츠…",
-      "target": "만 19~34세 — 청년(비재학생) 대상으로 대학-기업이 함께 수준별 단기 집중교육 제공하여 역량 제고 및 사회참여 기회 확대",
-      "deadline": "2026-07-20 ~ 2026-08-31",
-      "applyMethod": "○ 포스터 내 QR코드 확인",
-      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1438&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "name": "2026년 청년 넷제로 상상뜨락 리빙랩 아이디어 공모전",
+      "category": "참여·권리",
+      "summary": "○ 아이디어 고도화 자문 · 1차 서류 심사에서 선정된 6개 팀 대상 · 팀별 전문가 자문 및 아이디어 구체화 과정 운영 · 지역 문제의 원인 분석과 필요성 보…",
+      "target": "만 19~39세 — 2045 탄소중립 실현을 위해 청년이 지역의 탄소중립 문제를 발굴하고, 이를 해결하기 위한 정책제안 아이디어를 리빙랩 방식으로 구체화하는 「청년 넷제로 상상뜨락 리빙랩 아이디어 공모전」 참여자를 공개 모집합니다.",
+      "deadline": "2026-09-01 ~ 2026-10-02",
+      "applyMethod": "○ 이메일 접수 · lsg2022@gcea.or.kr · 방문 및 우편접수 불가 · 붙임 서식을 작성하여 제출서류와 함께 기한 내 이메일 제출…",
+      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1439&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
       "eligibility": {
         "minAge": 19,
-        "maxAge": 34,
+        "maxAge": 39,
         "regions": [
           "전남광주통합특별시"
         ],
@@ -867,31 +1020,6 @@
       }
     },
     {
-      "id": "yc-20260728005400213311",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "전남광주 청년 문화복지카드",
-      "category": "금융",
-      "summary": "청년의 문화생활 향유 및 자기계발 지원 위한 문화복지비 연 25만원 지원",
-      "target": "만 19~29세 — 전남광주통합특별시 22개 시·군에 거주하는 청년을 대상으로 공연관람, 학원수강, 도서구입 등을 위한 문화복지비 연 25만원 지원",
-      "deadline": "2026-08-03 ~ 2026-08-31",
-      "applyMethod": "(시 거주자) 광주은행 홈페이지 또는 주소지 읍·면·동사무소 방문신청 (군 거주자) 농협카드 홈페이지 또는 주소지 읍·면·동사무소 방문신청",
-      "link": "https://www.kjbank.com/",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 29,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
       "id": "yc-20260728005400213308",
       "type": "local",
       "open": true,
@@ -908,131 +1036,6 @@
         "maxAge": 39,
         "regions": [
           "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260728005400213310",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026년 하반기 임신부 가사지원서비스 지원사업",
-      "category": "금융",
-      "summary": "○ 가사 지원 또는 정리수납 서비스 이용 지원 · 임신부 거주지 내 청소, 정리정돈 등 가사 지원 또는 정리수납 서비스 이용 지원 · 전남광주통합특별시 자치구…",
-      "target": "만 1~99세 — ○ 임신부의 가사 어려움을 덜어주고 출산 준비를 돕기 위한 가사지원서비스 지원사업",
-      "deadline": "2026-07-28 ~ 2026-09-30",
-      "applyMethod": "○ 온라인시스템 신청 · 신청처: https://jngji.kr · 홈페이지 접속 > 광주권역 거주자 > 임신부 가사지원서비스 > 임신부 본인…",
-      "link": "https://www.xn--hc0by27bu6atul3dc6t.kr/main/housework",
-      "eligibility": {
-        "minAge": 1,
-        "maxAge": 99,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260728005400213309",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026년 찬찬히 청년 사회생활(정서·심리)지원 캠퍼스 참여자 모집",
-      "category": "금융",
-      "summary": "○ 그룹형 교육과정 운영 및 통합 힐링 워크샵 병행 · 자아존중감 향상 · 정서 및 스트레스 조절 · 의사소통 · 대인관계 · 문제해결 역량 강화 ※ 필요시 개…",
-      "target": "만 18~34세 — ○ 찬찬히 청년을 위한 맞춤형 평생학습 프로그램 · 또래 친구들과 소그룹으로 함께하며 자기 이해 및 사회생활에 필요한 소통법 학습 · 정서조절, 대인관계, 문제해결 등 사회생활 역량 강화",
-      "deadline": "2026-07-20 ~ 2026-12-31",
-      "applyMethod": "○ 네이버폼을 통한 온라인 접수 · https://naver.me/x3cfS0qQ",
-      "link": "https://form.naver.com/response/2RU8EfZleUt",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 34,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260724005400113307",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년 자금지원을 위한 햇살론유스 운영",
-      "category": "금융",
-      "summary": "대학생·청년층의 금융애로를 해소하고 향후 제도권 금융으로 안착할 수 있도록 지원",
-      "target": "만 19~34세 — 저소득 청년층을 위한 보증부대출",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "서민금융진흥원 앱에서 보증신청을 먼저 진행한 뒤, 협약은행에서 대출신청·실행을 진행 (상세사항은 서민금융진흥원 홈페이지 참조)",
-      "link": "https://www.kinfa.or.kr/financialProduct/hessalLoanYoos.do",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 34,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260724005400213301",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "(영종구) 인천시 청년월세 지원사업",
-      "category": "주거",
-      "summary": "○ 지원금액 : 1인 월 20만원씩, 최대 24개월(회) 월세 지원(기존 지원횟수 포함 한사람당 최대 24회 지급 가능) - 실제 납부하는 월세의 최대 20만원…",
-      "target": "만 35~39세 — ◎ 소득 : (청년독립가구) 기준 중위소득 60%이하 (원가구) 기준 중위소득 100% 이하 (자세한 내용은 FAQ참고) ◎ 재산 : (청년독립가구) 재산 122백만원 이하 (원가구) 재산 470백만원 이하 ◎…",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "[2026년 신청연령] (19세 ~ 34세(1991년~2007년)) 복지로를 통한 온라인신청 및 관할 행정복지센터 방문 신청 (35세 ~ 39…",
-      "link": "https://youth.incheon.go.kr/youthpolicy/youthPolicyInfoDetail.do?poly_seq=466",
-      "eligibility": {
-        "minAge": 35,
-        "maxAge": 39,
-        "regions": [
-          "인천광역시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260724005400213302",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "(서해구) 인천시 청년월세 지원사업",
-      "category": "주거",
-      "summary": "지원금액 : 1인 월 20만원씩, 최대 24개월(회) 월세 지원(기존 지원횟수 포함 한사람당 최대 24회 지급 가능) - 실제 납부하는 월세의 최대 20만원까지…",
-      "target": "만 35~39세 — ◎ 소득 : (청년독립가구) 기준 중위소득 60%이하 (원가구) 기준 중위소득 100% 이하 ◎ 재산 : (청년독립가구) 재산 122백만원 이하 (원가구) 재산 470백만원 이하 ◎ 주택 : 전입신고 필수 ※ 월…",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "(19세 ~ 34세) 복지로를 통한 온라인신청 및 관할 행정복지센터 방문 신청 (35세 ~ 39세) 인천청년포털을 통한 온라인신청 또는 관할…",
-      "link": "https://youth.incheon.go.kr/youthpolicy/youthPolicyInfoDetail.do?poly_seq=464",
-      "eligibility": {
-        "minAge": 35,
-        "maxAge": 39,
-        "regions": [
-          "인천광역시"
         ],
         "maxIncomeRatio": null,
         "employment": null,
