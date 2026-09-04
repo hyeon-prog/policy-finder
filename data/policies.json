@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-09-03T23:07:58.348Z",
+  "generatedAt": "2026-09-04T22:54:56.704Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -467,31 +467,6 @@
       }
     },
     {
-      "id": "yc-20260831005400213362",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년도약 인재양성 부트캠프(제조AI 분야)",
-      "category": "교육",
-      "summary": "○ 교육과정 운영 · 초급 과정: 생성형 AI 활용, AI 기초, 제조데이터 이해, AI 프로그래밍 기초, 스마트제조 기초 등 · 중급 과정: 산업 분야별 제조…",
-      "target": "만 19~34세 — ○ 제조AI 전문인재 양성 프로그램 · 취업준비 청년을 실무형 인재로 성장시키는 집중형 제조 AI 교육과정 · 생성형 AI·제조데이터 분석·스마트제조 등 핵심 기술 기반 교육 · 교육-프로젝트-현장실습-취업연계로…",
-      "deadline": "2026-08-26 ~ 2026-09-25",
-      "applyMethod": "○ 포스터 내 QR 확인 ○ 홈페이지 신청: https://www.nais.or.kr/",
-      "link": "https://www.nais.or.kr/",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 34,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
       "id": "yc-20260831005400213363",
       "type": "local",
       "open": true,
@@ -528,31 +503,6 @@
       "deadline": "상시 신청 (상세 공고 확인)",
       "applyMethod": "1) 신청 및 접수 - 신청기간: 2026. 7. 27. ~ 12. 18. ※ 예산 소진 시 조기 종료 - 신청방법: 방문 또는 이메일 신청…",
       "link": "https://www.namgu.gwangju.kr/board.es?mid=a10604010000&bid=0001",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260828005400213359",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "[무료 강의] 방송 쪽 취업 관심 있는 분만",
-      "category": "취업",
-      "summary": "ㅁ 프로그램명: 2026년 청년와락 &apos;청년이 청년에게&apos; ㅁ 강의 일시 ㅇ 2026. 11. 16.(월) ~ 11. 27.(금) 월~금 14:0…",
-      "target": "만 19~39세 — ㅁ 프로그램명: 2026년 청년와락 &apos;청년이 청년에게&apos; ㅁ 강의 일시 ㅇ 2026. 11. 16.(월) ~ 11. 27.(금) 월~금 14:00~17:00 (총 10차시) ㅁ 강의 내용 ㅇ 방송…",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "https://naver.me/FwG21V3I",
-      "link": "https://naver.me/FwG21V3I",
       "eligibility": {
         "minAge": 19,
         "maxAge": 39,
@@ -1036,6 +986,56 @@
         "maxAge": 39,
         "regions": [
           "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260803005400213317",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "(광양시)광양청년꿈터 드림클래스",
+      "category": "교육",
+      "summary": "(강사) 강의 기회 제공, 강사비 및 재료비 지원 (수강자) 드림클래스 수강 기회 제공",
+      "target": "만 18~45세 — 광양청년꿈터 청년DB 및 국무조정실 청년인재DB 등록 완료자",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://gwangyang.go.kr/youth/kr/board/view.do?bbsId=BBS_000000000000000&nttId=6906&menuNo=102002000000",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 45,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260729005400113312",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "충남형 청년 한달살이 프로그램 운영",
+      "category": "참여·권리",
+      "summary": "2~4주간 타 시도 청년들에게 충남에서의 주거, 생활, 일자리 체험 등을 제공하여 지역유입 및 정착 유도 ※ 2026년 부여군, 서천군, 홍성군, 예산군 진행",
+      "target": "만 19~39세 — 해당 없음",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "별도 문의",
+      "link": "https://www.chungnam.go.kr/cnportal/media/article/view.do?articleNo=MD0003388797&menuNo=500167",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "충청남도"
         ],
         "maxIncomeRatio": null,
         "employment": null,
