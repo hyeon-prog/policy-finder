@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-09-04T22:54:56.704Z",
+  "generatedAt": "2026-09-06T22:49:11.615Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -670,6 +670,31 @@
       }
     },
     {
+      "id": "yc-20260824005400213350",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "부산 남구 청년 창업 아이디어 경진대회",
+      "category": "창업",
+      "summary": "(참가대상) 전국의 창업 아이디어를 가진 18~39세 미창업 또는 초기창업* 청년 * 공고일 기준 사업자등록 3년 이내 (참가형태) 개인 또는 팀* * 대표자…",
+      "target": "만 18~39세 — 초기 창업 아이디어를 가진 청년들이 아이디어를 실험하고 다듬을 수 있는 기회를 제공하고자 제2회 부산 남구 청년 창업 아이디어 경진대회를 개최합니다",
+      "deadline": "2026-09-07 ~ 2026-09-18",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.bsnamgu.go.kr/index.namgu?menuCd=DOM_000000105001002000",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 39,
+        "regions": [
+          "부산광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
       "id": "yc-20260821005400213345",
       "type": "local",
       "open": true,
@@ -1011,31 +1036,6 @@
         "maxAge": 45,
         "regions": [
           "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260729005400113312",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "충남형 청년 한달살이 프로그램 운영",
-      "category": "참여·권리",
-      "summary": "2~4주간 타 시도 청년들에게 충남에서의 주거, 생활, 일자리 체험 등을 제공하여 지역유입 및 정착 유도 ※ 2026년 부여군, 서천군, 홍성군, 예산군 진행",
-      "target": "만 19~39세 — 해당 없음",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "별도 문의",
-      "link": "https://www.chungnam.go.kr/cnportal/media/article/view.do?articleNo=MD0003388797&menuNo=500167",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "충청남도"
         ],
         "maxIncomeRatio": null,
         "employment": null,
