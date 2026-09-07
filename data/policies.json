@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-09-06T22:49:11.615Z",
+  "generatedAt": "2026-09-07T23:21:47.076Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -720,31 +720,6 @@
       }
     },
     {
-      "id": "yc-20260821005400213343",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "콘텐츠 테크하이어 QA 과정 교육생 모집",
-      "category": "교육",
-      "summary": "○ 교육기간 · 2026. 9. 21.(월) ~ 11. 19.(목) / 8주, 총 320시간 · 4주 이론교육 + 4주 실습교육 ○ 교육일정 · 월 ~ 금(주…",
-      "target": "만 18~39세 — ○ 문화콘텐츠 전문인력 양성 및 취업지원 · SW·게임 QA 및 IT 서비스 운영 분야 실무인재 양성 · QA 기초 및 품질관리 체계 · 테스트 설계기법과 Test Scenario/Case 작성 · 결함관리, J…",
-      "deadline": "2026-08-14 ~ 2026-09-07",
-      "applyMethod": "○ GCC사관학교 홈페이지를 통한 교육생 접수",
-      "link": "https://gccaca.kr/board.es?mid=a10405000000&bid=0001&act=view&list_no=928",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
       "id": "yc-20260821005400113348",
       "type": "policy",
       "open": true,
@@ -1036,6 +1011,31 @@
         "maxAge": 45,
         "regions": [
           "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260729005400113312",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "충남형 청년 한달살이 프로그램 운영",
+      "category": "참여·권리",
+      "summary": "2~4주간 타 시도 청년들에게 충남에서의 주거, 생활, 일자리 체험 등을 제공하여 지역유입 및 정착 유도 ※ 2026년 부여군, 서천군, 홍성군, 예산군 진행",
+      "target": "만 19~39세 — 해당 없음",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "별도 문의",
+      "link": "https://www.chungnam.go.kr/cnportal/media/article/view.do?articleNo=MD0003388797&menuNo=500167",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "충청남도"
         ],
         "maxIncomeRatio": null,
         "employment": null,
