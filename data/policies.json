@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-09-08T23:16:27.695Z",
+  "generatedAt": "2026-09-09T23:06:07.650Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -898,31 +898,6 @@
       }
     },
     {
-      "id": "yc-20260821005400113348",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "국가근로장학금",
-      "category": "교육",
-      "summary": "2026년 2학기 2차 국가근로장학금 안내 ㅇ 신청대상: 대한민국 국적으로 국내 대학의 재학생 ㅇ 선발요건 - 직전학기 성적 70점/100점(C학점) 이상 ※…",
-      "target": "만 0~99999세 — - 직전학기 성적 70점/100점(C학점) 이상 ※ 단, 학생이 장애인, 자립준비청년(구. 보호종료아동)인 경우 성적기준 적용 제외 가능 - 학자금 지원구간 9구간 이하 ※ 단, 학부모 실·폐업 등 긴급 경제…",
-      "deadline": "2026-08-12 ~ 2026-09-09",
-      "applyMethod": "- 한국장학재단 누리집(www.kosaf.go.kr) 혹은 모바일 앱에서 신청(반드시 학생 본인이 신청) - 사용 가능한 전자서명수단 한 가지…",
-      "link": "https://www.kosaf.go.kr/",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
       "id": "yc-20260820005400213341",
       "type": "local",
       "open": true,
@@ -1023,20 +998,45 @@
       }
     },
     {
-      "id": "yc-20260813005400213334",
+      "id": "yc-20260813005400213335",
       "type": "local",
       "open": true,
       "source": "youthcenter",
-      "name": "청년드림은행(청년재무상담소)",
-      "category": "금융",
-      "summary": "1:1 재무관리 상담을 통한 재무상태 진단 및 채무조정 지원 등 재무관리 상담 : 신용 및 부채 상담과 더불어 당장에 문제가 없더라도 현재 재무상태를 진단하고…",
-      "target": "만 19~39세 — 고금리·고물가 등 청년의 경제적 여건이 더욱 악화되어 청년부채 문제를 해소하고 안정적 생활기반을 위한 금융안전망 구축",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "청년드림은행(청년재무상담소)은 다양한 신청 방법을 제공합니다. ○ 인터넷 접수 : 상단 신청하기 클릭(회원가입이 불가능한 경우 하단 신청사이트…",
-      "link": "https://youth.gwangju.go.kr/www/50?formSeq=28&mapngColumn=policy_id&mapngId=1237&url=%2Fwww%2Fform%2FapplFormView",
+      "name": "청년도전지원사업 단기 3기·4기 프로그램 참여자 모집",
+      "category": "취업",
+      "summary": "○ 프로그램 · 밀착상담 · 사례관리 · 진로탐색 · 자신감회복 · 취업역량강화 ○ 참여수당 · 5주 40시간 참여수당 50만원",
+      "target": "만 18~39세 — ○ 청년도전지원사업 단기 프로그램 참여자 모집 · 5주 동안 자신을 돌아보고 자신감을 회복하며, 진로 탐색과 취업 준비를 단계적으로 지원하는 맞춤형 프로그램 · 취업 준비의 첫걸음을 시작하고 싶은 청년 대상 프로…",
+      "deadline": "2026-08-07 ~ 2026-09-30",
+      "applyMethod": "○ 온라인 신청 · 모집 포스터 QR코드 접속 · 고용24에서 '청년도전지원사업' 검색 후 운영기관 '광산구청년도전지원센터' 선택 ○ 방문 신…",
+      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1427&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
       "eligibility": {
-        "minAge": 19,
+        "minAge": 18,
         "maxAge": 39,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260812005400213331",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026년 청년정책 종합상담 참여자 모집(기존 전라남도 22개 시·군 대상)",
+      "category": "참여·권리",
+      "summary": "○ 맞춤형 정책상담 · 일자리, 주거, 교육, 문화·복지, 금융, 참여·권리 등 1시간 내외의 맞춤형 청년정책 상담 제공 ○ 참여혜택 · 대면 상담 참여자 선착…",
+      "target": "만 18~45세 — 청년 개인 상황에 맞는 맞춤형 1:1 정책 상담 진행",
+      "deadline": "2026-06-29 ~ 2026-12-31",
+      "applyMethod": "1. 중앙청년지원센터 홈페이지 상단 메뉴에서 「청년정책종합상담」 메뉴 선택 2. 상담 신청 페이지에서 신청서를 작성 3. 신청이 완료되면 담당…",
+      "link": "https://nysc.or.kr/nysc/",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 45,
         "regions": [
           "전남광주통합특별시"
         ],
