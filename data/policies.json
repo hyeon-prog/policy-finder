@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-09-09T23:06:07.650Z",
+  "generatedAt": "2026-09-10T23:01:48.958Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -292,6 +292,258 @@
       "source": "curated"
     },
     {
+      "id": "yc-20260909005400213390",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "「2026년 청년농업인 경영실습 임대농장」 임차인 모집",
+      "category": "주거",
+      "summary": "○ 경영실습농장 임차 권한 부여 · 본인 명의의 별도 영농기반 마련 시까지 경영실습농장 임차 권한 부여 · 임대기간 기본 3년 · 신규 임차인 모집 재공고에도…",
+      "target": "만 18~40세 — ○ 청년농업인 경영실습 임대농장 임차인 모집 · 영농경험이 부족한 청년에게 시설농업 운영 경험과 기술습득 기회 제공 · 영농창업을 위한 밑거름 마련 지원",
+      "deadline": "2026-09-07 ~ 2026-09-16",
+      "applyMethod": "○ 신청방법 · 방문접수, 이메일, 우편 · 우편은 2026. 9. 16. 18:00 이전 도착분에 한함 ○ 접수처 · 순천시 농업정책과 스마…",
+      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1465&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 40,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260909005400213394",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "남구 AI 창업 아카데미",
+      "category": "창업",
+      "summary": "창업 아이디어 발굴부터 시장조사, 마케팅, 시제품 제작, 발표 자료 구성까지 생성형 AI를 활용한 창업 전 과정 실습 교육",
+      "target": "만 19~39세 — ○ 일시 : 26026. 9. 30.(수) ~ 10. 29.(목) 18:00~21:00 (매주 수,목/총 10차시) ○ 장소 : 청년와락(독립로 2, 2층) ○ 강의 내용 : 창업 아이디어 발굴부터 시장조사, 마…",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "네이버 폼 신청 https://naver.me/G7NYhNhY",
+      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1461&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260909005400213389",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026년 나주시 청년센터 하반기 「청년희망학교」 강사 모집",
+      "category": "교육",
+      "summary": "○ 강사비 및 재료비 지원 · 2026년 지방자치인재개발원 강사수당 지급기준 적용 · 강사 등급 및 운영시간에 따라 강사료 책정 · 원데이 클래스에 한해 재료비…",
+      "target": "만 1~99세 — ○ 청년들의 역량 강화 및 네트워크 활성화를 위한 「청년희망학교」 강사 모집 · 취‧창업, 마케팅, 관계‧소통, 문화‧예술 등 청년 역량강화 관련 강의 운영 · 8개 강좌 모집, 모집인원 강사풀 구성",
+      "deadline": "2026-09-01 ~ 2026-09-11",
+      "applyMethod": "○ 접수방법: 이메일 또는 방문 제출 · 제출서류 스캔 후 이메일 제출: han1520@korea.kr · 방문 제출: 10:00~18:00…",
+      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1466&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "eligibility": {
+        "minAge": 1,
+        "maxAge": 99,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260909005400213393",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "「2026년 청년 창업 성장 육성 프로젝트 지원사업」 청년창업자 모집 공고(3차)",
+      "category": "창업",
+      "summary": "❍ 지원 내용 - 공통 역량강화 프로그램 - 온라인 마케팅 및 sns홍보 지원 1. 온라인 마케팅 및 홍보비(기업 당 1,000천원) 지원 2. 전문업체를 통한…",
+      "target": "만 19~39세 — 창업 성장기에 접어든 청년 창업자의 안정적인 시장 안착과 지속 가능한 성장 기반 마련을 지원하기 위하여 「2026년 청년 창업 성장 육성 프로젝트 지원사업」의 참여자를 다음과 같이 3차 모집하오니 많은 신청 바랍…",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "□ 신청접수 ❍ 신청기간 : 2026. 8. 10.(월) ~ 9. 8. (화) 18:00 까지 ❍ 신청방법 : 이메일 (bunnyqu@kore…",
+      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1462&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260909005400213388",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026년 광양시 미혼남녀 만남 행사 「설렘N광양」 참가자 모집",
+      "category": "참여·권리",
+      "summary": "○ 행사 참여 지원 · 미혼 남녀 대상 만남 기회 제공 · 로테이션 매칭 토크, 레크리에이션 등 운영 ○ 참가비 · 무료",
+      "target": "만 27~39세 — ○ 미혼남녀 만남 행사 운영 · 바쁜 일상 등으로 이성을 만날 기회를 만들지 못한 미혼 남녀에게 만남의 기회 제공 ○ 주요내용 · 로테이션 매칭 토크 · 레크리에이션 등",
+      "deadline": "2026-09-09 ~ 2026-09-28",
+      "applyMethod": "○ 신청방법 · 방문 및 MY광양앱(행정서비스 신청) 접수 ○ 방문 접수 · 광양시청(3층) 청년일자리과 인구정책팀 · 평일 09:00~18:…",
+      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1467&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "eligibility": {
+        "minAge": 27,
+        "maxAge": 39,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260909005400213392",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "'나의 광주 정착 키트' 2기 참여자 모집",
+      "category": "금융",
+      "summary": "○ 문화예술 프로그램 전액 지원 · 칼림바 만들기 · 나를 닮은 반려 식물 만들기 · 나만의 무드등 만들기 · 나만의 에코백 만들기 · 광주 탐방 및 기록 과정…",
+      "target": "만 19~39세 — ○ 광주가 처음인 청년을 위한 문화예술 프로그램 · 학업, 취업 등의 이유로 광주에서 새로운 시작을 준비하는 청년 대상 · 예술 활동을 통해 광주 정착 키트 제작 및 광주 탐방·기록 과정 포함",
+      "deadline": "2026-09-07 ~ 2026-10-28",
+      "applyMethod": "○ 프로필 링크 및 QR 코드 스캔 신청 · 신청링크: https://spectacular-foe-878.notion.site/338df122…",
+      "link": "https://spectacular-foe-878.notion.site/338df122937c8008ac28de053bd9ce5d?source=copy_link",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260909005400213387",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "[영암군] 「청년 자격증 응시료 지원사업」 9월 모집",
+      "category": "교육",
+      "summary": "○ 지원금액 · 1인당 최대 10만원 한도 ○ 지원내용 · 어학·한국사, 국가자격증 응시료 실비 지원 ○ 응시료 지원 시험종류 · 어학: TOEIC, TOEFL…",
+      "target": "만 19~49세 — ○ 청년 자격증 응시료 지원 · 구직활동에 필요한 자격증 응시료 지원을 통한 미취업 청년의 경제적 부담 완화",
+      "deadline": "2026-09-01 ~ 2026-09-15",
+      "applyMethod": "○ 신청방법 · 방문 및 이메일 접수 ○ 방문 접수 · 영암군청 인구청년과 ○ 이메일 접수 · suljin12@korea.kr ※ 이메일 신청…",
+      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1468&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 49,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260909005400213391",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년창업 거주지원시설(창업하여家) 입주자 3차 모집",
+      "category": "주거",
+      "summary": "○ 공급주택 · 위치: 전남광주통합특별시 북구 저불로73번길 22-7(용봉동 831-8) · 공급형태: 4층 다가구 주택 · 공급호수: 403호, 53.57㎡…",
+      "target": "만 1~39세 — ○ 청년창업 거주지원시설 입주자 모집 · 초기창업자 및 예비창업자에게 업무와 주거를 함께 할 수 있는 임대주택을 저렴하게 공급 · 주거 안정 및 창업기업 성장 지원",
+      "deadline": "2026-09-02 ~ 2026-09-15",
+      "applyMethod": "○ 신청방법 · 대면접수 또는 우편접수 · 우편접수는 마감시간 내 도착자에 한함 ○ 접수처 · [61436] 전남광주통합특별시 동구 동계천로…",
+      "link": "https://www.gjtp.or.kr/home/business.cs?act=view&amp;bsnssId=2258&amp;ctg01=01,02,03,04,05,06,09,07,08,10,11,12&amp;ctg02=04&amp;ctg03=14&amp;pageIndex=1&amp;pageUnit=30&amp;searchKeyword=",
+      "eligibility": {
+        "minAge": 1,
+        "maxAge": 39,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260909005400213395",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "남구 AI 콘텐츠 크리에이터 양성교육",
+      "category": "취업",
+      "summary": "생성형 AI 포토그래메트리 활용 3D 에셋 및 영상 제작 무료 강좌",
+      "target": "만 19~39세 — ○ 일시 : 26026. 9. 16.(수) ~ 10. 28.(수) 14:00~17:00 (매주 수,금/총 10차시) ○ 장소 : 청년와락(독립로 2, 2층) ○ 강의 내용 : 생성형 AI 포토그래메트리 활용 3D…",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "네이버 폼 신청 https://naver.me/G7NYhNhY",
+      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1460&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260909005400213397",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "경기 재도전학교",
+      "category": "교육",
+      "summary": "심리회복, 실패원인 분석, 전문가 맞춤형 코칭, 미래설계 등 4박 5일 간 합숙 교육지원",
+      "target": "만 19~70세 — 취업, 창업 재도전을 희망하는 19세 이상 경기도민 (주민등록상 경기도 거주자)",
+      "deadline": "2026-02-25 ~ 2026-09-20",
+      "applyMethod": "경기도평생교육진흥원 누리집(https://www.gill.or.kr) 신청",
+      "link": "https://www.gill.or.kr",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 70,
+        "regions": [
+          "경기도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": [
+          "jobseeker"
+        ],
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
       "id": "yc-20260908005400213380",
       "type": "local",
       "open": true,
@@ -320,6 +572,56 @@
       }
     },
     {
+      "id": "yc-20260908005400213384",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "화순군 청년 자격증 응시료 지원사업",
+      "category": "창업",
+      "summary": "○ 지원내용 : 1인당 '연 최대2회, 연 10만원 한도.' 어학 및 자격증 시험 응시료 지원 ○ 응시료 지원 시험 종류 - 어학 : TOEIC, TOEFL,…",
+      "target": "만 17~48세 — - 지원대상 : 아래 요건을 모두 충족하는 자 · 연 령 : 신청일 기준 18세 이상 49세 이하 · 주 소 : 신청일부터 계속해서 화순군에 주민등록을 두고 있는 자 · 기 타 : 2026. 1. 1. 이후 실시…",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "정부24 온라인 신청",
+      "link": "https://plus.gov.kr/",
+      "eligibility": {
+        "minAge": 17,
+        "maxAge": 48,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260908005400213385",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "(재)화순장학회 장학금 지원",
+      "category": "교육",
+      "summary": "○ 2026년 화순장학회 상반기 장학금 지원 - 선발인원 : 70명 (화순 대 27, 복지 대 23, 예능특기 중 5, 고 5, 대 5, 해외유학생 5) - 지…",
+      "target": "만 0~99999세 — - 공고일(2026. 2. 20.) 기준 부모(보호자)와 학생 중 2인 이상이 화순군에 1년 이상 계속하여 주민등록을 유지하고 있는 자 - (대학생) 고등교육법에 따른 국내 정규 대학교에 재학 중인 자(해외유…",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "공고일(2026. 2. 20.) 기준 부모(보호자)와 학생 중 2인 이상이 화순군에 1년 이상 계속하여 주민등록을 유지하고 있는 자 - (대학…",
+      "link": "https://plus.gov.kr/",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
       "id": "yc-20260907005400213374",
       "type": "local",
       "open": true,
@@ -336,6 +638,31 @@
         "maxAge": 99,
         "regions": [
           "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260907005400213379",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "대학일자리플러스센터 지원 사업",
+      "category": "취업",
+      "summary": "프로그램 운영비 지원 - 취·창업 지원, 진로지도, 지역청년지원 등",
+      "target": "만 15~34세 — 대학의 취업지원 기능 및 인프라를 통합·연계하는 전달체계를 구축하여 대학의 청년 특화 고용서비스 지원 역량을 강화하고 청년의 노동시장 진입 지원",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "경기도 내 23개 대학일자리플러스센터에 신청 거점형: 가천대, 경기대, 단국대, 대진대, 부천대, 성결대, 수원대, 아주대, 연성대, 한신대…",
+      "link": "https://www.gg.go.kr/bbs/board.do?bsIdx=873&menuId=1534177#page=1",
+      "eligibility": {
+        "minAge": 15,
+        "maxAge": 34,
+        "regions": [
+          "전국"
         ],
         "maxIncomeRatio": null,
         "employment": null,
@@ -655,7 +982,7 @@
       "target": "만 19~39세 — [남구] 2026년 구직청년 증명사진 촬영지원",
       "deadline": "상시 신청 (상세 공고 확인)",
       "applyMethod": "1) 신청 및 접수 - 신청기간: 2026. 7. 27. ~ 12. 18. ※ 예산 소진 시 조기 종료 - 신청방법: 방문 또는 이메일 신청…",
-      "link": "https://www.namgu.gwangju.kr/board.es?mid=a10604010000&bid=0001",
+      "link": "https://www.namgu.gwangju.kr/index.es?sid=a1",
       "eligibility": {
         "minAge": 19,
         "maxAge": 39,
@@ -674,7 +1001,7 @@
       "type": "local",
       "open": true,
       "source": "youthcenter",
-      "name": "[무료 강의] 방송 쪽 취업 관심 있는 분만",
+      "name": "[남구] 방송, 엔터 취업역량강화 교육캠프",
       "category": "취업",
       "summary": "ㅁ 프로그램명: 2026년 청년와락 &apos;청년이 청년에게&apos; ㅁ 강의 일시 ㅇ 2026. 11. 16.(월) ~ 11. 27.(금) 월~금 14:0…",
       "target": "만 19~39세 — ㅁ 프로그램명: 2026년 청년와락 &apos;청년이 청년에게&apos; ㅁ 강의 일시 ㅇ 2026. 11. 16.(월) ~ 11. 27.(금) 월~금 14:00~17:00 (총 10차시) ㅁ 강의 내용 ㅇ 방송…",
@@ -709,334 +1036,6 @@
       "eligibility": {
         "minAge": 19,
         "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260828005400213358",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "[무료강좌] 돈이 돈을 버는 법 (원숭이도 따라하는 쉬운 재테크)",
-      "category": "교육",
-      "summary": "ㅁ 강의 일정 ㅇ (1차시) 9월 10일(목) 19:00~21:00 - 안전자산: 은행예금보다 이자 더 받는 꿀팁 ㅇ (2차시) 9월 14일(월) 19:00~2…",
-      "target": "만 19~39세 — ※ ※ ※ ※ 2026년 8월 26일 기준 접수 마감 임박 ※ ※ ※ ※ ※ 서 두 르 세 요 ! ! ! ※ ※ ※ ※ 모집인원 10명 자리밖에 안 남았습니다 ! ! ! ※ ※ ※ ※ ※ ㅁ 프로그램명 ㅇ 202…",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "https://naver.me/FwG21V3I",
-      "link": "https://naver.me/FwG21V3I",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260827005400213357",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년도약 인재양성 부트캠프 사업(미래차 분야)",
-      "category": "교육",
-      "summary": "○ 교육과정 운영 · 입문·초급: AI기초, 미래모빌리티개론, 미래차 생산기술 이해 · 실무·중급 A과정: 자율주행 시스템 이해, 자율주행 데이터처리, 실증 시…",
-      "target": "만 19~34세 — ○ 청년도약 미래차 교육생 모집 · 미래차 전문가로 성장하는 단계별 교육과정을 통한 실전형 인재육성 · 전자차·자율주행·전장·AI 등 미래차 핵심 기술을 기반으로 산업 현장에 바로 활용할 수 있는 실무형 미래차…",
-      "deadline": "2026-08-19 ~ 2026-09-18",
-      "applyMethod": "○ QR코드 스캔하여 작성 후 제출 ○ 신청 완료 ○ 홈페이지 참고",
-      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1447&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 34,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260826005400213352",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026 일상돌봄서비스 사업 이용자 모집",
-      "category": "금융",
-      "summary": "○ 기본서비스 · A형(기본돌봄형): 월 36시간, 재가돌봄 및 가사지원 · C형(추가돌봄형): 월 72시간, 재가돌봄 및 가사지원 · B형(기본가사형): 월…",
-      "target": "만 1~39세 — ○ 일상돌봄서비스 사업 이용자 모집 · 신청대상: 가족돌봄청년(청소년 포함) · 대상서비스 유형: 기본서비스(A,B,C형) 및 식사관리서비스, 영양관리서비스",
-      "deadline": "2026-08-24 ~ 2026-09-23",
-      "applyMethod": "○ 신청방법 · 주민등록상 거주지 동 행정복지센터 방문 ※ 거동 불편 등 부득이한 경우 전화, 우편, 팩스 신청 가능 ○ 신청장소 · 관할 주…",
-      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1442&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
-      "eligibility": {
-        "minAge": 1,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260824005400113351",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "희망사다리 장학사업(Ⅰ,Ⅱ유형)",
-      "category": "교육",
-      "summary": "1. 희망사다리 장학사업Ⅰ유형(중소기업 취업연계 장학금) ㅇ 소개: 중소·중견기업 취업·창업(희망)자를 위한 장학금 ㅇ 신청기간: 2026. 9. 1.(화) 0…",
-      "target": "만 0~99999세 — 희망사다리 장학사업Ⅰ유형(중소기업 취업연계 장학금) : 중소·중견기업 취업·창업(희망)자를 위한 장학금 희망사다리 장학사업Ⅱ유형(고졸 후학습자 장학금) : 선취업 후학습을 희망하는 자를 위한 장학금",
-      "deadline": "2026-09-01 ~ 2026-09-18",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.kosaf.go.kr",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": [
-          "employed",
-          "jobseeker"
-        ],
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260824005400213349",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "[9월 마감] 2026년 구직청년 자격증 취득지원 사업 (10월 6일 10시 오픈 예정)",
-      "category": "교육",
-      "summary": "※ 단계별 시험(필기,실기 등)은 명칭과 상관 없이 합산 신청 가능(개별 신청하여 지급 완료 시, 당해 연도 추가 신청 및 소급 지원 불가) ❍ 지원분야 - 한…",
-      "target": "만 19~39세 — 구직활동에 필요한 어학(능력)·자격증 시험 응시료 지원",
-      "deadline": "2026-09-01 ~ 2026-12-31",
-      "applyMethod": "시험 응시 → 전남광주통합특별시청년통합플랫폼 접수 → 제출 서류 확인 (자격심사 및 중복지원여부 조회) → 선정안내 및 만족도조사 → 지원금…",
-      "link": "https://youth.gwangju.go.kr/www/50?formSeq=131&mapngColumn=policy_id&mapngId=1441&url=%2Fwww%2Fform%2FapplFormView",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260824005400213350",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "부산 남구 청년 창업 아이디어 경진대회",
-      "category": "창업",
-      "summary": "(참가대상) 전국의 창업 아이디어를 가진 18~39세 미창업 또는 초기창업* 청년 * 공고일 기준 사업자등록 3년 이내 (참가형태) 개인 또는 팀* * 대표자…",
-      "target": "만 18~39세 — 초기 창업 아이디어를 가진 청년들이 아이디어를 실험하고 다듬을 수 있는 기회를 제공하고자 제2회 부산 남구 청년 창업 아이디어 경진대회를 개최합니다",
-      "deadline": "2026-09-07 ~ 2026-09-18",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.bsnamgu.go.kr/index.namgu?menuCd=DOM_000000105001002000",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 39,
-        "regions": [
-          "부산광역시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260821005400213345",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026년 청년 넷제로 상상뜨락 리빙랩 아이디어 공모전",
-      "category": "참여·권리",
-      "summary": "○ 아이디어 고도화 자문 · 1차 서류 심사에서 선정된 6개 팀 대상 · 팀별 전문가 자문 및 아이디어 구체화 과정 운영 · 지역 문제의 원인 분석과 필요성 보…",
-      "target": "만 19~39세 — 2045 탄소중립 실현을 위해 청년이 지역의 탄소중립 문제를 발굴하고, 이를 해결하기 위한 정책제안 아이디어를 리빙랩 방식으로 구체화하는 「청년 넷제로 상상뜨락 리빙랩 아이디어 공모전」 참여자를 공개 모집합니다.",
-      "deadline": "2026-09-01 ~ 2026-10-02",
-      "applyMethod": "○ 이메일 접수 · lsg2022@gcea.or.kr · 방문 및 우편접수 불가 · 붙임 서식을 작성하여 제출서류와 함께 기한 내 이메일 제출…",
-      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1439&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260820005400213341",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026년 서구 청년축제 「무한도ZONE」",
-      "category": "참여·권리",
-      "summary": "○ 청년 특강, 네트워킹 프로그램, 버스킹 공연, 플리마켓 및 정책홍보존 운영 등 참여형 부대행사 - 1부(14:00 ~ 15:30) 청년 트렌드 특강(무한도전…",
-      "target": "만 19~39세 — 청년 특강, 네트워킹 프로그램, 버스킹 공연, 플리마켓 및 정책홍보존 운영 등 참여형 부대행사",
-      "deadline": "2026-08-18 ~ 2026-09-10",
-      "applyMethod": "신청(선착순) - 선정 안내 문자",
-      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1435&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260818005400213340",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026년 하반기(2026년도 1학기) 5개 자치구(광주권역) 대학(원)생 학자금 대출이자 지원",
-      "category": "금융",
-      "summary": "2017년 1학기부터 2026년 1학기까지 한국장학재단으로부터 대출받은 일반 상환 학자금 및 취업 후 상환 학자금 대출금의 2026년 상반기(1월~6월)동안 발…",
-      "target": "만 0~99999세 — 경제적 이유로 교육을 받기 곤란한 지역 대학생과 대학원생, 졸업생에게 균등한 고등교육을 받을 기회를 제공하고 교육비 부담 경감에 기여",
-      "deadline": "2026-08-18 ~ 2026-09-30",
-      "applyMethod": "전남광주청년통합플랫폼 온라인 접수 (신청기간동안 신청하기 버튼 활성화)",
-      "link": "https://youth.gwangju.go.kr/www/50?formSeq=84&mapngColumn=policy_id&mapngId=1425&url=%2Fwww%2Fform%2FapplFormView",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260818005400213339",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "[전남]2026년 하반기 대학생 학자금 대출이자 지원사업",
-      "category": "금융",
-      "summary": "○ 2026년 1월 ~ 6월(상반기)에 한국장학재단에서 대출받은 학자금 대출의 이자 전액 · 등록금, 생활비 대출 · 일반상환 + 취업 후 상환 학자금 대출 ○…",
-      "target": "만 19~39세 — ○ 대학생과 미취업 청년의 안정적인 학습 환경 조성 및 경제적 부담 완화를 위한 학자금 대출이자 지원",
-      "deadline": "2026-08-03 ~ 2026-09-11",
-      "applyMethod": "○ 전남인재평생교육진흥원 누리집 온라인 신청",
-      "link": "https://www.jntle.kr/main/uBusinessApply",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260818005400213337",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2027년 청년농업인 창업 스케일업(성장) 지원사업",
-      "category": "창업",
-      "summary": "○ 개소당 150백만 원 · 시비 30%, 시군비 50%, 자부담 20% ○ 생산비 절감 및 보유기술 확보 지원 · 시설·장비 구축 · 투자유치 역량 강화 ·…",
-      "target": "만 18~45세 — ○ 2027년 청년농업인 창업 스케일업(성장) 지원사업 대상자 선정 · 관심있는 창농기업 신청 접수 · 창농기업: 농업·농촌 연계 부가가치 창출 창업기업",
-      "deadline": "2026-07-28 ~ 2026-09-16",
-      "applyMethod": "○ 1단계 : 대상자 모집 : 2026. 7. 28. ~ 9. 16. - 추진기관 : 시군 농업기술센터 ○ 2단계 : 시군심사 및 추천 : 2…",
-      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1430&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 45,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260813005400213335",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년도전지원사업 단기 3기·4기 프로그램 참여자 모집",
-      "category": "취업",
-      "summary": "○ 프로그램 · 밀착상담 · 사례관리 · 진로탐색 · 자신감회복 · 취업역량강화 ○ 참여수당 · 5주 40시간 참여수당 50만원",
-      "target": "만 18~39세 — ○ 청년도전지원사업 단기 프로그램 참여자 모집 · 5주 동안 자신을 돌아보고 자신감을 회복하며, 진로 탐색과 취업 준비를 단계적으로 지원하는 맞춤형 프로그램 · 취업 준비의 첫걸음을 시작하고 싶은 청년 대상 프로…",
-      "deadline": "2026-08-07 ~ 2026-09-30",
-      "applyMethod": "○ 온라인 신청 · 모집 포스터 QR코드 접속 · 고용24에서 '청년도전지원사업' 검색 후 운영기관 '광산구청년도전지원센터' 선택 ○ 방문 신…",
-      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1427&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260812005400213331",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026년 청년정책 종합상담 참여자 모집(기존 전라남도 22개 시·군 대상)",
-      "category": "참여·권리",
-      "summary": "○ 맞춤형 정책상담 · 일자리, 주거, 교육, 문화·복지, 금융, 참여·권리 등 1시간 내외의 맞춤형 청년정책 상담 제공 ○ 참여혜택 · 대면 상담 참여자 선착…",
-      "target": "만 18~45세 — 청년 개인 상황에 맞는 맞춤형 1:1 정책 상담 진행",
-      "deadline": "2026-06-29 ~ 2026-12-31",
-      "applyMethod": "1. 중앙청년지원센터 홈페이지 상단 메뉴에서 「청년정책종합상담」 메뉴 선택 2. 상담 신청 페이지에서 신청서를 작성 3. 신청이 완료되면 담당…",
-      "link": "https://nysc.or.kr/nysc/",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 45,
         "regions": [
           "전남광주통합특별시"
         ],
