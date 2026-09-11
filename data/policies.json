@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-09-10T23:01:48.958Z",
+  "generatedAt": "2026-09-11T23:06:42.878Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -292,6 +292,131 @@
       "source": "curated"
     },
     {
+      "id": "yc-20260910005400213398",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026 청년의 날 기념 「제6회 용인청년페스티벌」 개최",
+      "category": "참여·권리",
+      "summary": "-용인청년정책 홍보 -청년 참여 및 체험 프로그램 운영 -조아용 활용 포토존 운영",
+      "target": "만 18~39세 — 2026 청년의 날을 맞아 대한민국 조아용 페스티벌과 연계하여 용인청년 간 공감대 형성 및 교류의 장을 마련하기 위해 「제6회 용인청년페스티벌」 을 개최함.",
+      "deadline": "2026-09-10 ~ 2026-10-04",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://youth.yongin.go.kr/web/main/bbs/info_notice/2691?cp=1&sortOrder=BA_REGDATE&sortDirection=DESC&bcId=info_notice&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 39,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260910005400213402",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "오정청년공간 운영",
+      "category": "금융",
+      "summary": "- 위치: 경기도 부천시 오정구 소사로 772, 5층 - 운영시간: (월~금) 10:00~22:00 (토) 10:00~18:00 ※ 일요일 및 법정 공휴일 휴관…",
+      "target": "만 19~39세 — 청년들이 필요로 하는 다양한 서비스와 프로그램을 제공하고 자유로운 소통과 자발적 활동이 가능한 공간 마련",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.instagram.com/ojeong1939_official",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "경기도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260910005400213404",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "소사청년공간 소사로움 운영",
+      "category": "금융",
+      "summary": "- 위치: 경기도 부천시 소사구 성무로 24, 심곡도서관 4층 - 운영시간: (화~일) 09:00~22:00 ※ 월요일 및 법정 공휴일 휴관 - 시설현황: 청년…",
+      "target": "만 0~99999세 — 청년들의 취‧창업 역량 강화 및 문화 활동 지원을 위한 청년복합문화공간 운영",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.bcl.go.kr/site/homepage/menu/viewMenu?menuid=019002003003003",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "경기도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260910005400213403",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년공간 원미청(년)정(점)구역 운영",
+      "category": "금융",
+      "summary": "- 위치: 경기도 부천시 원미구 소사로 456, 원미도서관 3층 - 운영시간: (화~일) 07:00~22:00 ※ 월요일 및 법정 공휴일 휴관 - 시설현황: 미…",
+      "target": "만 0~99999세 — 청년 커뮤니티 공간과 도서관 메이커스페이스 융합 시설, 청년활동공간 원미청정구역 운영으로 관내 청년층 활동 인프라 확충 및 역량 강화 기여 도모",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.bcl.go.kr/site/homepage/menu/viewMenu?menuid=019002003003002",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "경기도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260910005400213401",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "병역입영지원금 지원",
+      "category": "금융",
+      "summary": "- 사업대상: 입영통지일로부터 입영지원금 신청일까지 계속하여 양평군에 주민등록을 두고, 병역법에 따라 입영하는 병역의무대상자 - 사업내용: 병역의무대상자에게 1…",
+      "target": "만 19~37세 — 병역의무대상자에게 10만원 상당의 입영지원금을 1회에 한하여 지역화폐로 지급하는 사업",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.yp21.go.kr/www/selectWelfareWebList.do?key=1330",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 37,
+        "regions": [
+          "경기도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
       "id": "yc-20260909005400213390",
       "type": "local",
       "open": true,
@@ -331,31 +456,6 @@
       "eligibility": {
         "minAge": 19,
         "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260909005400213389",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026년 나주시 청년센터 하반기 「청년희망학교」 강사 모집",
-      "category": "교육",
-      "summary": "○ 강사비 및 재료비 지원 · 2026년 지방자치인재개발원 강사수당 지급기준 적용 · 강사 등급 및 운영시간에 따라 강사료 책정 · 원데이 클래스에 한해 재료비…",
-      "target": "만 1~99세 — ○ 청년들의 역량 강화 및 네트워크 활성화를 위한 「청년희망학교」 강사 모집 · 취‧창업, 마케팅, 관계‧소통, 문화‧예술 등 청년 역량강화 관련 강의 운영 · 8개 강좌 모집, 모집인원 강사풀 구성",
-      "deadline": "2026-09-01 ~ 2026-09-11",
-      "applyMethod": "○ 접수방법: 이메일 또는 방문 제출 · 제출서류 스캔 후 이메일 제출: han1520@korea.kr · 방문 제출: 10:00~18:00…",
-      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1466&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
-      "eligibility": {
-        "minAge": 1,
-        "maxAge": 99,
         "regions": [
           "전남광주통합특별시"
         ],
@@ -936,106 +1036,6 @@
       "eligibility": {
         "minAge": 19,
         "maxAge": 34,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260831005400213363",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026년 전남광주통합특별시 청년축제",
-      "category": "참여·권리",
-      "summary": "○ 컨퍼런스 · 전남‧광주청년 컨퍼런스 · 전일빌딩 4층 라운지 공간 일대 · 13:00~17:00 ○ 페스타 · ACC 하늘마당 메인무대 · 특별공연, 강연대…",
-      "target": "만 1~99세 — ○ 주제 · 피파페(새롭게 피어난 두 파장의 울림, 청년페스타) ○ 행사내용 · 컨퍼런스, 개막행사, 특별공연, 부스운영 등",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "해당 없음",
-      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1451&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
-      "eligibility": {
-        "minAge": 1,
-        "maxAge": 99,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260831005400213365",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "[남구] 증명사진 무료지원",
-      "category": "취업",
-      "summary": "❍ 지원기간 : 2026. 7. ~ 12. ※ 예산 소진 시 조기 마감 ❍ 지원대상 : 신청일 기준 청년 구직자로서, 본인이 남구 주민이거나 남구 소재 대학교에…",
-      "target": "만 19~39세 — [남구] 2026년 구직청년 증명사진 촬영지원",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "1) 신청 및 접수 - 신청기간: 2026. 7. 27. ~ 12. 18. ※ 예산 소진 시 조기 종료 - 신청방법: 방문 또는 이메일 신청…",
-      "link": "https://www.namgu.gwangju.kr/index.es?sid=a1",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260828005400213359",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "[남구] 방송, 엔터 취업역량강화 교육캠프",
-      "category": "취업",
-      "summary": "ㅁ 프로그램명: 2026년 청년와락 &apos;청년이 청년에게&apos; ㅁ 강의 일시 ㅇ 2026. 11. 16.(월) ~ 11. 27.(금) 월~금 14:0…",
-      "target": "만 19~39세 — ㅁ 프로그램명: 2026년 청년와락 &apos;청년이 청년에게&apos; ㅁ 강의 일시 ㅇ 2026. 11. 16.(월) ~ 11. 27.(금) 월~금 14:00~17:00 (총 10차시) ㅁ 강의 내용 ㅇ 방송…",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "https://naver.me/FwG21V3I",
-      "link": "https://naver.me/FwG21V3I",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260828005400213360",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "[소진 마감]2026 동구 청년 웰컴 박스",
-      "category": "금융",
-      "summary": "○ 웰컴 박스 물품 제공 · 롤 화장지(3개), 호텔 수건(1개) · 광주 동구 종량제봉투 10L(5장) · 구급상자 미니(1개), 이케아 장바구니(1개)",
-      "target": "만 19~39세 — 동구 청년센터 아지트에서는 초기 생활 적응에 필요한 물품을 제공하여 청년의 안정적인 정착을 돕고자 「2026 동구 청년 웰컴 박스」 신청자를 모집합니다.",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "○ 구글폼 신청서 제출(동구 청년센터 아지트 홈페이지 회원가입 후 가능)",
-      "link": "https://gjdgit.kr/program/detail/60",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
         "regions": [
           "전남광주통합특별시"
         ],
