@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-09-14T23:46:40.324Z",
+  "generatedAt": "2026-09-15T23:28:15.115Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -308,31 +308,6 @@
         "maxAge": null,
         "regions": [
           "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260914005400213410",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년·신혼부부 주거자금 대출이자 지원",
-      "category": "주거",
-      "summary": "○사업근거:「부산광역시 수영구 청년 기본 조례」제13조의2 ○사업기간: 2026. 8 ~ 10월 ○사업내용: 구입 또는 전월세 목적으로 금융권 대출을 실행한 청…",
-      "target": "만 18~39세 — 공고문 참조",
-      "deadline": "2026-08-26 ~ 2026-09-15",
-      "applyMethod": "수영구 청년포털 홈페이지 온라인 신청",
-      "link": "https://www.suyeong.go.kr/youth/index.suyeong",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 39,
-        "regions": [
-          "부산광역시"
         ],
         "maxIncomeRatio": null,
         "employment": null,
@@ -746,56 +721,6 @@
       }
     },
     {
-      "id": "yc-20260909005400213387",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "[영암군] 「청년 자격증 응시료 지원사업」 9월 모집",
-      "category": "교육",
-      "summary": "○ 지원금액 · 1인당 최대 10만원 한도 ○ 지원내용 · 어학·한국사, 국가자격증 응시료 실비 지원 ○ 응시료 지원 시험종류 · 어학: TOEIC, TOEFL…",
-      "target": "만 19~49세 — ○ 청년 자격증 응시료 지원 · 구직활동에 필요한 자격증 응시료 지원을 통한 미취업 청년의 경제적 부담 완화",
-      "deadline": "2026-09-01 ~ 2026-09-15",
-      "applyMethod": "○ 신청방법 · 방문 및 이메일 접수 ○ 방문 접수 · 영암군청 인구청년과 ○ 이메일 접수 · suljin12@korea.kr ※ 이메일 신청…",
-      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1468&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 49,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260909005400213391",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년창업 거주지원시설(창업하여家) 입주자 3차 모집",
-      "category": "주거",
-      "summary": "○ 공급주택 · 위치: 전남광주통합특별시 북구 저불로73번길 22-7(용봉동 831-8) · 공급형태: 4층 다가구 주택 · 공급호수: 403호, 53.57㎡…",
-      "target": "만 1~39세 — ○ 청년창업 거주지원시설 입주자 모집 · 초기창업자 및 예비창업자에게 업무와 주거를 함께 할 수 있는 임대주택을 저렴하게 공급 · 주거 안정 및 창업기업 성장 지원",
-      "deadline": "2026-09-02 ~ 2026-09-15",
-      "applyMethod": "○ 신청방법 · 대면접수 또는 우편접수 · 우편접수는 마감시간 내 도착자에 한함 ○ 접수처 · [61436] 전남광주통합특별시 동구 동계천로…",
-      "link": "https://www.gjtp.or.kr/home/business.cs?act=view&amp;bsnssId=2258&amp;ctg01=01,02,03,04,05,06,09,07,08,10,11,12&amp;ctg02=04&amp;ctg03=14&amp;pageIndex=1&amp;pageUnit=30&amp;searchKeyword=",
-      "eligibility": {
-        "minAge": 1,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
       "id": "yc-20260909005400213395",
       "type": "local",
       "open": true,
@@ -1045,6 +970,81 @@
         "maxAge": null,
         "regions": [
           "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260903005400113371",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026학년도 2학기 AI학업장려 학자금대출",
+      "category": "금융",
+      "summary": "ㅇ AI학업장려비: AI·SW분야 학업 수행에 필요한 수강료, 도서·교재비 등 비용 지원 ㅇ 대출금리: 연 1.7% 변동금리 ㅇ 대출한도: 연간 200만 원 이…",
+      "target": "만 19~35세 — - 성적기준: 직전학기 이수학점 12학점 이상 ※ 장애인, 신입생군, 졸업학년 학부생은 이수학점 기준 제외",
+      "deadline": "2026-07-01 ~ 2026-11-17",
+      "applyMethod": "한국장학재단 누리집(www.kosaf.go.kr) 및 모바일 앱에서 신청",
+      "link": "https://www.kosaf.go.kr/ko/tuition.do?pg=tuition19",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 35,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260903005400213372",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년톡톡콘서트",
+      "category": "금융",
+      "summary": "□ 일 시 : 2026. 9. 17.(목) 19시~21시 □ 장 소 : 은평문화예술회관 숲속극장 □ 강 사 : 극작가 박천휴 (한국 창작 뮤지컬 최초 미국 토니…",
+      "target": "만 19~39세 — 극작가 박천휴가 자신의 성장과정과 경험 등을 강의하여 불확실한 미래를 고민하는 청년들에게 위로와 조언을 하는 시간을 마련",
+      "deadline": "2026-09-01 ~ 2026-09-17",
+      "applyMethod": "은평구청 홈페이지에서 사전신청 또는 현장신청",
+      "link": "https://answer.moaform.com/answers/En4pQB",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260903005400213368",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026 여수시 청년거리문화한마당 문수대통 시즌2",
+      "category": "생활지원",
+      "summary": "○ 행사내용 · 문수동 둘레길 걷기챌린지(약 850m) · 먼저인사하기 미션 · 거리버스킹 공연 · 손마사지, 전통놀이 등 다양한 체험부스 ○ 걷기 기부 챌린지…",
+      "target": "만 1~99세 — ○ 주민과 청년이 함께 만드는 문수동 대통합 축제 · 거리문화공연, 우리동네 걷기 기부 챌린지, 체험 프로그램 등 운영",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "○ 참여방법 · 온라인 사전 접수 · 당일 현장 접수 · 홍보포스터 QR코드 또는 온라인(https://naver me/GgfXkNiC) 신청",
+      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1457&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "eligibility": {
+        "minAge": 1,
+        "maxAge": 99,
+        "regions": [
+          "전남광주통합특별시"
         ],
         "maxIncomeRatio": null,
         "employment": null,
