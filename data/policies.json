@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-09-15T23:28:15.115Z",
+  "generatedAt": "2026-09-16T23:35:42.184Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -596,31 +596,6 @@
       }
     },
     {
-      "id": "yc-20260909005400213390",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "「2026년 청년농업인 경영실습 임대농장」 임차인 모집",
-      "category": "주거",
-      "summary": "○ 경영실습농장 임차 권한 부여 · 본인 명의의 별도 영농기반 마련 시까지 경영실습농장 임차 권한 부여 · 임대기간 기본 3년 · 신규 임차인 모집 재공고에도…",
-      "target": "만 18~40세 — ○ 청년농업인 경영실습 임대농장 임차인 모집 · 영농경험이 부족한 청년에게 시설농업 운영 경험과 기술습득 기회 제공 · 영농창업을 위한 밑거름 마련 지원",
-      "deadline": "2026-09-07 ~ 2026-09-16",
-      "applyMethod": "○ 신청방법 · 방문접수, 이메일, 우편 · 우편은 2026. 9. 16. 18:00 이전 도착분에 한함 ○ 접수처 · 순천시 농업정책과 스마…",
-      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1465&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 40,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
       "id": "yc-20260909005400213394",
       "type": "local",
       "open": true,
@@ -1043,6 +1018,31 @@
       "eligibility": {
         "minAge": 1,
         "maxAge": 99,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260903005400213370",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "광양청년꿈터 하반기 드림클래스 수강생 모집",
+      "category": "교육",
+      "summary": "○ 운영학과 · 내 이야기가 브랜드가 되는 전자책 출간하기: 9. 14. ~ 9. 28. / 매주 월요일 18:30 · 향기 미션 프로젝트: 9. 15. ~ 1…",
+      "target": "만 18~45세 — ○ 광양청년꿈터 하반기 드림클래스 수강생 모집 · 청년 대상 8개 학과 운영 · 1인 2개 학과까지 수강 가능 · 수강료 무료",
+      "deadline": "2026-08-31 ~ 2026-10-31",
+      "applyMethod": "○ 광양청년꿈터 홈페이지 신청 ○ 포스터 QR코드 수강신청 바로가기",
+      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1458&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 45,
         "regions": [
           "전남광주통합특별시"
         ],
