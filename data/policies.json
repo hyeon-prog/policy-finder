@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-09-16T23:35:42.184Z",
+  "generatedAt": "2026-09-17T23:27:35.194Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -290,6 +290,131 @@
         "minHouseholdSize": null
       },
       "source": "curated"
+    },
+    {
+      "id": "yc-20260917005400113422",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년의 삶 실태조사",
+      "category": "참여·권리",
+      "summary": "□ 추진배경 ㅇ 청년의 삶을 다양한 분야에서 객관적으로 살펴보기 위해 「청년기본법」에 근거하여 2년마다 청년의 삶 전반을 조사 * 1차 조사('22년) → 2차…",
+      "target": "만 0~99999세 — 국가통계포털(https://kosis.kr)을 통해 '청년의 삶 실태조사' 결과를 누가나 상시확인 가능",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "해당없음",
+      "link": "https://kosis.kr/statHtml/statHtml.do?sso=ok&returnurl=https%3A%2F%2Fkosis.kr%3A443%2FstatHtml%2FstatHtml.do%3Flist_id%3DB_B_170_A%26obj_var_id%3D%26seqNo%3D%26tblId%3DDT_170002_A001%26vw_cd%3DMT_ZTITLE%26orgId%3D170%26path%3D%252FstatisticsList%252FstatisticsListIndex.do%26conn_path%3DMT_ZTITLE%26itm_id%3D%26lang_mode%3Dko%26scrId%3D%26",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260917005400113421",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년정책 참여 포인트제 도입",
+      "category": "참여·권리",
+      "summary": "ㅇ (목적) 청년의 정책참여에 따라 포인트를 부여하고, 향후 정책 참여 시 가산점 등 인센티브로 활용하여 청년참여 활성화 및 정책 체감도 제고 ㅇ (주요내용)…",
+      "target": "만 19~34세 — 청년정책 참여 포인트제 효율적인 운영방안 마련",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "2028년 시행 목표",
+      "link": "https://www.2030db.go.kr/",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 34,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260917005400113420",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년보좌역제도 내실화",
+      "category": "참여·권리",
+      "summary": "25개 부처 청년보좌역 채용 및 운영 * 제도 개요 : 부처 정책 수립·시행과 관련하여 청년세대의 인식과 요구를 당사자의 입장에서 직접 기관장에 전달하고 소통하…",
+      "target": "만 19~34세 — ※ 참조 : 공무원임용령 [별표4의2] 전문임기제공무원 및 한시임기제공무원의 경력경쟁채용등 응시요건 中 전문임기제 마급 기준",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "25개 중앙행정기관 누리집을 통해 채용 공모 시 신청",
+      "link": "https://www.2030db.go.kr/",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 34,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260917005400213418",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "경기도 청년참여기구 운영",
+      "category": "참여·권리",
+      "summary": "○ 주요 프로그램 - 역량강화교육, 정책모니터링, 온라인청년패널, 사회공헌활동, 토론회 운영 등 - 청년참여형 주민참여예산 정책 제안 과정 운영(공론장, 숙의토…",
+      "target": "만 19~39세 — 청년 관련 의제발굴 및 정책 제안, 의견 제시 및 정책환류",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://youth.gg.go.kr/",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "경기도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260916005400213417",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "[남구] 「청년 1인가구 주거 안심물품 지원」",
+      "category": "주거",
+      "summary": "현관 CCTV, 실시간 영상확인, 긴급출동 서비스 등",
+      "target": "만 0~99999세 — 현관 CCTV, 실시간 영상확인, 긴급출동 서비스 등 지원",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "https://www.namgu.gwangju.kr/board.es?mid=a10604010000&bid=0001 공고문 확인 후 신청서, 증…",
+      "link": "https://www.namgu.gwangju.kr/board.es?mid=a10604010000&bid=0001",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
     },
     {
       "id": "yc-20260914005400213412",
@@ -923,131 +1048,6 @@
           "employed",
           "freelancer"
         ],
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260903005400213373",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "제4회 은평청년축제 (아무도 모르는 축제 2)",
-      "category": "금융",
-      "summary": "□ 일 시 : 2026. 9. 19.(토) 13시~18시 □ 장 소 : 구파발 폭포 만남의 광장 무대 □ 내 용 ○ 청년의 날 기념식 ○ 로컬 뮤지션 및 초청가…",
-      "target": "만 0~99999세 — 청년의 날을 기념하여 청년이 직접 기획하고 은평구민 모두가 즐기는 축제를 개최",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "별다른 신청절차 없음. 현장 참여",
-      "link": "https://www.instagram.com/ep_youthfestival/",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260903005400113371",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026학년도 2학기 AI학업장려 학자금대출",
-      "category": "금융",
-      "summary": "ㅇ AI학업장려비: AI·SW분야 학업 수행에 필요한 수강료, 도서·교재비 등 비용 지원 ㅇ 대출금리: 연 1.7% 변동금리 ㅇ 대출한도: 연간 200만 원 이…",
-      "target": "만 19~35세 — - 성적기준: 직전학기 이수학점 12학점 이상 ※ 장애인, 신입생군, 졸업학년 학부생은 이수학점 기준 제외",
-      "deadline": "2026-07-01 ~ 2026-11-17",
-      "applyMethod": "한국장학재단 누리집(www.kosaf.go.kr) 및 모바일 앱에서 신청",
-      "link": "https://www.kosaf.go.kr/ko/tuition.do?pg=tuition19",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 35,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260903005400213372",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년톡톡콘서트",
-      "category": "금융",
-      "summary": "□ 일 시 : 2026. 9. 17.(목) 19시~21시 □ 장 소 : 은평문화예술회관 숲속극장 □ 강 사 : 극작가 박천휴 (한국 창작 뮤지컬 최초 미국 토니…",
-      "target": "만 19~39세 — 극작가 박천휴가 자신의 성장과정과 경험 등을 강의하여 불확실한 미래를 고민하는 청년들에게 위로와 조언을 하는 시간을 마련",
-      "deadline": "2026-09-01 ~ 2026-09-17",
-      "applyMethod": "은평구청 홈페이지에서 사전신청 또는 현장신청",
-      "link": "https://answer.moaform.com/answers/En4pQB",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260903005400213368",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026 여수시 청년거리문화한마당 문수대통 시즌2",
-      "category": "생활지원",
-      "summary": "○ 행사내용 · 문수동 둘레길 걷기챌린지(약 850m) · 먼저인사하기 미션 · 거리버스킹 공연 · 손마사지, 전통놀이 등 다양한 체험부스 ○ 걷기 기부 챌린지…",
-      "target": "만 1~99세 — ○ 주민과 청년이 함께 만드는 문수동 대통합 축제 · 거리문화공연, 우리동네 걷기 기부 챌린지, 체험 프로그램 등 운영",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "○ 참여방법 · 온라인 사전 접수 · 당일 현장 접수 · 홍보포스터 QR코드 또는 온라인(https://naver me/GgfXkNiC) 신청",
-      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1457&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
-      "eligibility": {
-        "minAge": 1,
-        "maxAge": 99,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260903005400213370",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "광양청년꿈터 하반기 드림클래스 수강생 모집",
-      "category": "교육",
-      "summary": "○ 운영학과 · 내 이야기가 브랜드가 되는 전자책 출간하기: 9. 14. ~ 9. 28. / 매주 월요일 18:30 · 향기 미션 프로젝트: 9. 15. ~ 1…",
-      "target": "만 18~45세 — ○ 광양청년꿈터 하반기 드림클래스 수강생 모집 · 청년 대상 8개 학과 운영 · 1인 2개 학과까지 수강 가능 · 수강료 무료",
-      "deadline": "2026-08-31 ~ 2026-10-31",
-      "applyMethod": "○ 광양청년꿈터 홈페이지 신청 ○ 포스터 QR코드 수강신청 바로가기",
-      "link": "https://youth.gwangju.go.kr/www/50?siteId=www&policyId=1458&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 45,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
         "maritalStatus": null,
         "requiresChildren": false,
         "minHouseholdSize": null
