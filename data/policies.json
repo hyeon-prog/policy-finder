@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-09-18T23:08:26.771Z",
+  "generatedAt": "2026-09-20T23:05:51.790Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -744,17 +744,17 @@
       }
     },
     {
-      "id": "yc-20260918005400113448",
+      "id": "yc-20260918005400113441",
       "type": "policy",
       "open": true,
       "source": "youthcenter",
-      "name": "STEP 플랫폼을 통한 AI 활용 직업역량 강화 지원",
-      "category": "교육",
-      "summary": "STEP(Smart Training Education Platform) 플랫폼을 통해 누구나 시·공간의 제약 없이 직업훈련을 받을 수 있도록 다양한 온라인 훈련…",
-      "target": "만 0~99999세 — 구직·재직 청년 등 전 국민 대상 실무형 AI 이론 및 실습 교육훈련 강화를 위한 온라인 훈련 제공",
+      "name": "장기간부 도약적금",
+      "category": "금융",
+      "summary": "ㅇ (대상) 임관시 중·장기복무자*, 단기복무 간부 중 장기복무선발자 - 임관시 중·장기복무자 : 육/해/공군사관학교, 3사관학교, 간호사관학교, 국방첨단 과학…",
+      "target": "만 0~99999세 — * 가입대상 : 관련법령 시행('26.2.3.) 이후 중,장기복무 확정/선발자부터 가입 가능 - (가입적용특례) '25.12.1.일 이후 장기복무 선발(임명)된 자부터 가입 가능 1) 임관시 중,장기복무 확정…",
       "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.step.or.kr/",
+      "applyMethod": "국방복지포털(iMND) 사이트 접속 > 장기간부 도약적금 가입자격 확인서 발급 > 금융기관 접속 후 적금 가입",
+      "link": "https://www.imnd.or.kr/user/main/userMain.go",
       "eligibility": {
         "minAge": null,
         "maxAge": null,
@@ -769,17 +769,17 @@
       }
     },
     {
-      "id": "yc-20260918005400113441",
+      "id": "yc-20260918005400113448",
       "type": "policy",
       "open": true,
       "source": "youthcenter",
-      "name": "장기간부 도약적금",
-      "category": "금융",
-      "summary": "ㅇ (대상) 임관시 중·장기복무자*, 단기복무 간부 중 장기복무선발자 - 임관시 중·장기복무자 : 육/해/공군사관학교, 3사관학교, 간호사관학교, 국방첨단 과학…",
-      "target": "만 0~99999세 — * 가입대상 : 관련법령 시행('26.2.3.) 이후 중,장기복무 확정/선발자부터 가입 가능 - (가입적용특례) '25.12.1.일 이후 장기복무 선발(임명)된 자부터 가입 가능 1) 임관시 중,장기복무 확정…",
+      "name": "STEP 플랫폼을 통한 AI 활용 직업역량 강화 지원",
+      "category": "교육",
+      "summary": "STEP(Smart Training Education Platform) 플랫폼을 통해 누구나 시·공간의 제약 없이 직업훈련을 받을 수 있도록 다양한 온라인 훈련…",
+      "target": "만 0~99999세 — 구직·재직 청년 등 전 국민 대상 실무형 AI 이론 및 실습 교육훈련 강화를 위한 온라인 훈련 제공",
       "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "국방복지포털(iMND) 사이트 접속 > 장기간부 도약적금 가입자격 확인서 발급 > 금융기관 접속 후 적금 가입",
-      "link": "https://www.imnd.or.kr/user/main/userMain.go",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.step.or.kr/",
       "eligibility": {
         "minAge": null,
         "maxAge": null,
