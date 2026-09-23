@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-09-22T23:32:34.842Z",
+  "generatedAt": "2026-09-23T23:30:22.726Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -292,6 +292,641 @@
       "source": "curated"
     },
     {
+      "id": "yc-20260923005400113589",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "지역성장 인재양성체계(앵커)",
+      "category": "취업",
+      "summary": "ㅇ (추진체계) 교육부가 지원한 예산을 바탕으로 광역지방자치단체가 대학별 특성과 지역의 산업 여건 등을 고려한 맞춤형 지역혁신 사업을 기획·추진 ㅇ (추진 내용…",
+      "target": "만 0~99999세 — 지자체·대학·산업계 등이 협력하여 대학을 지역성장의 허브로 육성하고, 지역인재육성-취·창업-정주의 선순환 생태계 구축",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.anchor.or.kr/",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260923005400113586",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "OTT 콘텐츠 특성화 대학원 지원",
+      "category": "교육",
+      "summary": "OTT 콘텐츠 특성화 대학원을 운영할 대학원을 선정, 해당 대학원의 OTT 관련 전공과목 신설 및 운영, OTT 콘텐츠 특성화 인력 대상 장학금 지원을 통해 O…",
+      "target": "만 0~99999세 — OTT 콘텐츠 분야 석·박사급 인재양성을 위한 특성화 대학원 운영 전반에 필요한 사항을 지원",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "OTT 콘텐츠 특성화 대학원 운영 중인 대학원에 입학",
+      "link": "https://www.kocca.kr/shortUrl/8zCq",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260923005400113583",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "기업인력애로센터 활용 취업 지원",
+      "category": "취업",
+      "summary": "기업의 구인수요 및 구직자 수시 발굴을 통한 구인·구직 정보 등을 바탕으로 기업인력애로센터 및 기타 사업 수행사가 취업연계",
+      "target": "만 0~99999세 — 기업인력애로센터를 활용하여 구인기업을 발굴하고, 청년 등 구직자 취업매칭, 현장 중심 직무교육, 사후관리 지원 등을 통해 중소기업 구인난 해소",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://job.kosmes.or.kr",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260923005400113582",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년교육단원",
+      "category": "취업",
+      "summary": "청년예술가들에게 전문교육 및 무대 참여기회를 제공하여 차세대 K-컬처 주자 발굴 양성 및 청년 일자리 창출",
+      "target": "만 19~34세 — 청년예술가들에게 전문교육 및 무대 참여기회를 제공하여 차세대 K-컬처 주자 발굴 양성 및 청년 일자리 창출",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://narts.kr/",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 34,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": [
+          "jobseeker"
+        ],
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260923005400113581",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "국립청년예술단",
+      "category": "취업",
+      "summary": "청년으로 구성된 시즌단원제의 국립예술단을 지방에 신설 및 운영하여 국립예술단원 진입기회 확대 및 지역 공연예술계 활력 제고 (운영기관) 전통공연예술진흥재단, 국…",
+      "target": "만 20~39세 — 청년으로 구성된 시즌단원제의 국립예술단을 지방에 신설 및 운영하여 국립예술단원 진입기회 확대 및 지역 공연예술계 활력 제고",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.kotpa.org/ucms/bbs/B0000021/list.do?menuNo=300008",
+      "eligibility": {
+        "minAge": 20,
+        "maxAge": 39,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": [
+          "jobseeker"
+        ],
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260923005400213577",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026 IFWY 은평 컨퍼런스",
+      "category": "금융",
+      "summary": "[아카데미 및 컨퍼런스 개최] 1. 은평아카데미(사전교육) ○ 기간 : 9.30.(수), 10.7.(수) 19:00~21:00 ○ 장소 : 이호철북콘서트홀 ○…",
+      "target": "만 18~39세 — 다양한 국적과 문화적 배경을 가진 청년들이 함께 문화의 가치와 다양성을 이해하고 문화가 지속 가능한 사회와 공동체 형성에 기여할 수 있는 방안을 논의하는 국제청년포럼(Eunpyeong International F…",
+      "deadline": "2026-09-23 ~ 2026-09-28",
+      "applyMethod": "○ 대 상 : 국내 거주 내*외국인 청년(18세~39세) ○ 모집인원 : 100명 ○ 신청기간 : (은평아카데미) ~ 9.28.(월)까지 /…",
+      "link": "https://www.debatekorea.org/2026ifwy",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 39,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260923005400113576",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년 전월세 대출보증",
+      "category": "주거",
+      "summary": "ㅁ대상: 연소득 7천만원 이하인 만 19~34세 무주택 청년 ㅇ (전세) 보증금 수도권 7억원 이하, 지방 5억원 이하 ㅇ (월세) 보증금 1억원 이하 및 월세…",
+      "target": "만 19~34세 — 청년의 주거비 부담을 경감하기 위해 전월세 대출에 대한 신용보증을 지원",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "www.hf.go.kr",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 34,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260923005400113575",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년층 정책모기지 지원",
+      "category": "주거",
+      "summary": "ㅁ (만기) 40년(만 40세 미만) / 50년(만35세 미만) (일반 : 10, 15, 20, 30년) ㅁ (금리/한도) 40년 만기 5.05%, 50년 만기…",
+      "target": "만 19~120세 — 정책모기지 상품인 보금자리론에서 청년 대상 만기 및 우대금리 제공",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.hf.go.kr",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": null,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260923005400113574",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "고졸자 후속관리 지원모델 개발 사업",
+      "category": "취업",
+      "summary": "거점학교에 인프라 구축(졸업생 전용공간), 전담인력(취업지원관)을 채용하여 졸업생에 대한 진로상담 및 관계기관(고용센터, 대학일자리플러스센터 등)과 연계 등 취…",
+      "target": "만 0~99999세 — 권역별 거점학교 30개교를 통해 미취업, 진로미결정 직업계고 졸업생에게 이력관리, 진로상담, 직업정보 제공 등 지원",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "www.moe.go.kr",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": [
+          "jobseeker"
+        ],
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260923005400113571",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "기숙사 청년친화 시설 개선",
+      "category": "주거",
+      "summary": "기숙사 내 학생들을 위한 스터디룸, 체력단련장 등 복지 시설 제공",
+      "target": "만 0~99999세 — 기숙사 리모델링 시 주거 환경의 질적 수준 향상 및 지역과 상생하는 연합기숙사 조성",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.kasfo.or.kr/kasfo/944/subview.do",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260923005400113570",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "유망청년창업기업 보증 지원",
+      "category": "창업",
+      "summary": "1. 지원 대상 ㅇ 대표자(실제경영자 포함) 연령: 만 17세 이상 만 39세 이하 ㅇ 업력 요건: 창업 후 7년 이내의 유망창업기업 2.주요 지원 내용 및 우…",
+      "target": "만 17~39세 — 유망청년창업기업에 보증비율 확대, 보증료 감면 등 우대 금융을 지원하는 정책",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "ㅇ 신청·접수: 신보 영업점 방문 또는 온라인 플랫폼 ㅇ 보증 심사: 기술성, 사업성, 대표자 경영 역량 및 신용·재무 상태 등 종합 평가 ㅇ…",
+      "link": "https://www.kodit.or.kr",
+      "eligibility": {
+        "minAge": 17,
+        "maxAge": 39,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260923005400113568",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "AI 거점대학",
+      "category": "교육",
+      "summary": "대학 내 AI 학사조직과, 전담기구를 대학별 특성에 맞게 구성 AI 전문 교육과정을 재설계 및 비전공자에게 전공지식과 AI를 융합하는 분야별 AI 융합교과를 개…",
+      "target": "만 0~99999세 — 지역 거점국립대학 내 AI 교육, 연구 거점을 확립하여 AI 전문, 융합인재를 양성하고 지역 성장엔진 AI 전환(AX) 생태계를 조성 '26년 AI 거점대학 사업 선정대학(3개교) : 부산대, 전남대, 충남대",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.moe.go.kr/boardCnts/viewRenew.do?boardID=294&boardSeq=107095&lev=0&searchType=null&statusYN=W&page=4&s=moe&m=020402&opType=N",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전남광주통합특별시",
+          "부산광역시",
+          "대전광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260923005400113567",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년 특례 채무조정",
+      "category": "금융",
+      "summary": "□ (제도안내) ○ 채무상환에 어려움을 겪는 청년층이 경제적 재기를 할 수 있도록 신청비 면제, 상환유예 및 채무감면 우대 등 보다 강화된 채무조정을 지원 중…",
+      "target": "만 19~34세 — 채무상환에 어려움을 겪는 청년이 채무조정 제도 이용 시, 신청비 면제, 상환유예 확대 및 이자율·원금 감면 우대 등을 지원하여 채무부담을 완화하고 경제적 재기를 지원",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.ccrs.or.kr/cms/com/index.do?MENU_ID=1940",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 34,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": [
+          "jobseeker"
+        ],
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260923005400113566",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년 미래이음 대출",
+      "category": "금융",
+      "summary": "➊ (지원대상) 사회 진입을 위한 자금이 필요한 미취업 또는 취업초기 청년* * (개인신용평점 하위 20% 이하 또는 차상위계층 이하 또는 근로장려금 신청자격…",
+      "target": "만 19~34세 — 고졸자·미취업자 등 청년의 사회진입 준비자금을 지원하는 미소금융 청년상품",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.kinfa.or.kr",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 34,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260923005400113563",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "생활밀착형 체육시설 공급 확대",
+      "category": "금융",
+      "summary": "-지자체 수영장, 체육관을 기본으로 하는 국민체육센터(생활밀착형) 조성 지원 -지역 근린생활권을 중심으로 거주지에서 도보로 이용할 수 있는 지자체 다목적 체육관…",
+      "target": "만 0~99999세 — 누구나 손쉽게 체육을 즐길 수 있는 스포츠 향유 환경을 조성하기 위한 생활 근거리 체육시설의 지속적이고 효과적인 확충",
+      "deadline": "2026-09-15 ~ 2026-10-23",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "http://www.mcst.go.kr",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260923005400113559",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "도시재생 전문인력 양성",
+      "category": "교육",
+      "summary": "* (추진 배경) 도시재생 전문인력 수요에 대응하기 위해 도시, 건축, 문화, 금융 등 융복합적 소양을 갖춘 전문인력 양성 필요 - 도시재생법 제26조의 4 및…",
+      "target": "만 0~99999세 — 지역 거점대학을 통한 도시재생 분야 전문인력(석박사) 양성('26년, 60명)",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.city.go.kr/",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260923005400113558",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "대학생 주거부담 경감(대학기숙사 확충)",
+      "category": "주거",
+      "summary": "국립대 BTL 기숙사, 행복기숙사, 기숙사형 청년주택 공급을 통해 대학생들에게 저렴한 기숙사 제공",
+      "target": "만 0~99999세 — 다양한 유형의 기숙사 확충을 통해 대학생 주거 부담 완화",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.kasfo.or.kr/kasfo/944/subview.do",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260923005400113557",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "AI·스마트도시 혁신인재육성",
+      "category": "교육",
+      "summary": "전일제 정규 주간 석박사 과정으로 AI·스마트도시 관련 학과 또는 학과 내 전문 트랙을 개설 운영할 수 있는 4년제 대학(산학협력단 제외) 4곳 선정하여 지원…",
+      "target": "만 0~99999세 — 대학 4곳 대상으로 지원(개인 신청 불가)",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "지원대학 4곳 대상(개인 신청 불가)",
+      "link": "https://www.kaia.re.kr/portal/main.do",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260923005400113556",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "맞춤형농지지원",
+      "category": "취업",
+      "summary": "한국농어촌공사 농지은행을 통해 고령농, 은퇴농, 직업전환 및 비농업인(상속 등) 소유농지 등 농업경영에 이용하지 않는 농지를 매입 및 임차하여 청년논, 전업농…",
+      "target": "만 18~39세 — 고령농, 은퇴농 등의 농지를 농지은행이 매입 및 임차하여 청년농, 전업농 등을 대상으로 농업인에게 매매 및 임대를 지원함으로써 초기 영농정착에 기여",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.fbo.or.kr/index.do",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 39,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260922005400113555",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "제로에너지 건축 전문인력 양성",
+      "category": "교육",
+      "summary": "ZEB 최신정책 반영, 청년 등 전국민 OPEN형, 전문가 맞춤형 교육운영(무료)",
+      "target": "만 0~99999세 — 기존인력 외에도 신규인력(청년 등) 양성을 통한 전문성 강화 도모",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.energy.or.kr/front/main/main.do",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260922005400113554",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "스마트시티 혁신인재 육성",
+      "category": "교육",
+      "summary": "국토교통과학기술진흥원이 수행대학을 공모, 평가, 선정 후 석·박사급 전문인력 양성 및 창업활동 지원을 위해 장학금, 연구비 등 지원",
+      "target": "만 0~99999세 — 스마트시티 산업계의 수요를 반영한 특성화 교육으로 산업활성화 및 해외진출에 필요한 핵심 전문인력 양성",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.kaia.re.kr/portal/contents.do?menuNo=201270",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260922005400113552",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "도시재생 전문인력 양성사업",
+      "category": "교육",
+      "summary": "도시재생 전문인력을 양성하기 위해 지역 대학을 거점대학으로 선정하고, 학술적인 관점의 도시재생 사업 연구를 통해 이론적 기초를 마련하여 그를 바탕으로 도시재생의…",
+      "target": "만 0~99999세 — 도시재생 분야 제도, 이론, 실무 등을 선도할 건축, 문화, 복지, 도시, 금융 등 도새재생 관련 융·복합 소양을 갖춘 전문인력 양성",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.khug.or.kr/index.jsp",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260922005400113551",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "농업계대학 지원",
+      "category": "교육",
+      "summary": "농업계 대학 15개교를 공모 선정하여 재학생이 졸업 후 농산업분야로 취업 또는 창업할 수 있도록 취창업동아리, 융복합 특강 등으로 구성된 비교과 취창업역량강화…",
+      "target": "만 0~99999세 — 현장실습, 국외연수, 산학협력 학교지원 등 취창업 프로그램 운영 지원",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://agriedu.net/page/client_edu_biz?mode=view&seq=55&startPage=3&searchKeyLike%255B%255D=title%252Creg_member_name%252Coutline%252Ctarget%252Ccontent%252Cdepartment&searchValueLike%255B%255D=null%252Cnull%252Cnull%252Cnull%252Cnull%252Cnull#appView_crudMerge",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260922005400113550",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "영농창업특성화대학",
+      "category": "창업",
+      "summary": "영농창업특성화대학 7개교(경북대, 연암대, 전남대, 전북대, 충남대, 강원대, 경상대) 재학생 중 영농창업에 관심있는 학생을 선발하고 졸업 후 원예 또는 축산분…",
+      "target": "만 0~99999세 — 농산업분야 취창업 역량 강화 프로그램, 교육 여건 조성 등 지원",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://agriedu.net/page/client_edu_biz?mode=view&seq=305480&startPage=2&searchKeyLike%255B%255D=title%252Creg_member_name%252Coutline%252Ctarget%252Ccontent%252Cdepartment&searchValueLike%255B%255D=null%252Cnull%252Cnull%252Cnull%252Cnull%252Cnull#appView_crudMerge",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20260922005400113549",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년농촌보금자리조성",
+      "category": "주거",
+      "summary": "지구당 30호 내외의 단독주택형 공공임대주택단지와 단지 내 공동보육(육아나눔)시설 1동, 문화·여가 커뮤니티시설 1동을 조성",
+      "target": "만 19~40세 — 귀농·귀촌인 등 농촌 청년층의 주거부담을 완화해 청년 유입을 촉진하고, 인구감소 위기에 대응하며, 보육·문화·여가 수요를 충족시켜 농촌 삶의 질을 개선하는 사업",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://mafra.go.kr",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 40,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
       "id": "yc-20260922005400113546",
       "type": "policy",
       "open": true,
@@ -405,637 +1040,6 @@
       "deadline": "상시 신청 (상세 공고 확인)",
       "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
       "link": "https://nhuf.molit.go.kr/FP/FP05/FP0502/FP05021401.jsp",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260922005400113539",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "고시원 등 거주청년 이주비용 패키지 지원",
-      "category": "주거",
-      "summary": "쪽방, 고시원 등에 거주하는 주거취약계층이 공공·민간임대 주택 이주 시 이사, 생필품(40만원 실비) 지원",
-      "target": "만 0~99999세 — 열악한 환경에 거주하는 주거취약계층이 공공임대주택으로 이주할 수 있도록 보증금·이사비 등 이주비용 지원",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.myhome.go.kr/hws/portal/main/getMgtMainPage.do",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260922005400113538",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "고시원 등 거주청년 주거상향 지원",
-      "category": "주거",
-      "summary": "고시원·쪽방·반지하 등 열악한 환경에서 3개월 이상 거주하는 자에 대하여 전용 85㎡이하 임대주택 공급",
-      "target": "만 0~99999세 — 열악한 환경에 거주하는 주거취약계층이 공공임대주택으로 이주할 수 있도록 우선공급제도 운영",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.myhome.go.kr/hws/portal/main/getMgtMainPage.do",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260922005400113537",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년 맞춤형 공적 임대주택 공급(공공지원민감임대)",
-      "category": "주거",
-      "summary": "임대의무기간(10년), 임대료 증액(5%이하), 초기임대료(시세 이하), 입주자격(무주택자 우선) 등",
-      "target": "만 19~39세 — 공공지원 민간임대 특별공급 등을 통해 청년층 대상 임대주택 공급",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.molit.go.kr/",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260922005400113536",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년 맞춤형 공적 임대주택 공급(매입임대)",
-      "category": "주거",
-      "summary": "저렴한 보증금과 임대료로 도심 내에서 안정적으로 거주할 수 있도록 저소득 청년에 매입임대주택 공급",
-      "target": "만 19~39세 — 청년층의 주거 안정을 위해 공공주택사업자가 도심 내 다가구 주택 등 기존주택 매입 후 개보수 하여 저소득층 청년층에게 저렴하게 임대",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.myhome.go.kr/hws/portal/main/getMgtMainPage.do",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260922005400113535",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년 맞춤형 공적 임대주택 공급(전세임대)",
-      "category": "주거",
-      "summary": "입주대상자가 원하는 전세주택을 물색해오면 공공주택사업자가 해당 주택을 임차하여 입주대상자에게 저렴한 임대조건으로 재임대",
-      "target": "만 19~39세 — 저렴하고 빠르게 도심에 전세임대주택을 공급하여 저소득 청년들의 주거안정을 도모",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.myhome.go.kr/hws/portal/main/getMgtMainPage.do",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260922005400113534",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "대학생 현장실습 제도개선",
-      "category": "교육",
-      "summary": "대학-실습기관 간 양질의 현장실습 환경 구축하기 위해 규제완화 특례부여 등 제도개선 추진",
-      "target": "만 0~99999세 — 대학생 현장실습 제도개선 및 지원을 통해 대학의 산업 수요 맞춤형 교육 개선 및 확대",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "대학에 수업의 형태로 개설된 현장실습학기제 교과목 신청",
-      "link": "http://www.moe.go.kr",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": [
-          "jobseeker"
-        ],
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260922005400113533",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년특화주택 공급",
-      "category": "주거",
-      "summary": "무주택자이면서, 미혼인 청년(대학생 포함)에게 교통이 우수한 입지를 중심으로 청년층이 선호하는 빌트인 가구 등이 적용된 주택과 특화시설이 복합된 공공임대주택 공…",
-      "target": "만 18~39세 — 통합공공임대주택 자산/챠랑가액 기준 만족 ('26년 기준, 총자산가액 3.45억 이하 / 차량가액 4,542만원 이하)",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.myhome.go.kr/hws/portal/main/getMgtMainPage.do",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 39,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": "single",
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260922005400113532",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년층 대상 공공임대주택 공급(통합공공임대)",
-      "category": "주거",
-      "summary": "무주택 청년층에게 임대주택 공급",
-      "target": "만 18~39세 — 공공주택사업자가 직접 건설하여, 무주택 청년 등에게 소득에 연계한 임대주택을 저렴한 임대료로 공급 - 기존 영구,국민,행복주택을 하나로 통합하고 입주자격 및 임대료 체계 등 제도 전반을 수요자 관점에서 개선한 공…",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.myhome.go.kr/hws/portal/main/getMgtMainPage.do",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 39,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260922005400113531",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "자립준비청년 주거지원",
-      "category": "주거",
-      "summary": "보호연장아동·자립준비청년 대상 공공임대주택 우선 공급",
-      "target": "만 0~99999세 — 자립준비청년의 안정적 자립기만 마련을 위한 주택지원",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.myhome.go.kr/hws/portal/main/getMgtMainPage.do",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260922005400113529",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "고속도로 휴게소 사회적가치매장 활성화",
-      "category": "창업",
-      "summary": "매장 제공, 교육 지원, 임대료 지원, 대출 지원 등",
-      "target": "만 20~65세 — 매장 제공, 교육 지원, 임대료 지원, 대출 지원 등",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.molit.go.kr/portal.do",
-      "eligibility": {
-        "minAge": 20,
-        "maxAge": 65,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260922005400113528",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "대학가, 원룸촌 등 부동산 허위매물 등 수시모니터링",
-      "category": "주거",
-      "summary": "온라인 상 부동산 광고 내 명시 의무정보 누락 , 거래불가 중개대상물 광고 등에 대한 모니터링 실시 후 규정 위반 의심 광고에 대해 과태료 부과",
-      "target": "만 0~99999세 — 온라인 상 부동산 광고 내 명시 의무정보 누락 , 거래불가 중개대상물 광고 등에 대한 모니터링 실시 후 규정 위반 의심 광고에 대해 과태료 부과",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.molit.go.kr/portal.do",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260922005400113527",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "항공분야 취업지원",
-      "category": "취업",
-      "summary": "항공일자리센터를 통해 항공산업 분야 취업을 희망하는 청년, 중장년층의 채용 및 취업기회를 확대하고, 정부 주도의 공신력 있는 일자리 정보 제공으로 통해 체계적인…",
-      "target": "만 0~99999세 — 항공일자리센터를 통해 항공산업 분야 취업을 희망하는 청년, 중장년층의 채용 및 취업기회 확대 등",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.airportal.go.kr/main.do",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260922005400113526",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "시설 퇴소청소년 자립지원수당",
-      "category": "금융",
-      "summary": "○ 매월 50만원 현금 지급, 최장 5년",
-      "target": "만 18~29세 — (2026년 청소년 사업안내 책자 기준) ○ 청소년쉼터, 청소년자립지원관 퇴소일로부터 5년 이내인 자로서 다음 모두에 해당하는 경우 - 만 18세 이후 퇴소한 자('21년 1월 이후 퇴소자*에 한함) * 청소년자…",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "(최종시설) ‣(청소년) 추천요청 ‣(최종시설) 상담, 안내,서류발급, 공문추천",
-      "link": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001146",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 29,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260922005400113524",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "글로벌 저작권 현안 신속대응(R&D) - 저작권 기술 글로벌 인재양성",
-      "category": "교육",
-      "summary": "국내 대학(원)과 해외 유수 대학 및 저작권기술 연구소·기업간 연계·협력하여 기술연구 및 산학연계 맞춤형 저작권기술 개발 지원",
-      "target": "만 0~99999세 — 저작권 기술 분야 국제 협력 연구개발 및 인력양성이 가능한 대학원 등 세부 신청자격 공고문 참조",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "- 신청방법(접수처) : 범부처통합연구지원시스템(IRIS)을 통한 온라인 접수 (iris.go.kr)",
-      "link": "https://www.iris.go.kr/main.do",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260922005400113520",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "공예청년 인턴십 지원사업",
-      "category": "교육",
-      "summary": "(사업시기) '19~계속 (지원대상) 미취업 청년(만 19세 이상~만 39세 이하) (지원내용) 참여인턴 1인당 인건비 및 사회보험료 지원금 월 128만 원 지…",
-      "target": "만 19~39세 — 청년공예인력의 공예기술·매개 분야에 대한 일 경험 기회 부족, 공예청년 인턴십을 통한 공예분야 업무경험 제공 및 공예분야 일자리 창출",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.kcdf.or.kr/main",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": [
-          "jobseeker"
-        ],
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260922005400113519",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "교육현장 청년 AI 지식경험공유",
-      "category": "교육",
-      "summary": "AI·SW 및 컴퓨터 관련 전공 학생 등 초중고 학생을 대상으로 AI 관련 멘토링을 수행",
-      "target": "만 0~99999세 — 대학 성적 C0수준(70점/100점 만점) 이상",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "한국장학재단 누리집 및 모바일 앱에서 신청 ※ 전자서명수단 준비(공동인증서, 금융인증서, 간편인증)",
-      "link": "https://www.kosaf.go.kr/ko/main.do",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260922005400113518",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "개인기초연구(신진연구) 지원",
-      "category": "교육",
-      "summary": "박사학위 취득 후 7년 이내 또는 만 39세 이하인, 국내대학 이공분야 전입 교원 및 국(공)립·민간연구소의 정규직 연구원을 대상으로 창의적 연구 지원",
-      "target": "만 0~99999세 — 박사학위 취득 후 7년 이내 또는 만 39세 이하인, 국내대학 이공분야 전임교원 및 국(공)립,민간연구소의 정규직 연구원 ※ 최초 조교수 이상의 직위로 임용된 지 5년 이내인 국내대학 소속 전임교원은 박사학위…",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "(26년 말) '27년 신규과제 신청 공고 (26년 말) '27년 신규과제 접수 (27년 초) '27년 신규과제 선정평가 및 선정",
-      "link": "https://www.iris.go.kr",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": [
-          "employed"
-        ],
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260922005400113517",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "국토공간정보 인력양성",
-      "category": "교육",
-      "summary": "공간정보 특성화교육성, 온라인 교육포털운영, AI를 활용한 신기술 교육 프로그램 운영 등",
-      "target": "만 0~99999세 — 공간정보와 첨단기술의 융복합 역량을 갖추고, Geo-AI를 통한 국토공간정보 분야의 디지털 전환을 선도할 전문인력양성",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인신청 이나 전국민대상",
-      "link": "https://www.spacein.kr/",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260922005400113516",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "식품분야 대학(원)생 현장실습 지원",
-      "category": "교육",
-      "summary": "대학교 교육 프로그램과 연계한 대학(원)생의 식품분야 현장 실습 교육을 지원",
-      "target": "만 0~99999세 — 대학(원)생을 대상으로 동·하계, 학기·학년제, 석·박사 학위연수 등 장·단기 현장실습 교육을 지원하여 청년식품 인력 육성",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "신청 방법 ㅇ 대학 연계: 소속 대학교 (현장실습지원센터) 공지사항을 통해 표준·자율 현장실습학기제 신청 ㅇ 한국식품산업클러스터진흥원 홈페이지…",
-      "link": "https://www.foodpolis.kr/",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260922005400113515",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "임대형 스마트팜",
-      "category": "주거",
-      "summary": "스마트팜 영농 창업에 도전하는 청년들이 적정한 임대료로 스마트팜을 임대",
-      "target": "만 18~39세 — 스마트팜 영농 창업에 도전하는 청년들이 적정한 임대료로 스마트팜을 임대하여 재배 역량 향상, 영농 경험의 기회 제공",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.smartfarmkorea.net/",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 39,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260922005400113514",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "문화를담은브랜드산단조성(산업단지환경조성)",
-      "category": "취업",
-      "summary": "산업단지의 역사 스토리가 담긴 공간의 재해석을 통해 산업단지를 상징하는 문화테마공간 조성, 청년 수요자 참여를 통해 산업단지별 특성에 맞는 특화 서비스·프로그램…",
-      "target": "만 0~99999세 — 산업단지의 역사 스토리가 담긴 공간의 재해석을 통해 산업단지를 상징하는 문화테마공간 조성, 청년 수요자 참여를 통해 산업단지별 특성에 맞는 특화 서비스·프로그램 대표 브랜드 개발 등",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "www.kicox.or.kr",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "대구광역시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260922005400113513",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년귀농 장기교육",
-      "category": "교육",
-      "summary": "만 40세 미만의 귀농 희망 청년을 대상으로 총 300~100시간 영농에 필요한 교육 실시. 청년에게는 교육비 지원(국고 90%)",
-      "target": "만 18~39세 — 영농 경험이 부족한 청년층의 안정적인 농업농촌 정착 및 역량 강화 지원을 위해 실습 중심의 장기체류형 교육과정 운영",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "귀농귀촌 통합플랫폼 '그린대로'를 통해 신청",
-      "link": "https://www.greendaero.go.kr/svc/rfph/edc/offline/front/intensificationIntro2.do",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 39,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260922005400213510",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "미래세대아카데미 운영",
-      "category": "참여·권리",
-      "summary": "청년의 진로·취업, 경제·금융, 주거, 고립·은둔, 마음관리 등 다양한 분야의 온라인 교육콘텐츠를 제작·제공하고, 유튜브 채널 「서울사람 구독금지」를 통해 경기…",
-      "target": "만 0~99999세 — 청년의 역량 강화와 정보 접근성 향상을 위해 온라인 교육콘텐츠를 제작·배포하고, 유튜브 채널을 통해 다양한 청년정책·생활정보 등을 제공하는 사업",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.youtube.com/channel/UCyOiJvM8vJha0tDvj-qerKA",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260922005400113508",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "K-푸드 창업사관학교",
-      "category": "창업",
-      "summary": "식품분야 청년 예비·초기 창업자 대상 전문교육, 시제품 제작, 투자유치 및 판로 등 창업·사업화 지원",
-      "target": "만 19~39세 — 식품분야 청년 예비·초기 창업자를 대상으로 전문교육, 시제품 제작 기회 등을 제공하여 창업 생태계 활성화 및 기술사업화 촉진",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.foodpolis.kr/",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20260922005400113507",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "신산업 분야 직업계고 학과개편 지원",
-      "category": "교육",
-      "summary": "학교 및 시·도교육청별 재구조화 수요를 조사‧심의 후 최종 선정하여 보통교부금 기준재정수요에 반영",
-      "target": "만 0~99999세 — 직업계고등학교",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "직업계고 재구조화 지원 기본계획 수립·안내(교육부) → 학교별 신청서 접수(교육청)",
-      "link": "https://xn--2e0br5h90gm0a798bw7ac29azvj.kr/",
       "eligibility": {
         "minAge": null,
         "maxAge": null,
