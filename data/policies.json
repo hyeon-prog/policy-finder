@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-10-07T00:30:46.873Z",
+  "generatedAt": "2026-10-08T00:51:53.277Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -292,22 +292,74 @@
       "source": "curated"
     },
     {
-      "id": "yc-20261004005400113857",
-      "type": "policy",
+      "id": "yc-20261007005400213929",
+      "type": "local",
       "open": true,
       "source": "youthcenter",
-      "name": "ICT이노베이션스퀘어 확산 사업",
-      "category": "교육",
-      "summary": "- (디지털신기술 교육) 지역산업 특화 디지털 신기술(AI·데이터·블록체인 등) 기반 AI융합형 디지털 실무인재 양성 - (콤플렉스 운영) 지역 디지털인재양성…",
-      "target": "만 0~99999세 — (연령 기준) 18세 이상",
+      "name": "청년 해외인턴 지원사업",
+      "category": "취업",
+      "summary": "참가자의 원활한 해외인턴 활동을 지원하기 위해 비자 발급비, 출국 항공료, 실손 보험료 등 출국에 필요한 비용을 지원하고, 사업 설명회와 사전 교육, 오리엔테이…",
+      "target": "만 19~30세 — 경북 해외자문위원 및 해외 한인기업과 연계하여 도내 청년에게 해외 현장 실무경험을 제공하고, 국제 경쟁력 강화를 지원",
+      "deadline": "2026-03-01 ~ 2026-12-31",
+      "applyMethod": "경상북도경제진흥원-지원사업마당-지원사업안내 참조",
+      "link": "https://www.gepa.kr/",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 30,
+        "regions": [
+          "경상북도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": [
+          "jobseeker"
+        ],
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261007005400213926",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "익산청년시청 소식지'For the Youth'",
+      "category": "참여·권리",
+      "summary": "▸청년정책 캘린더 및 소개 ▸청년이야기 : 취업·문화 프로그램 참여 후기 등 ▸문화생활정보 : 주요행사 및 프로그램 안내",
+      "target": "만 18~39세 — 지역 청년들에게 취·창업, 주거, 문화예술 등 다양한 정책 정보를 신속히 제공하고, 참여와 소통을 활성화하여 정책 체감도를 높임으로써 청년 공동체 의식과 지역 정착을 도모",
       "deadline": "상시 신청 (상세 공고 확인)",
       "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.cbist.or.kr/home/sub.do?mncd=1296",
+      "link": "https://youthforest.iksan.go.kr/index.iksan",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 39,
+        "regions": [
+          "전북특별자치도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261007005400213925",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "익산청년시청 청년정책 제안소",
+      "category": "참여·권리",
+      "summary": "청년시청 홈페이지 내 「청년정책 제안소」 코너 운영으로 청년정책 허브로서의 청년시청 기능강화 및 시정 참여형 플랫폼 구축",
+      "target": "만 0~99999세 — 청년의 일상 속 문제를 직접 듣고, 실질적인 정책에 반영하는 참여기반 행정실현",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://youthforest.iksan.go.kr/index.iksan?menuCd=DOM_000000104004000000",
       "eligibility": {
         "minAge": null,
         "maxAge": null,
         "regions": [
-          "충청북도"
+          "전국"
         ],
         "maxIncomeRatio": null,
         "employment": null,
@@ -317,22 +369,72 @@
       }
     },
     {
-      "id": "yc-20261004005400213848",
+      "id": "yc-20261007005400213924",
       "type": "local",
       "open": true,
       "source": "youthcenter",
-      "name": "청년 문화예술패스",
+      "name": "출산장려금 지원",
       "category": "금융",
-      "summary": "- 성년기 진입 청년 대상 문화예술(공연·전시 등) 향유를 위한 지원금 20만원(국비 15만원 + 지방비 5만원) 지급",
-      "target": "만 19~20세 — ㅇ 잠재적 문화소비계층인 성년기 진입 청년(19~20세) 대상 문화예술 향유 지원 및 장래 문화소비주체 성장 기반 조성",
+      "summary": "첫째아 100만원, 둘째아 200만원, 셋째아 300만원, 넷째아 500만원다섯째아 이상 1,000만원(둘째아~다섯째아 이상 분할 지급)다태아 추가지원(쌍생아…",
+      "target": "만 0~99999세 — 저출산 시대 출산가정에 대한 실질적인 인센티브 제공으로 출산장려 분위기 조성",
       "deadline": "상시 신청 (상세 공고 확인)",
       "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.4242.or.kr/total_board/view/id/36845",
+      "link": "https://www.iksan.go.kr/",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전북특별자치도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261007005400213922",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "전입세대 전입장려금 지원",
+      "category": "금융",
+      "summary": "전입신고일 기준 1년 이상 타지역에 주소를 두고 있다가 관내로 전입한 세대 및 세대원 대상 전입 6개월 이상 경과 시 1명당 10만원 지역화폐 지급",
+      "target": "만 0~99999세 — 전입세대 전입장려금 지원을 통해 관내 실거주 미전입자 및 관외 지역 거주자의 전입 유도",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.iksan.go.kr/",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전북특별자치도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261007005400213917",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "대학일자리플러스센터운영",
+      "category": "취업",
+      "summary": "재학생 뿐만아니라 졸업 후 2년이내 청년까지 서비스 대상 확대, 일자리발굴·매칭기능강화 및 전문상담 추가 종합서비스 제공으로 청년 고용 지원 서비스 제공",
+      "target": "만 19~29세 — 대학 내 진로 및 취업 지원기능 통합·연계, 취업 지원 및 전문상담 지원 강화, 대학 밖의 공공고용서비스 기능과의 거버넌스를 구축하여 청년고용지원 서비스 제공",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://w-job.wku.ac.kr/",
       "eligibility": {
         "minAge": 19,
-        "maxAge": 20,
+        "maxAge": 29,
         "regions": [
-          "세종특별자치시"
+          "전국"
         ],
         "maxIncomeRatio": null,
         "employment": null,
@@ -342,22 +444,72 @@
       }
     },
     {
-      "id": "yc-20261004005400213847",
+      "id": "yc-20261007005400213916",
       "type": "local",
       "open": true,
       "source": "youthcenter",
-      "name": "이스포츠 활성화 지원",
-      "category": "금융",
-      "summary": "- 시 연고구단(FN세종)의 대한민국 이스포츠 지역 리그(KEL) 참가 지원* * 리그 참가에 따른 홍보비, 여비 - 이스포츠 거점공간* 운영으로 소규모 대회…",
-      "target": "만 19~39세 — ㅇ 청소년, 청년의 주요 여가활동 중 하나인 이스포츠(게임)의 지역 거점 운영을 통한 인재 발굴 및 건전한 이스포츠 이용 문화 조성 ㅇ 미래 도시의 주요 성장동력인 게임 등 디지털 문화창조 산업에 대한 지역의 대…",
+      "name": "익산 통합일자리센터 운영",
+      "category": "취업",
+      "summary": "익산청년시청 내 청년채용 관련 일자리 통합창구 운영",
+      "target": "만 0~99999세 — 구인·구직상담 및 컨설팅 지원, 취업연계, 취업 역량강화 프로그램 운영, 일자리통합 플랫폼(익산 일자리다모아) 운영, 취·창업 박람회 행사 운영 등",
       "deadline": "상시 신청 (상세 공고 확인)",
       "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.4242.or.kr/total_board/view/id/36868",
+      "link": "https://job.iksan.go.kr/www/192",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전북특별자치도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261007005400213915",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "고향올래(로컬벤처)사업",
+      "category": "창업",
+      "summary": "▸인화동 일대에 거주시설 조성 및 창업 프로그램 운영 ▸거주시설 조성(리모델링) ▸창업 프로그램 및 축제 운영",
+      "target": "만 18~39세 — 지역 기반 청년창업 활성화를 위해 체류 기반을 조성하고, 창업과 정착을 지원하는 거점 구축을 통한 생활 인구층 확대",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.iksan.go.kr/",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 39,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261006005400113912",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "산업현장 연계형 관광인력 양성",
+      "category": "취업",
+      "summary": "청년구직자 대상 사전 직무교육 및 기업 연계 인턴십 과정 운영",
+      "target": "만 19~39세 — 관광기업 등 현장 수요 맞춤형 교육-실습-취업 연계 과정 운영",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://touraz.kr/",
       "eligibility": {
         "minAge": 19,
         "maxAge": 39,
         "regions": [
-          "세종특별자치시"
+          "전국"
         ],
         "maxIncomeRatio": null,
         "employment": null,
@@ -367,22 +519,22 @@
       }
     },
     {
-      "id": "yc-20261004005400213846",
+      "id": "yc-20261006005400213910",
       "type": "local",
       "open": true,
       "source": "youthcenter",
-      "name": "지역과학문화 역량강화 사업",
+      "name": "청년 우울증 치료비 지원 추가 모집 공고",
       "category": "금융",
-      "summary": "과학문화 거점센터 운영을 통한 지역과학문화 확산 정책 수립, 지역 과학문화 주체 발굴‧지원 및 지역특화 프로그램 운영 등",
-      "target": "만 0~99999세 — 지역의 과학문화 주체 발굴‧지원 및 주도의 특화프로그램 운영을 통한 지역 과학기술문화 확산",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.sjtp.or.kr/",
+      "summary": "-관내 정신건강의학과 전문의에 의한 치료비, 약제비에 소요되는 외래 본인일부부담금(외래비) -1인 1년 최대 400,000원 / 실비지원, 최대 2년차까지 지원",
+      "target": "만 18~39세 — 취업 스트레스, 사회적 고립 등으로 마음의 병을 앓고 있는 청년들에게 치유의 기회 제공",
+      "deadline": "2026-10-06 ~ 2026-10-23",
+      "applyMethod": "○ 접수기간: 2026. 10. 6.(화) 09:00 ~ 2026. 10. 23.(금) 18:00 ○ 접수방법 -원주시 청년지원센터 홈페이지…",
+      "link": "https://www.wonju.go.kr/wjyouth/viewTnWjyouthProgrmU.do?progrmNo=71&key=5942",
       "eligibility": {
-        "minAge": null,
-        "maxAge": null,
+        "minAge": 18,
+        "maxAge": 39,
         "regions": [
-          "세종특별자치시"
+          "강원특별자치도"
         ],
         "maxIncomeRatio": null,
         "employment": null,
@@ -392,201 +544,52 @@
       }
     },
     {
-      "id": "yc-20261004005400213843",
-      "type": "local",
+      "id": "yc-20261006005400113909",
+      "type": "policy",
       "open": true,
       "source": "youthcenter",
-      "name": "청년마음건강센터 운영",
-      "category": "금융",
-      "summary": "세종시 거주 청년 중 정신증 고위험군 대상 - 청년 마음건강 회복지원 사업 (일반상담 및 평가, 청년 맞춤형 사례관리, 프로그램, 치료비 지원 등) - 세종시…",
-      "target": "만 19~34세 — ㅇ 지역사회 내 정신건강 어려움을 겪는 청년 발굴 및 조기개입으로 청년 정신건강 관리 강화, 정신질환 예방 및 회복지원",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.sejong.go.kr",
+      "name": "미래형 관광인재 육성",
+      "category": "교육",
+      "summary": "1. 예비종사자 대학 맞춤형 교육 - 취업 희망 업종별 요구역량 이해도 제고를 위한 현직자 이론강의 및 실무 체험 프로그램 2. 예비종사자 오픈형 교육 - 관광…",
+      "target": "만 19~34세 — 관광 분야 취업 및 창업 관심자",
+      "deadline": "2026-04-01 ~ 2026-11-30",
+      "applyMethod": "관광e배움터 홈페이지 내 신청",
+      "link": "https://touredu.visitkorea.or.kr",
       "eligibility": {
         "minAge": 19,
         "maxAge": 34,
         "regions": [
-          "세종특별자치시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261004005400213842",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청소년 한부모 아동양육 및 자립지원",
-      "category": "금융",
-      "summary": "ㅇ (사업 대상) 청소년한부모 - (연령 기준) 만 24세 이하 - (소득 기준) 기준 중위소득 65% 이하",
-      "target": "만 15~24세 — 한부모가족이 겪는 빈곤과 자녀양육·생계·가사 부담뿐만 아니라 학업중단·취업훈련 부족의 어려움도 겪고 있는 청소년 한부모(24세 이하 한부모)를 대상으로 자녀 양육환경 개선 및 자립기반 마련",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "읍면동 행정복지센터 신청접수",
-      "link": "https://www.sejong.go.kr/shrUrl/hH5Sx40U47.do",
-      "eligibility": {
-        "minAge": 15,
-        "maxAge": 24,
-        "regions": [
-          "세종특별자치시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261004005400213841",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "자립지원전담기관 운영",
-      "category": "금융",
-      "summary": "○ (사업 대상) 관내 아동양육시설, 가정위탁 보호종료 5년이내 모든 자립준비청년 ○ (사업 내용) 보호대상아동 및 보호종료아동에 대한 자립지원 - 자립준비청년…",
-      "target": "만 18~20세 — 보호종료아동에게 맞춤형 자립지원을 제공하여 안정적 사회정착 지원",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.sejong.go.kr/welfare/sub05_06_04.do",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 20,
-        "regions": [
-          "세종특별자치시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261004005400213840",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "보호종료아동 자립수당 및 자립정착금 지원",
-      "category": "금융",
-      "summary": "- (자립수당) 보호종료아동에게 5년간 매월 50만원의 자립수당 지급 - (자립정착금) 자립정착금 1,000만원(1회) 지급",
-      "target": "만 18~20세 — ○ 보호종료아동에게 자립수당 및 자립정착금을 지급, 경제적 부담을 완화하고 복지향상을 통해 안정적인 사회정착 및 성공적 자립에 기여",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.4242.or.kr/total_board/view/id/36863",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 20,
-        "regions": [
-          "세종특별자치시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261004005400213839",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "일상돌봄서비스 사업",
-      "category": "금융",
-      "summary": "ㅇ (사업 대상) 관내 돌봄필요 청년, 가족돌봄 청년 - (연령 기준) 9~39세 - (소득 기준) 소득기준 없음(단, 소득수준에 따라 본인부담금 차등 부담)…",
-      "target": "만 19~39세 — 제활동과 사회활동에 제약이 있는 돌봄필요 청년과 가족돌봄 청년을 지원하여, 사회 진입·안착의 어려움 해소",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.sejong.go.kr/shrUrl/91jVWrt40k.do",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "세종특별자치시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261004005400213837",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "공공시설 나만의 결혼식",
-      "category": "금융",
-      "summary": "세종시에 거주하는 예비부부에게 결혼식 컨설팅 및 교육, 공공시설 예식장소 제공, 결혼 공간 조성비(1,500천원) 지원 * (실외) 호수공원, 중앙공원, 초려역…",
-      "target": "만 0~99999세 — 공공시설 예식 공간 제공 및 부부교육 등 지원 - 결혼식 컨설팅, 예식장소 제공, 공간연출비 지원",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "상시 사업 홍보 및 신청자 모집 예식 장소 공간지원",
-      "link": "https://www.4242.or.kr/total_board/view/id/36882",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "세종특별자치시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": "single",
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261002005400213835",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "직장맘지원센터 운영",
-      "category": "금융",
-      "summary": "ㅇ 직장맘의 법적권리를 위한 제도적 정보 제공, 사용자의 부당행위에 대한 노무상담 및 분쟁해결 등 경력단절예방을 위한 플랫폼 역할 수행 - 상근노무사의 실시간…",
-      "target": "만 0~99999세 — 일하는 여성의 노동권 및 모성권 보호를 위한 전문 고충 상담으로 경력단절 예방과 일·생활의 균형 도모",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://sj-equity.or.kr/",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "세종특별자치시"
+          "전국"
         ],
         "maxIncomeRatio": null,
         "employment": [
           "employed",
           "self-employed",
+          "jobseeker",
           "freelancer"
         ],
-        "maritalStatus": "married",
+        "maritalStatus": null,
         "requiresChildren": false,
         "minHouseholdSize": null
       }
     },
     {
-      "id": "yc-20261002005400213834",
-      "type": "local",
+      "id": "yc-20261006005400113907",
+      "type": "policy",
       "open": true,
       "source": "youthcenter",
-      "name": "아이돌보는 아빠장려금 지원",
-      "category": "금융",
-      "summary": "ㅇ (사업 내용) 남성 육아휴직 근로자에게 매월 30만원씩 6개월간 아빠장려금 지급(최대 180만원), 지역화폐 지급(여민전)",
-      "target": "만 0~99999세 — ①,②,③ 모두 충족 ① 육아휴직자가 신청일 기준 시에 1년 이상 계속하여 주민등록이 되어 있는 경우 ② 육아휴직의 대상 자녀가 신청일 기준 시에 주민등록이 되어 있는 경우 ③ 「고용보험법」 제70조에 따른…",
+      "name": "미디어 청년창업 지원",
+      "category": "창업",
+      "summary": "1인미디어콤플렉스 조성 1인 미디어 창작자와 미디어 스타트업이 안정적으로 창작·창업 활동을 할 수 있도록 지역 거점별 '1인미디어콤플렉스'를 조성·운영합니다.…",
+      "target": "만 0~99999세 — 전업 크리에이터, 신직업 등 인재양성과 크리에이터미디어 콘텐츠 제작지원, 미디어 창업 지원을 위한 인프라 지원 등 추진",
       "deadline": "상시 신청 (상세 공고 확인)",
       "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.sejong.go.kr",
+      "link": "https://www.rapa.or.kr/ft/ny/bd04/list.do",
       "eligibility": {
         "minAge": null,
         "maxAge": null,
         "regions": [
-          "세종특별자치시"
+          "전국"
         ],
         "maxIncomeRatio": null,
         "employment": null,
@@ -596,72 +599,22 @@
       }
     },
     {
-      "id": "yc-20261002005400213829",
+      "id": "yc-20261006005400213906",
       "type": "local",
       "open": true,
       "source": "youthcenter",
-      "name": "임산부 및 모자보건 지원",
-      "category": "금융",
-      "summary": "- 관내 등록 임산부에게 영양제(엽산·철분제) 제공 - 초기 임산부 신혼부부의 임신 전 건강검진* 지원 - 유축기 대여, 임산부 주차 표지 제공",
-      "target": "만 0~99999세 — 임신·출산을 준비하는 청년층의 건강관리를 지원하고 안전한 임신·출산 환경을 조성함으로써 모자 건강 수준 향상에 기여",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "임신초기 및 신혼부부 건강검진 신청·접수(보건소)",
-      "link": "https://www.sejong.go.kr",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "세종특별자치시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261002005400213828",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "산모·신생아 건강관리 지원",
-      "category": "금융",
-      "summary": "관내 출산가정에 산후도우미 서비스 이용료(본인부담금 제외) 지원",
-      "target": "만 0~99999세 — 출산가정에 대한 전문적인 산후 돌봄 서비스 지원을 통해 산모·신생아의 건강 증진 및 경제적 부담을 경감하고, 출산 친화적 환경을 조성함으로써 저출산 극복에 기여",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.sejong.go.kr",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "세종특별자치시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261002005400213827",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "난임 부부 지원",
-      "category": "금융",
-      "summary": "- 건강보험이 적용된 보조생식술(체외·인공수정)의 일부 및 전액본인부담금, 비급여 3종 항목(배아동결·착상보조·유산방지제), 공난포 및 미성숙난자 등 지원 ※…",
-      "target": "만 19~39세 — 난임부부의 보조생식술비 지원을 통한 경제적 부담 경감으로 난임부부가 희망하는 자녀를 갖도록 장려하여 저출산 극복에 기여",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.sejong.go.kr/health/sub03_04_11.do",
+      "name": "2026년 전남광주 제3기「지역자원 연계 청년창업 지원사업」",
+      "category": "창업",
+      "summary": "○ 창업교육 · 창업 기초·심화 교육 제공 · 집합교육·온라인 병행 및 단계별 맞춤 커리큘럼 운영 · 지역 온·오프라인 홍보·마케팅 운영전략 수립 등 실무교육…",
+      "target": "만 19~45세 — ○ 전남광주통합특별시 내 지역자원을 활용한 청년 창업가 양성 및 지역 정착 지원 ○ 지역자원조사부터 사업화·고도화까지 단계별 창업 지원 · 창업 기초·심화 교육 · 분야 및 팀별 멘토링·전담 컨설팅 · 네트워킹…",
+      "deadline": "2026-09-30 ~ 2026-10-30",
+      "applyMethod": "○ 신청방법 · 신청URL 또는 포스터 QR을 통한 신청 접수 · 신청 후 담당자 유선확인 필수 ○ 신청접수 · https://forms.gl…",
+      "link": "https://youth.jeonnam-gwangju.go.kr/www/50?siteId=www&policyId=1479&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
       "eligibility": {
         "minAge": 19,
-        "maxAge": 39,
+        "maxAge": 45,
         "regions": [
-          "세종특별자치시"
+          "전남광주통합특별시"
         ],
         "maxIncomeRatio": null,
         "employment": null,
@@ -671,22 +624,47 @@
       }
     },
     {
-      "id": "yc-20261002005400213825",
+      "id": "yc-20261006005400213905",
       "type": "local",
       "open": true,
       "source": "youthcenter",
-      "name": "전세보증금반환보증 보증료 지원",
+      "name": "청년 자립마을 활성화 지원사업",
+      "category": "취업",
+      "summary": "○ 청년마을의 경제적 기반 강화 지원 · 수익모델 발굴 · 창업 지원 · 판로 개척 · 전문 컨설팅 ○ 지역 자원을 활용한 창업아이템 시제품 개발 프로젝트 운영…",
+      "target": "만 0~99999세 — ○ 기 조성된 청년마을의 자립기반 강화 및 지역 정착과 창업·일자리로 이어지는 선순환 구조 마련 ○ 기 조성된 청년마을 성과와 연계한 창업·일자리 사업 지원 · 수익모델 발굴, 창업 지원, 판로 개척, 전문…",
+      "deadline": "2026-10-01 ~ 2026-10-15",
+      "applyMethod": "○ 청년단체 제출 · 제출기한: 2026. 10. 15.(목) 18:00 · 제출처: 시·군·구 · 제출방법: 대면 또는 메일 ○ 시·군·구…",
+      "link": "https://youth.jeonnam-gwangju.go.kr/www/50?siteId=www&policyId=1478&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261006005400213904",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026년 나주시 취업 청년 임대주택 지원사업 입주자 추가 모집",
       "category": "주거",
-      "summary": "- 신청일 기준 보증 효력이 유효한 전세보증금반환보증(HUG, HF, SGI)에 가입한 임차보증금 3억원 이하, 연소득 기준 이하(청년 5천만원, 신혼부부 7.…",
-      "target": "만 0~99999세 — ㅇ 저소득층의 전세사기 피해 예방을 위한 전세보증금반환보증 가입 유도",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.sejong.go.kr",
+      "summary": "- 임대주택 5호 모집(삼영 부영 1, 송월 부영 4) - 임대주택 임대보증금 전액 지원(예치금 1백만원 입주 시 본인 납부, 퇴거 시 반환) - 2년 거주(1…",
+      "target": "만 18~45세 — 나주시 취업 청년에게 임대주택을 제공하여 중소기업 구인난을 해소하고 청년의 인구 유입 유도",
+      "deadline": "2026-09-30 ~ 2026-10-12",
+      "applyMethod": "방문 및 전자우편 신청 - (방 문) 나주시청 기획예산실 청년인구팀(본관 3층) - (전자우편) hjyr23@korea.kr",
+      "link": "https://youth.jeonnam-gwangju.go.kr/www/50?siteId=www&policyId=1480&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
       "eligibility": {
-        "minAge": null,
-        "maxAge": null,
+        "minAge": 18,
+        "maxAge": 45,
         "regions": [
-          "세종특별자치시"
+          "전남광주통합특별시"
         ],
         "maxIncomeRatio": null,
         "employment": null,
@@ -696,323 +674,17 @@
       }
     },
     {
-      "id": "yc-20261002005400213824",
+      "id": "yc-20261004005400213903",
       "type": "local",
       "open": true,
       "source": "youthcenter",
-      "name": "기초청년 주거급여(임차급여)",
-      "category": "주거",
-      "summary": "- (연령 기준) 주거급여 수급가구원 중 만 19~30세 미만의 미혼자녀 - (소득 기준) 중위소득 48% 이하 - (사업 내용) 청년 주소지 기준임대료 상한으…",
-      "target": "만 19~30세 — 주거급여 수급가구원 중 취학, 구직 등을 목적으로 부모와 따로 거주하는 미혼청년(만 19세 이상 30세 미만)에게 별도 주거급여를 지급하여 주거안정과 자립 도모",
+      "name": "충북청년희망센터 운영",
+      "category": "참여·권리",
+      "summary": "도내 청년 거점공간 운영을 통한 청년들의 다양한 활동 지원 및 청년 간 네트워크 인프라 구축",
+      "target": "만 19~39세 — 도내 청년 거점공간 운영을 통한 청년들의 다양한 활동 지원 및 청년 간 네트워크 인프라 구축",
       "deadline": "상시 신청 (상세 공고 확인)",
       "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.bokjiro.go.kr/ssis-tbu/index.do",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 30,
-        "regions": [
-          "세종특별자치시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261002005400213820",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "지역혁신중심 대학지원체계",
-      "category": "교육",
-      "summary": "①한두리캠퍼스 구축 및 운영, ②5+1 미래전략산업 특화 전문인재 양성, ③지·산·학 및 국책연구기관 협력 기업육성 생태계 조성, ④미래형 성인학습자 아카데미…",
-      "target": "만 0~99999세 — ㅇ지역발전전략과 대학지원을 연계하여 지역주도의 지역인재양성 및 지역정주를 통한 지역-대학의 동반성장 생태계 구축",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.sjtp.or.kr/",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "세종특별자치시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261002005400213818",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "사이버보안 전문인력 양성",
-      "category": "교육",
-      "summary": "정보보호 신규인력양성 교육 및 채용연계 교육 실시",
-      "target": "만 19~39세 — ㅇ 사이버보안 생태계 조성을 위한 관내 전문인력 양성사업 추진",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.sjtp.or.kr/",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "세종특별자치시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261002005400213817",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "로컬콘텐츠 중점대학 지원사업",
-      "category": "교육",
-      "summary": "- (교육과정 운영) 로컬크리에이터 양성을 위한 대학생 로컬콘텐츠 중점대학 교과과정 및 일반인 대상 교육과정 개설·운영 - (팀프로젝트 운영) 로컬콘텐츠 8개…",
-      "target": "만 19~39세 — 로컬콘텐츠 융합전공과정 운영, 실전창업공간 운영으로 세종시의 로컬·융복합적 소양을 갖춘 예비창업자 양성",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.sejong.go.kr",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "세종특별자치시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261002005400213816",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "공동캠퍼스 조성",
-      "category": "교육",
-      "summary": "다수의 대학·연구기관이 교사·지원시설 등을 공동 이용하고, 입주기관 간 융합 교육·연구를 할 수 있는 '공동캠퍼스' 조성",
-      "target": "만 19~39세 — 대학의 재정부담을 완화하고 산학연 협력을 극대화할 수 있는 새로운 유형의 캠퍼스를 조성하여 국내·외 우수대학 유치",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.sejong.go.kr",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "세종특별자치시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261002005400213815",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "공학교육혁신센터 지원",
-      "category": "교육",
-      "summary": "산업계 수요 및 대학특성에 맞는 공학교육 프로그램 개발·운영 → 관내 산업체와 연계한 실무중심의 캡스톤디자인* 수행 * 홍익대 재학생에게 미래 이동수단 관련 산…",
-      "target": "만 19~39세 — 공학교육혁신센터 기반 우수 공학인재 양성 및 청년 고용률 증대",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.sejong.go.kr",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "세종특별자치시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": [
-          "jobseeker"
-        ],
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261002005400213813",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "반도체특성화대학 지원사업",
-      "category": "교육",
-      "summary": "- (반도체특성화대학 교육과정 운영) 반도체 공정장비 기업의 수요를 반영한 교육과정 개발 및 운영 - (반도체특성화대학 교육 인프라 구축) 첨단반도체 공정장비…",
-      "target": "만 19~39세 — ㅇ 반도체분야 인재양성 규모 및 질 제고를 통한 초격차 확보 반도체 전문인재 양성 ㅇ 첨단반도체 공정장비 분야의 중견중소기업 글로벌 경쟁력 강화를 위한 전문연구 개발 인력 양성",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.sejong.go.kr",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": [
-          "jobseeker"
-        ],
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261002005400213811",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년농업인 영농정착 지원사업",
-      "category": "취업",
-      "summary": "영농 초기 정착지원금 지급 및 사업자금 대출 - 영농정착지원금 : 영농경력에 따라 최대 3년간 90~110만원/월 지급 - 후계농육성자금 : 세대당 최대 5억원…",
-      "target": "만 19~40세 — 창업자금, 기술·경영 교육과 컨설팅, 농지은행 매입비축 농지 임대 및 농지 매매를 연계 지원하여 건실한 경영체로 성장 유도",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.sejong.go.kr",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 40,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261002005400213810",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년성장프로젝트",
-      "category": "취업",
-      "summary": "미취업 청년 등의 구직단념을 예방하기 위해 일상 및 구직의욕 유지를 지원하기 위한 맞춤형 프로그램으로 노동시장 참여 등 지원",
-      "target": "만 15~39세 — 고용정책이 필요한 청년들의 정책적 게이트웨이 역할 수행, 구직 단념․사회관계망 단절 등을 사전예방하고 맞춤형 프로그램 운영",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.4242.or.kr/",
-      "eligibility": {
-        "minAge": 15,
-        "maxAge": 39,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": [
-          "jobseeker"
-        ],
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261002005400213808",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년 취업역량강화 지원사업 (대학일자리플러스센터)",
-      "category": "취업",
-      "summary": "고려대학교 세종캠퍼스 재학생 및 지역 청년을 대상으로 진로 및 취업지원 프로그램 운영하여 청년의 취업역량 강화 및 청년고용 활성화 지원",
-      "target": "만 19~39세 — 대학의 청년특화 원스톱 고용서비스 지원 역량 강화 및 원활한 노동시장 진입지원",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.sejong.go.kr",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261002005400113805",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "국립 문화시설 청년할인",
-      "category": "금융",
-      "summary": "국립문화시설 관람료 할인 등",
-      "target": "만 0~99999세 — 박물관 미술관 등 국립문화시설에 대한 청년 할인 정책",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.mcst.go.kr/",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261002005400213802",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "경기청년 평화통일 리더양성",
-      "category": "교육",
-      "summary": "평화통일 관련 4단계에 걸친 특강 및 현장연수 등 지원 ※ 단계별 평가를 통하여 우수수료자를 선발하여 다음 단계로 이행",
-      "target": "만 19~39세 — 경기도 거주 대학생 및 청년(만19세~39세)",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "사업수행기관(경민대학교 산학협력단) 모집 시 응모",
-      "link": "https://www.gg.go.kr/",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261002005400213801",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년 부실채무자 신용회복 지원",
-      "category": "교육",
-      "summary": "한국장학재단 학자금대출 장기 연체로 한국신용정보원에 유의자로 등록되어, 취업 및 경제활동에 어려움을 겪고 있는 청년 분할상환약정 초입금 지원(채무액의 10% 수…",
-      "target": "만 19~39세 — ㅇ (사업 대상) 한국장학재단의 학자금대출 부실채무자로 신용유의정보에 등록된 자 - (연령 기준) 만39세 이하 - (기타 조건) 본인 또는 직계존속이 계속하여 1년 이상 도내에 주소를 둔 자",
-      "deadline": "2026-04-20 ~ 2026-11-20",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://blog.naver.com/cbitle/224253292161",
+      "link": "https://www.chungbuk.go.kr/young/contents.do?key=1318",
       "eligibility": {
         "minAge": 19,
         "maxAge": 39,
@@ -1027,27 +699,350 @@
       }
     },
     {
-      "id": "yc-20261001005400113794",
+      "id": "yc-20261004005400213901",
       "type": "policy",
       "open": true,
       "source": "youthcenter",
-      "name": "게임사 프로젝트 현장교육 프로그램",
-      "category": "취업",
-      "summary": "ㅇ 게임기업 신규채용 인건비 지원 게임기업이 신규 인력을 채용하여 실제 게임 프로젝트 기반의 현장교육을 실시하는 경우 교육생 인건비의 50% 지원 → 기업의 신…",
-      "target": "만 19~35세 — 게임산업 분야 취업 및 실무경력 형성을 희망하는 청년·초기경력 인력 참여기업에 신규 채용되어 게임 프로젝트 기반 현장교육에 참여하는 자 게임개발·기획·그래픽 등 게임산업 관련 직무에서 현장교육 수행이 가능한 자…",
-      "deadline": "2026-07-01 ~ 2026-12-31",
-      "applyMethod": "ㅇ 신청절차 사업공고 및 참여기업 모집 → 참여기업 신청서 제출 → 플랫폼기관의 신청요건 검토 및 참여기업 선정 → 신규 교육생 채용 및 근로…",
-      "link": "https://www.kocca.kr/shortUrl/40Cq",
+      "name": "충북인재 재능나눔 사업",
+      "category": "참여·권리",
+      "summary": "- 대학생 및 대학원생의 재능나눔 활동 지원으로 함께하는 충북 실현 - 다양한 재능나눔 활동을 통한 지역발전 및 대학생·대학원생 역량 강화",
+      "target": "만 0~99999세 — 충북 도내 학교 및 청소년 기관(중·고·대학(원)생)",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.chungbuk.go.kr/young/contents.do?key=5058",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "충청북도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261004005400213900",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "충북인재 정책제안 지원사업",
+      "category": "참여·권리",
+      "summary": "- 권역별 찾아가는 정책제안 카페 운영 - 충청북도 청년정책 설명회, AI활용 제안서 작성 특강 - 충북청년 정책제안 대회",
+      "target": "만 0~99999세 — - 권역별 찾아가는 정책제안 카페 운영 - 충청북도 청년정책 설명회, AI활용 제안서 작성 특강 - 충북청년 정책제안 대회",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.chungbuk.go.kr/young/contents.do?key=5057",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "충청북도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261004005400213899",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "제11기 충북청년도정참여단",
+      "category": "참여·권리",
+      "summary": "청년이 주도적으로 청년정책 참여기반 마련",
+      "target": "만 19~39세 — 청년이 주도적으로 청년정책 참여기반 마련",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.chungbuk.go.kr/young/contents.do?key=1319",
       "eligibility": {
         "minAge": 19,
-        "maxAge": 35,
+        "maxAge": 39,
+        "regions": [
+          "충청북도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261004005400213898",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "충청북도 청년정책조정위원회 운영",
+      "category": "참여·권리",
+      "summary": "충청북도 청년정책조정위원회 운영",
+      "target": "만 19~39세 — 충청북도 청년정책조정위원회 운영",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.chungbuk.go.kr/young/contents.do?key=1315",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "충청북도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261004005400113897",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "금왕산단 청년문화센터 건립사업",
+      "category": "금융",
+      "summary": "문화, 편의, 체육, 지원시설을 포함한 청년복합문화센터 건립 1개소(대지면적 8,529㎡, 건축면적 1,414㎡, 연면적 3,414㎡)(지상3)",
+      "target": "만 0~99999세 — ㅇ (사업 대상) 산업단지 근로자 및 인근 지역주민 - (연령 기준) 무관 - (소득 기준) 무관",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.eumseong.go.kr/www/index.do",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "충청북도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261004005400113896",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년 문화예술패스",
+      "category": "금융",
+      "summary": "- 청년 1인당 20만원 상당 문화예술패스 지급(8,662명) - 국비 15만원 + 지방비 5만원(도비 15천원, 시군비 35천원) - 관람 가능 분야: 연극·…",
+      "target": "만 19~20세 — - 청년 1인당 20만원 상당 문화예술패스 지급(8,662명) - 국비 15만원 + 지방비 5만원(도비 15천원, 시군비 35천원) - 관람 가능 분야: 연극·뮤지컬, 클래식·오페라, 발레·무용, 전시(대중가수…",
+      "deadline": "2026-08-10 ~ 2026-11-30",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.chungbuk.go.kr/young/contents.do?key=5437",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 20,
+        "regions": [
+          "충청북도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261004005400213895",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "충북 청년 축제",
+      "category": "금융",
+      "summary": "오픈클래스, 청년예술가 공연, 홍보·체험 프로그램, 부대행사 등",
+      "target": "만 19~39세 — 오픈클래스, 청년예술가 공연, 홍보·체험 프로그램, 부대행사 등",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.chungbuk.go.kr/young/contents.do?key=5055",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "충청북도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261004005400213894",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "충청북도 대학스포츠 동아리 대회",
+      "category": "금융",
+      "summary": "- 2027 하계세계대학경기대회의 성공적인 개최를 위한 대학스포츠 활동 분위기 조성 - 충청북도 대학스포츠 동아리 대회 개최 지원(2개 종목)",
+      "target": "만 0~99999세 — 도내 대학생",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.chungbuk.go.kr/young/contents.do?key=5440",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "충청북도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261004005400213893",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "전국대학무용경연대회",
+      "category": "금융",
+      "summary": "전국 대학생 대상 5개 분야(전통,창작,현대,발레,군무) 무용경연대회 개최",
+      "target": "만 19~24세 — 전국 대학생 대상 5개 분야(전통,창작,현대,발레,군무) 무용경연대회 개최",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.chungbuk.go.kr/www/index.do",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 24,
         "regions": [
           "전국"
         ],
         "maxIncomeRatio": null,
-        "employment": [
-          "jobseeker"
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261004005400213892",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "충북 젊은작가 창작작품 페스티벌",
+      "category": "금융",
+      "summary": "도내 젊은작가 공모선정 및 창작작품 전시회, 공연 발표회 개최",
+      "target": "만 13~39세 — ㅇ (사업 대상) 도내 청년 작가 - (연령 기준) 19세 이상 ~ 39세 이하 - (소득 기준) 해당사항 없음 - (기타 조건) 서예분야는 45세 이하",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.chungbuk.go.kr/young/contents.do?key=5439",
+      "eligibility": {
+        "minAge": 13,
+        "maxAge": 39,
+        "regions": [
+          "충청북도"
         ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261004005400113891",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "농식품 바우처 사업",
+      "category": "금융",
+      "summary": "취약계층이 양질의 신선 농산물을 구매할 수 있는 이용권을 가구원 수에 따라 월 단위로 지원(월 10만원/4인가구 기준)",
+      "target": "만 19~34세 — 생계급여 수급가구 중 임산부, 영유아, 아동, 청년 포함 가구",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.foodvoucher.go.kr/view/fma/ordmain/main",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 34,
+        "regions": [
+          "충청북도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261004005400113890",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "천원의 아침밥",
+      "category": "금융",
+      "summary": "식수인원(학생) 1식 당 1천원(지방비) 지원 - 1식 기준(5천원) : 학생 1천원 + 국비 2천원 + 지방비 1천원 + 학교(1천원)",
+      "target": "만 0~99999세 — 식수인원(학생) 1식 당 1천원(지방비) 지원 - 1식 기준(5천원) : 학생 1천원 + 국비 2천원 + 지방비 1천원 + 학교(1천원)",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300005045",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "충청북도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261004005400113889",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년층 자살시도자 치료비 지원",
+      "category": "금융",
+      "summary": "- 1인당 최대 100만원 한도 치료비 지원 - 지원항목 · 자살시도로 인한 신체 손상 치료비 · 정신건강의학과 및 기타 진료과 입·외래 치료비 · 응급실 내원…",
+      "target": "만 15~34세 — ㅇ (사업 대상) - 도내 응급의료기관* 내원 청년 자살시도자(15~34세) * 응급의료법 제2조 제5호(단, 생명사랑위기대응센터 병원 제외) - 본인 거주지 정신건강복지센터 사례관리 서비스 동의자 - 응급실 내…",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.chungbuk.go.kr/young/contents.do?key=5434",
+      "eligibility": {
+        "minAge": 15,
+        "maxAge": 34,
+        "regions": [
+          "충청북도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261004005400113888",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "중독 예방·치료 지원(중독자 정신건강 지원사업)",
+      "category": "금융",
+      "summary": "- 중독문제자 조기 발견 및 상담 ·개입 사업(사례관리,재활프로그램 운영) - 알코올·약물 중독 폐해 예방 교육 - 알코올·약물 중독 예방 인식개선 및 홍보",
+      "target": "만 0~99999세 — 도내 중독자(알코올, 약물 등) 및 가족 등",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.cjacc.or.kr/",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "충청북도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
         "maritalStatus": null,
         "requiresChildren": false,
         "minHouseholdSize": null
