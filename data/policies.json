@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-10-08T00:51:53.277Z",
+  "generatedAt": "2026-10-09T01:05:14.372Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -699,6 +699,31 @@
       }
     },
     {
+      "id": "yc-20261004005400213902",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년농부 네트워크 지원",
+      "category": "참여·권리",
+      "summary": "청년농부 및 전문가 등 만남의 기회 제공을 통한 청년농부 네트워크 구축(청년농업인 소통공감 워크숍 개최)",
+      "target": "만 19~39세 — 청년농업인",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.chungbuk.go.kr/www/index.do",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "충청북도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
       "id": "yc-20261004005400213901",
       "type": "policy",
       "open": true,
@@ -1013,31 +1038,6 @@
       "eligibility": {
         "minAge": 15,
         "maxAge": 34,
-        "regions": [
-          "충청북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261004005400113888",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "중독 예방·치료 지원(중독자 정신건강 지원사업)",
-      "category": "금융",
-      "summary": "- 중독문제자 조기 발견 및 상담 ·개입 사업(사례관리,재활프로그램 운영) - 알코올·약물 중독 폐해 예방 교육 - 알코올·약물 중독 예방 인식개선 및 홍보",
-      "target": "만 0~99999세 — 도내 중독자(알코올, 약물 등) 및 가족 등",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.cjacc.or.kr/",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
         "regions": [
           "충청북도"
         ],
