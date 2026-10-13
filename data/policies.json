@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-10-09T01:05:14.372Z",
+  "generatedAt": "2026-10-13T02:29:02.065Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -649,31 +649,6 @@
       }
     },
     {
-      "id": "yc-20261006005400213904",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026년 나주시 취업 청년 임대주택 지원사업 입주자 추가 모집",
-      "category": "주거",
-      "summary": "- 임대주택 5호 모집(삼영 부영 1, 송월 부영 4) - 임대주택 임대보증금 전액 지원(예치금 1백만원 입주 시 본인 납부, 퇴거 시 반환) - 2년 거주(1…",
-      "target": "만 18~45세 — 나주시 취업 청년에게 임대주택을 제공하여 중소기업 구인난을 해소하고 청년의 인구 유입 유도",
-      "deadline": "2026-09-30 ~ 2026-10-12",
-      "applyMethod": "방문 및 전자우편 신청 - (방 문) 나주시청 기획예산실 청년인구팀(본관 3층) - (전자우편) hjyr23@korea.kr",
-      "link": "https://youth.jeonnam-gwangju.go.kr/www/50?siteId=www&policyId=1480&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 45,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
       "id": "yc-20261004005400213903",
       "type": "local",
       "open": true,
@@ -1038,6 +1013,31 @@
       "eligibility": {
         "minAge": 15,
         "maxAge": 34,
+        "regions": [
+          "충청북도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261004005400113888",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "중독 예방·치료 지원(중독자 정신건강 지원사업)",
+      "category": "금융",
+      "summary": "- 중독문제자 조기 발견 및 상담 ·개입 사업(사례관리,재활프로그램 운영) - 알코올·약물 중독 폐해 예방 교육 - 알코올·약물 중독 예방 인식개선 및 홍보",
+      "target": "만 0~99999세 — 도내 중독자(알코올, 약물 등) 및 가족 등",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.cjacc.or.kr/",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
         "regions": [
           "충청북도"
         ],
