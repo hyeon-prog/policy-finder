@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-10-13T02:29:02.065Z",
+  "generatedAt": "2026-10-14T23:47:39.487Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -290,6 +290,268 @@
         "minHouseholdSize": null
       },
       "source": "curated"
+    },
+    {
+      "id": "yc-20261014005400213946",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "(군협력담당관) 경기도 재난복구지원 군장병 상해보험 가입지원",
+      "category": "금융",
+      "summary": "1. 사업근거: 「경기도 재난복구지원 군 장병 안전 확보 및 지원에 관한 조례」 제6조에 근거 2. 지원대상: 경기도 내 재난복구 현장에 동원되는 군 장병 (현…",
+      "target": "만 0~99999세 — 경기도 내 재난복구 현장에 동원된 군 장병의 안전 확보와 사고 발생 시 상해보험 가입 지원(경기도 외 타주소지 군 장병 대상)",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.gg.go.kr/bbs/boardView.do?bIdx=180272055&bsIdx=711&menuId=2867",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "서울특별시",
+          "전남광주통합특별시",
+          "부산광역시",
+          "대구광역시",
+          "인천광역시",
+          "대전광역시",
+          "울산광역시",
+          "세종특별자치시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261014005400213945",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "[남구] NCS 무료 강의",
+      "category": "교육",
+      "summary": "NCS 무료 강의 대상: 공공기관·공기업 취업을 준비하는 청년(19~39세) 방식: 3일 과정 · 1일 4시간 × 3회 (총 12시간) 내용: 이론 강의 + 문…",
+      "target": "만 0~99999세 — NCS 무료 강의",
+      "deadline": "2026-10-12 ~ 2026-12-01",
+      "applyMethod": "https://naver.me/GCJikDGD",
+      "link": "https://youth.jeonnam-gwangju.go.kr/www/50?siteId=www&policyId=1482&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261014005400213944",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026년 10월 가계부 소모임 - 4회차",
+      "category": "금융",
+      "summary": "▶ 내 용 : 예산 수립, 통장 시스템, 꿈꾸는 가계부 작성법 익히기 ▶ 일 시 : 2026년 10월 21일(수) 19-21시 ▶ 대 상 : 돈 관리법을 알고…",
+      "target": "만 19~39세 — \"한번 더 나의 지출을 돌아볼 수 있었어요\" \"계획 된 소비를 할 수 있을 거 같아서 좋아요\" - 참여자 후기 - 돈 관리, 이렇게 하는 게 맞는 걸까? 싶을 때 이따가 해볼까? 자꾸 미루게 될 때 서로 같이,…",
+      "deadline": "2026-10-12 ~ 2026-10-16",
+      "applyMethod": "▶ 내 용 : 예산 수립, 통장 시스템, 꿈꾸는 가계부 작성법 익히기 ▶ 일 시 : 2026년 10월 21일(수) 19-21시 ▶ 대 상 :…",
+      "link": "https://youth.jeonnam-gwangju.go.kr/www/50?siteId=www&policyId=1481&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261012005400213938",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "충청북도 청년위원회 위원 모집",
+      "category": "참여·권리",
+      "summary": "「충청북도 청년위원회 설치 및 청년참여 활성화 지원 조례」에 따라 제1기 '충청북도 청년위원회' 위원 모집 ◦ 청년과 도민의 삶 개선을 위한 신규 정책 및 정책…",
+      "target": "만 19~39세 — ◦ 연령 : 19세 이상 ~ 39세 이하인 청년(1986~2007년 출생자) ◦ 지역 : 공고일 기준 충청북도에 주소를 두거나, 도내 소재 직장인, 대학(원)생, 도내에 사업장을 둔 자 ※ 충북 소재 주소는 공고…",
+      "deadline": "2026-10-12 ~ 2026-10-23",
+      "applyMethod": "응모방법 : 모집기간 내 온라인 신청 접수 ◦ 접 수 처 : 충북청년희망센터 누리집 내(cbhope1539.net) 청년위원회 지원 페이지 ◦…",
+      "link": "https://cbyouth.cbhope1539.net/",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "충청북도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261012005400213936",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "(수영구)무인화랑 운영",
+      "category": "금융",
+      "summary": "○사업기간 : 2026. 1월 ~ 12월 ○사업대상 : 지역 내 청년예술작가 ○주요내용 : 2026 무인화랑 운영 - 전시 공간 확보가 어려운 지역 청년 예술인…",
+      "target": "만 18~39세 — ○전시 공간 확보가 어려운 지역 청년 예술인에게 전시 활동 기회 제공",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.suyeong.go.kr/board/view.suyeong?boardId=BBS_0000001&menuCd=DOM_000000103001001000&startPage=1&dataSid=286400",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 39,
+        "regions": [
+          "부산광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261012005400213935",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "(수영구)광안리 SUP 전국 대학교 대항전",
+      "category": "참여·권리",
+      "summary": "○사 업 명 : 광안리 SUP 전국 대학교 대항전 ○사업기간 : 2026. 7월 ~ 10월 ※대회일 : 2026. 10. 31.(토) 9시~17시 ○참가대상 :…",
+      "target": "만 0~99999세 — ○전국 대학을 SUP로 연결해 미래 SUP 수요 및 교류기반 구축",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.suyeong.go.kr/dong/index.suyeong?menuCd=DOM_000002704001000000",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "부산광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261012005400213934",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "(수영구)청년 대상 '지방세 절세팁 구독' 운영",
+      "category": "금융",
+      "summary": "○추진기간 : 2026. 1월 ~ 12월(매월 1회) ○추진대상 : '25년 주민세 및 자동차세를 납부한 청년 사업자 ○사업내용 : 청년 세대를 대상으로 실생활…",
+      "target": "만 18~39세 — ○디지털 환경에 익숙한 청년 세대를 대상으로 실생활에 도움이 되는 지방세 절세팁 정보 제공",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://m.blog.naver.com/busan_suyeong/224436178096",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 39,
+        "regions": [
+          "부산광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261011005400113933",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "프로스포츠 인턴십 지원",
+      "category": "취업",
+      "summary": "인턴십 프로그램 참여기관 모집, 인턴 월별 인건비 보조, 인턴 직무 교육, 인턴 책임관 근로 관리 교육 실시 등",
+      "target": "만 0~99999세 — 프로스포츠 단체 및 구단 인턴 채용 지원, 직무교육, 운영관리 등",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.prosports.or.kr/news/m01/main",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261010005400113932",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "유연근무 확대 등 일가정 양립 기업 환경 조성",
+      "category": "취업",
+      "summary": "- 재택원격, 육아기 시차출퇴근 1인당 월 20만원(4일 활용 이상) - 선택근무 1인단 월 30만원(일 1시간이상 근로시간 단축, 월 총합계 6시간 이상 단축…",
+      "target": "만 0~99999세 — 추가 신청 자격요건은 고용노동부 일생활균형 홈페이지(https://www.worklife.kr)를 확인하세요",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "고용24(https://www.work24.go.kr)를 통해 신청 신청요건 등은 고용노동부 일생활균형 홈페이지(https://www.work…",
+      "link": "https://www.work24.go.kr",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261010005400113931",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "산업단지 일생활 균형 제도 확대(산단 행복일터 프로젝트)",
+      "category": "취업",
+      "summary": "모성보호, 유연근무 등 일생활 균형제도가 기업 현장에 안착될 수 있도록 산업단지 내 중소기업 대상 교육, 홍보, 상담 등 현장 밀착형 서비스 제공",
+      "target": "만 0~99999세 — 모성보호, 유연근무 등 일생활 균형제도가 기업 현장에 안착될 수 있도록 산업단지 내 중소기업 대상 교육, 홍보, 상담 등 현장 밀착형 서비스 제공",
+      "deadline": "2026-03-16 ~ 2026-12-10",
+      "applyMethod": "사업 위탁업체인 (사)한국산업단지경영자연합회에 신청 * 서울(구로공단) 070-5176-6261, 경기 031-508-3500, 구미 070-…",
+      "link": "https://www.worklife.kr",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "서울특별시",
+          "전남광주통합특별시",
+          "경기도",
+          "경상북도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": [
+          "employed"
+        ],
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
     },
     {
       "id": "yc-20261007005400213929",
@@ -788,256 +1050,6 @@
       "eligibility": {
         "minAge": 19,
         "maxAge": 39,
-        "regions": [
-          "충청북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261004005400113897",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "금왕산단 청년문화센터 건립사업",
-      "category": "금융",
-      "summary": "문화, 편의, 체육, 지원시설을 포함한 청년복합문화센터 건립 1개소(대지면적 8,529㎡, 건축면적 1,414㎡, 연면적 3,414㎡)(지상3)",
-      "target": "만 0~99999세 — ㅇ (사업 대상) 산업단지 근로자 및 인근 지역주민 - (연령 기준) 무관 - (소득 기준) 무관",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.eumseong.go.kr/www/index.do",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "충청북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261004005400113896",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년 문화예술패스",
-      "category": "금융",
-      "summary": "- 청년 1인당 20만원 상당 문화예술패스 지급(8,662명) - 국비 15만원 + 지방비 5만원(도비 15천원, 시군비 35천원) - 관람 가능 분야: 연극·…",
-      "target": "만 19~20세 — - 청년 1인당 20만원 상당 문화예술패스 지급(8,662명) - 국비 15만원 + 지방비 5만원(도비 15천원, 시군비 35천원) - 관람 가능 분야: 연극·뮤지컬, 클래식·오페라, 발레·무용, 전시(대중가수…",
-      "deadline": "2026-08-10 ~ 2026-11-30",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.chungbuk.go.kr/young/contents.do?key=5437",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 20,
-        "regions": [
-          "충청북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261004005400213895",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "충북 청년 축제",
-      "category": "금융",
-      "summary": "오픈클래스, 청년예술가 공연, 홍보·체험 프로그램, 부대행사 등",
-      "target": "만 19~39세 — 오픈클래스, 청년예술가 공연, 홍보·체험 프로그램, 부대행사 등",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.chungbuk.go.kr/young/contents.do?key=5055",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "충청북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261004005400213894",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "충청북도 대학스포츠 동아리 대회",
-      "category": "금융",
-      "summary": "- 2027 하계세계대학경기대회의 성공적인 개최를 위한 대학스포츠 활동 분위기 조성 - 충청북도 대학스포츠 동아리 대회 개최 지원(2개 종목)",
-      "target": "만 0~99999세 — 도내 대학생",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.chungbuk.go.kr/young/contents.do?key=5440",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "충청북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261004005400213893",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "전국대학무용경연대회",
-      "category": "금융",
-      "summary": "전국 대학생 대상 5개 분야(전통,창작,현대,발레,군무) 무용경연대회 개최",
-      "target": "만 19~24세 — 전국 대학생 대상 5개 분야(전통,창작,현대,발레,군무) 무용경연대회 개최",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.chungbuk.go.kr/www/index.do",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 24,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261004005400213892",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "충북 젊은작가 창작작품 페스티벌",
-      "category": "금융",
-      "summary": "도내 젊은작가 공모선정 및 창작작품 전시회, 공연 발표회 개최",
-      "target": "만 13~39세 — ㅇ (사업 대상) 도내 청년 작가 - (연령 기준) 19세 이상 ~ 39세 이하 - (소득 기준) 해당사항 없음 - (기타 조건) 서예분야는 45세 이하",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.chungbuk.go.kr/young/contents.do?key=5439",
-      "eligibility": {
-        "minAge": 13,
-        "maxAge": 39,
-        "regions": [
-          "충청북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261004005400113891",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "농식품 바우처 사업",
-      "category": "금융",
-      "summary": "취약계층이 양질의 신선 농산물을 구매할 수 있는 이용권을 가구원 수에 따라 월 단위로 지원(월 10만원/4인가구 기준)",
-      "target": "만 19~34세 — 생계급여 수급가구 중 임산부, 영유아, 아동, 청년 포함 가구",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.foodvoucher.go.kr/view/fma/ordmain/main",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 34,
-        "regions": [
-          "충청북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261004005400113890",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "천원의 아침밥",
-      "category": "금융",
-      "summary": "식수인원(학생) 1식 당 1천원(지방비) 지원 - 1식 기준(5천원) : 학생 1천원 + 국비 2천원 + 지방비 1천원 + 학교(1천원)",
-      "target": "만 0~99999세 — 식수인원(학생) 1식 당 1천원(지방비) 지원 - 1식 기준(5천원) : 학생 1천원 + 국비 2천원 + 지방비 1천원 + 학교(1천원)",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/154300005045",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "충청북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261004005400113889",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년층 자살시도자 치료비 지원",
-      "category": "금융",
-      "summary": "- 1인당 최대 100만원 한도 치료비 지원 - 지원항목 · 자살시도로 인한 신체 손상 치료비 · 정신건강의학과 및 기타 진료과 입·외래 치료비 · 응급실 내원…",
-      "target": "만 15~34세 — ㅇ (사업 대상) - 도내 응급의료기관* 내원 청년 자살시도자(15~34세) * 응급의료법 제2조 제5호(단, 생명사랑위기대응센터 병원 제외) - 본인 거주지 정신건강복지센터 사례관리 서비스 동의자 - 응급실 내…",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.chungbuk.go.kr/young/contents.do?key=5434",
-      "eligibility": {
-        "minAge": 15,
-        "maxAge": 34,
-        "regions": [
-          "충청북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261004005400113888",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "중독 예방·치료 지원(중독자 정신건강 지원사업)",
-      "category": "금융",
-      "summary": "- 중독문제자 조기 발견 및 상담 ·개입 사업(사례관리,재활프로그램 운영) - 알코올·약물 중독 폐해 예방 교육 - 알코올·약물 중독 예방 인식개선 및 홍보",
-      "target": "만 0~99999세 — 도내 중독자(알코올, 약물 등) 및 가족 등",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.cjacc.or.kr/",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
         "regions": [
           "충청북도"
         ],
