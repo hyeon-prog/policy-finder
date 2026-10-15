@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-10-14T23:47:39.487Z",
+  "generatedAt": "2026-10-15T23:36:44.557Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -290,6 +290,181 @@
         "minHouseholdSize": null
       },
       "source": "curated"
+    },
+    {
+      "id": "yc-20261015005400213953",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "1인가구 건강돌봄 프로그램",
+      "category": "금융",
+      "summary": "1인가구의 활동성 증진 및 신체적·정신적 삶의 질 향상을 위해 연령대별 맞춤형 건강관리 프로그램을 지원",
+      "target": "만 0~99999세 — 1인가구",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "경기도 1인가구 포털(https://www.gg.go.kr/1ingg) > 참여프로그램",
+      "link": "https://www.gg.go.kr/1ingg",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "경기도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261015005400213952",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "1인가구 식생활 개선 다이닝",
+      "category": "금융",
+      "summary": "1인가구의 혼밥·식생활 개선 및 사회적 교류 증진을 위한 공동 조리·식사 요리교",
+      "target": "만 0~99999세 — 1인가구",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "경기도 1인가구 포털(https://www.gg.go.kr/1ingg) > 참여프로그램",
+      "link": "https://www.gg.go.kr/1ingg",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "경기도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261015005400213951",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "1인가구 금융안전교육",
+      "category": "금융",
+      "summary": "금융안전 예방교육 및 범죄 피해자 교육",
+      "target": "만 0~99999세 — 1인가구",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "경기도 1인가구 포털(https://www.gg.go.kr/1ingg) > 참여프로그램에서 신청",
+      "link": "https://www.gg.go.kr/1ingg",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "경기도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261014005400213950",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "1인가구 병원 안심동행 사업",
+      "category": "금융",
+      "summary": "병원동행(입‧퇴원 접수,수납 등)퇴원 서비스 제공 - 병원 출발 및 귀가 시 동행, 병원내 접수‧수납, 약국동행 및 의약품 수령 등 * 이동서비스(차량운행 등)…",
+      "target": "만 0~99999세 — 연령‧소득과 무관한 사실상 1인가구(노인가구, 조손가구, 한부모가정 등) 포함",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "○ 사업신청-동행인 출동-서비스제공-사후관리 ○ 신청방법 - 방문/유선 접수 진행 : 서비스 운영자 - 온라인 : 경기민원24(https://…",
+      "link": "https://gg24.gg.go.kr/svcreqst/selectSvcReqst.do?svc_seq=850",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "경기도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261014005400213949",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "우리동네 초등방학 돌봄터 운영",
+      "category": "금융",
+      "summary": "ㅇ (목적) 방학 중 초등 저학년 아동의 돌봄 공백 해소 및 맞벌이·한부모 가정의 양육부담 경감 ㅇ (대상) 초등학생 ㅇ (주요내용) 어린이집 유휴공간 활용,…",
+      "target": "만 6~9세 — 어린이집 유휴공간 활용, 초등방학 돌봄터 운영",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "어린이집 대상 공모를 통해 선정",
+      "link": "https://www.gb.go.kr/Main/wel/index.html",
+      "eligibility": {
+        "minAge": 6,
+        "maxAge": 9,
+        "regions": [
+          "경상북도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261014005400213948",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "K보듬 6000 0세 특화반 운영",
+      "category": "금융",
+      "summary": "ㅇ (목적) 아이와 부모가 함께하는 돌봄으로 양육피로 경감 ㅇ (대상) 생후 60일 ~ 12개월 미만 영아 및 보호자 ㅇ (주요내용) 출산 직후부터 첫돌까지의…",
+      "target": "만 0~1세 — 출산 직후부터 첫돌까지의 영아를 둔 부모들을 위한 휴식공간 제공",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "홈페이지(https://k6000.or.kr/) 신청 및 승인",
+      "link": "https://k6000.or.kr/",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": 1,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": "married",
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261014005400213947",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "함께 키워요! K보듬 6000",
+      "category": "금융",
+      "summary": "ㅇ (목적) 아파트 1층 또는 기존 돌봄시설을 강화하여 온마을 공동체가 아이를 안전하게 함께 돌보는 새로운 돌봄문화 조성 ㅇ (대상) 영유아~초등학생 ㅇ (주요…",
+      "target": "만 0~12세 — 온종일 공동체 돌봄이 가능하도록 돌봄시설을 설치하고, 특화서비스 추가 제공으로 부모 만족도 향상",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "홈페이지(https://k6000.or.kr/)를 통한 돌봄시설 이용신청 및 승인",
+      "link": "https://k6000.or.kr/",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": 12,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": "married",
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
     },
     {
       "id": "yc-20261014005400213946",
@@ -877,181 +1052,6 @@
         "maxAge": 45,
         "regions": [
           "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261006005400213905",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년 자립마을 활성화 지원사업",
-      "category": "취업",
-      "summary": "○ 청년마을의 경제적 기반 강화 지원 · 수익모델 발굴 · 창업 지원 · 판로 개척 · 전문 컨설팅 ○ 지역 자원을 활용한 창업아이템 시제품 개발 프로젝트 운영…",
-      "target": "만 0~99999세 — ○ 기 조성된 청년마을의 자립기반 강화 및 지역 정착과 창업·일자리로 이어지는 선순환 구조 마련 ○ 기 조성된 청년마을 성과와 연계한 창업·일자리 사업 지원 · 수익모델 발굴, 창업 지원, 판로 개척, 전문…",
-      "deadline": "2026-10-01 ~ 2026-10-15",
-      "applyMethod": "○ 청년단체 제출 · 제출기한: 2026. 10. 15.(목) 18:00 · 제출처: 시·군·구 · 제출방법: 대면 또는 메일 ○ 시·군·구…",
-      "link": "https://youth.jeonnam-gwangju.go.kr/www/50?siteId=www&policyId=1478&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261004005400213903",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "충북청년희망센터 운영",
-      "category": "참여·권리",
-      "summary": "도내 청년 거점공간 운영을 통한 청년들의 다양한 활동 지원 및 청년 간 네트워크 인프라 구축",
-      "target": "만 19~39세 — 도내 청년 거점공간 운영을 통한 청년들의 다양한 활동 지원 및 청년 간 네트워크 인프라 구축",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.chungbuk.go.kr/young/contents.do?key=1318",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "충청북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261004005400213902",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년농부 네트워크 지원",
-      "category": "참여·권리",
-      "summary": "청년농부 및 전문가 등 만남의 기회 제공을 통한 청년농부 네트워크 구축(청년농업인 소통공감 워크숍 개최)",
-      "target": "만 19~39세 — 청년농업인",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.chungbuk.go.kr/www/index.do",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "충청북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261004005400213901",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "충북인재 재능나눔 사업",
-      "category": "참여·권리",
-      "summary": "- 대학생 및 대학원생의 재능나눔 활동 지원으로 함께하는 충북 실현 - 다양한 재능나눔 활동을 통한 지역발전 및 대학생·대학원생 역량 강화",
-      "target": "만 0~99999세 — 충북 도내 학교 및 청소년 기관(중·고·대학(원)생)",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.chungbuk.go.kr/young/contents.do?key=5058",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "충청북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261004005400213900",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "충북인재 정책제안 지원사업",
-      "category": "참여·권리",
-      "summary": "- 권역별 찾아가는 정책제안 카페 운영 - 충청북도 청년정책 설명회, AI활용 제안서 작성 특강 - 충북청년 정책제안 대회",
-      "target": "만 0~99999세 — - 권역별 찾아가는 정책제안 카페 운영 - 충청북도 청년정책 설명회, AI활용 제안서 작성 특강 - 충북청년 정책제안 대회",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.chungbuk.go.kr/young/contents.do?key=5057",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "충청북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261004005400213899",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "제11기 충북청년도정참여단",
-      "category": "참여·권리",
-      "summary": "청년이 주도적으로 청년정책 참여기반 마련",
-      "target": "만 19~39세 — 청년이 주도적으로 청년정책 참여기반 마련",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.chungbuk.go.kr/young/contents.do?key=1319",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "충청북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261004005400213898",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "충청북도 청년정책조정위원회 운영",
-      "category": "참여·권리",
-      "summary": "충청북도 청년정책조정위원회 운영",
-      "target": "만 19~39세 — 충청북도 청년정책조정위원회 운영",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.chungbuk.go.kr/young/contents.do?key=1315",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "충청북도"
         ],
         "maxIncomeRatio": null,
         "employment": null,
