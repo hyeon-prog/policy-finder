@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-10-21T23:56:23.195Z",
+  "generatedAt": "2026-10-22T23:55:52.370Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -290,6 +290,433 @@
         "minHouseholdSize": null
       },
       "source": "curated"
+    },
+    {
+      "id": "yc-20261021005400214228",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "서구 메이커스페이스 활성화 사업",
+      "category": "취업",
+      "summary": "ㆍ(메이커스페이스 공간 운영) 메이커 장비 및 공간 대여, 메이커 체험 등 ㆍ(지역 메이커 발굴·지원) 메이커 교육을 통한 취·창업자 역량 강화 ㆍ(메이커 문화…",
+      "target": "만 0~99999세 — 4차 산업시대 융합·창의적 인재양성을 위한 메이커 스페이스를 통해 메이커 활동을 확대 지원하여 청년의 취·창업 경쟁력 강화 도모",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "꼼지락발전소 누리집(www.꼼지.com) 및 전화 문의(☎ 053-216-2360)",
+      "link": "https://www.xn--cs0bw61c.com/",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261021005400214227",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "곡성군 임대형 스마트팜(창고형 수직농장) 청년농 입주자 모집",
+      "category": "주거",
+      "summary": "스마트팜 재배실 및 관련 부속 공용시설 임대",
+      "target": "만 19~49세 — 1. 거주지 : 곡성군에 주민등록을 두고 실제 거주하는 자 2. 영농경력 : 독립경영 예정자 또는 독립경영 중인 청년농업인 3. 영농기반 : 타 시군에 본인 명의로 온실 , 스마트팜 등 시설농업 영농기반을 소유…",
+      "deadline": "2026-10-15 ~ 2026-10-28",
+      "applyMethod": "곡성군 농정과 미래농업팀 방문접수",
+      "link": "https://www.gokseong.go.kr/kr/board/view.do?bbsId=BBS_000000000000150&pageIndex=1&nttId=113456&menuNo=102001001000&searchCategory1=&searchCategory2=&searchCategory3=",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 49,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261021005400214224",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년정책참여단 구성 및 운영",
+      "category": "참여·권리",
+      "summary": "군위군 거주 및 활동하는 19-45세 청년 청년관련 창의적이고 다양한 정책 아이디어 제안 관내외 청년단체 및 대구청년정책네트워크와 교류 협력 활동",
+      "target": "만 19~45세 — 군위군 청년정책참여단 구성 및 운영을 통해 지역 청년의 정책참여 확대 및 청년이 체감하는 정책을 추진하고 청년 간 네트워크 활성화와 프로젝트 활동 기회의 장을 제공하고자 함",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인 및 전화 접수",
+      "link": "https://blog.naver.com/smartchatbot/224418505630",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 45,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261021005400214220",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026 지역별 서울청년센터 설치 운영",
+      "category": "참여·권리",
+      "summary": "생활권 기반 청년정책 전달체계로서 청년 유형별 맞춤형 지원 및 취약청년 사회안전망 제공",
+      "target": "만 19~39세 — 직무탐색-교육‧일경험-일자리 매칭 취업 지원체계 강화",
+      "deadline": "2026-01-01 ~ 2026-12-31",
+      "applyMethod": "청년정책종합상담 온라인 신청",
+      "link": "https://youth.seoul.go.kr/content.do?key=2310200003",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "서울특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261021005400214219",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026 청년안심주택 공급(매입)",
+      "category": "주거",
+      "summary": "대중교통 중심지역(역세권+간선도로변)의 민간소유 토지를 체계적으로 개발(민간 주도+공공 지원)하여 쾌적하고 저렴한 주택을 공급함으로써 청년층의 주거안정을 도모하…",
+      "target": "만 19~39세 — 대중교통 중심지역 민간 건설 임대주택 일부를 청년안심주택으로 매입, 청년ㆍ신혼부부에게 공급",
+      "deadline": "2026-01-01 ~ 2026-12-31",
+      "applyMethod": "사업제안 및 입안→통합심의위원회 사전자문→사업계획 접수→주민열람 공고 및 관계부서 협의→통합심의위원회 심의→승인 및 고시→착공→준공 및 소유권…",
+      "link": "https://youth.seoul.go.kr/content.do?key=2310100037",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "서울특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": "married",
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261021005400214210",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026 가족돌봄청년을 위한 사회서비스 지원",
+      "category": "금융",
+      "summary": "가족돌봄이라는 막중한 책임을 지고 있는 가족돌봄청년들의 돌봄부담을 경감하고 본인의 미래를 준비할 수 있도록 지원",
+      "target": "만 9~39세 — 장애, 신체 및 정신의 질병 등으로 도움이 필요한 가족을 돌보고 있는 9세~39세 이하의 가족돌봄청년",
+      "deadline": "2026-04-01 ~ 2026-12-31",
+      "applyMethod": "시·자치구·복지재단 협력을 통한 지원",
+      "link": "https://youth.seoul.go.kr/youthConts.do?key=2310100065&sc_pbancSeCd=103&sc_bbsStngSn=0&sc_bbsCtgrySn=0&sc_qnaCtgryCd=001&sc_faqCtgryCd=016",
+      "eligibility": {
+        "minAge": 9,
+        "maxAge": 39,
+        "regions": [
+          "서울특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261021005400214208",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026 청년 월세 지원",
+      "category": "주거",
+      "summary": "사회에 갓 진입한 청년층의 주거비 부담 완화를 통해 사회 진입을 돕고 내 집 마련, 결혼, 출산, 양육 등 생애 다음 단계로의 성장 지원",
+      "target": "만 19~39세 — (거주기준)보증금 8,000만원 이하, 월세 60만원 이하, (재산기준)일반재산 1억 3천만원 이하, 자동차 2,500만원 미만",
+      "deadline": "2026-01-01 ~ 2026-12-31",
+      "applyMethod": "사회보장협의회→모집 공고,집중 홍보→신청·접수→소득재산,중복수혜 조사→이의신청 접수·심의→최종선정→지원금 지급",
+      "link": "https://youth.seoul.go.kr/content.do?key=2310100046",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "서울특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261021005400214207",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026 청년과 어르신 주거공유(한지붕세대공감)",
+      "category": "주거",
+      "summary": "어르신의 고립감을 해소하고 대학(원)생에게 주변 임대료보다 저렴하게 주거공간을 제공하여 주거비 부담 완화",
+      "target": "만 0~99999세 — 신청 시 1실당 100만원 이내 환경개선(도배, 장판 교체 등) 공사",
+      "deadline": "2026-01-01 ~ 2026-12-31",
+      "applyMethod": "어르신-대학생 매칭 후 환경개선공사 시행",
+      "link": "https://youth.seoul.go.kr/content.do?key=2310100052",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "서울특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261021005400214204",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026 고립·은둔 청년 지원",
+      "category": "금융",
+      "summary": "청년정책 사각지대에 놓인 고립·은둔청년에 대한 발굴과 맞춤 지원을 통해 청년의 사회성, 대인관계 능력 향상지원 및 사회진입 촉진",
+      "target": "만 19~39세 — 서울시 거주 19~39세 고립·은둔 청년",
+      "deadline": "2026-10-20 ~ 2026-12-31",
+      "applyMethod": "청년몽땅정보통(youth.seoul.go.kr) 온라인 신청",
+      "link": "https://youth.seoul.go.kr/youthConts.do?key=2310100062&sc_pbancSeCd=008&sc_bbsStngSn=2212200001&sc_bbsCtgrySn=2310200007&sc_qnaCtgryCd=&sc_faqCtgryCd=013",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "서울특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261021005400214203",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026 전남형 청년부부 결혼축하금 지원사업",
+      "category": "금융",
+      "summary": "일정지원 조건(연령, 혼인, 거주 등)을 충족할 경우 결혼축하금 200만원 지원",
+      "target": "만 19~49세 — 1. 혼인신고일 기준, 6개월이 경과되는 날부터 신청가능하며 혼인신고일 기준 1년 6개월 이내 신청 2. 혼인신고일 기준, 남녀모두 49세 이하 3. 결혼축하금 신청일 직전까지 부부모두 계속해서 도내에 6개월 이…",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "평일(월~금) 관할 읍면사무소 방문신청 또는 전남 아이톡 신청",
+      "link": "https://italk.jeonnam.go.kr/",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 49,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": "married",
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261021005400214202",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026 서울 영테크",
+      "category": "금융",
+      "summary": "청년 금융교육 및 재무상담을 통한 경제적 자립 지원",
+      "target": "만 19~39세 — 무료 재무상담(대면, 비대면) 및 금융교육, 커뮤니티 운영",
+      "deadline": "2026-03-01 ~ 2026-11-30",
+      "applyMethod": "서울 영테크 온라인 신청",
+      "link": "https://youth.seoul.go.kr/youthConts.do?key=2310100072&sc_pbancSeCd=102&sc_bbsStngSn=2310160002&sc_bbsCtgrySn=0&sc_qnaCtgryCd=001&sc_faqCtgryCd=015",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "서울특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": [
+          "employed"
+        ],
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261021005400214201",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026 청년층 신용회복 지원사업",
+      "category": "금융",
+      "summary": "학자금 대출 및 신용대출 등의 채무로 금융채무 불이행자가 되어 어려움을 겪고 있는 청년의 신용 회복과 금융 생활 지원",
+      "target": "만 19~39세 — 신용유의자 분할상환 약정 시 초입금 지원",
+      "deadline": "2026-02-06 ~ 2026-11-20",
+      "applyMethod": "청년몽땅정보통(youth.seoul.go.kr) 온라인 신청",
+      "link": "https://youth.seoul.go.kr/youthConts.do?key=2310100075&sc_pbancSeCd=001&sc_bbsStngSn=2212200001&sc_bbsCtgrySn=2310200002&sc_qnaCtgryCd=&sc_faqCtgryCd=007",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "서울특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261021005400214197",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026 서울시 위원회 청년위촉 지정관리",
+      "category": "참여·권리",
+      "summary": "「서울특별시 청년 기본 조례」정비에 따른 서울시 위원회 청년위원 위촉 확대 추진(청년위원 10% 이상 위촉)을 통해 청년의 시정 참여 강화",
+      "target": "만 19~39세 — 서울 거주 또는 서울에서 활동하는 청년",
+      "deadline": "2026-03-01 ~ 2026-12-31",
+      "applyMethod": "운영계획 수립→소관부서 의견조정→제외위원회 지정 및 알림",
+      "link": "https://youth.seoul.go.kr",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "서울특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261021005400214194",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026 서울시 청년해외봉사단 사업",
+      "category": "참여·권리",
+      "summary": "해외 봉사 경험을 통해 청년들에게 국제개발협력 참여기회를 제공하고 글로벌 역량 강화 지원",
+      "target": "만 19~39세 — 시정기여자, 사회배려청년 가산점 부여",
+      "deadline": "2026-10-01 ~ 2026-10-31",
+      "applyMethod": "청년몽땅정보통(youth.seoul.go.kr) 온라인 신청",
+      "link": "https://youth.seoul.go.kr/youthConts.do?key=2311120001&sc_pbancSeCd=020&sc_bbsStngSn=2212200001&sc_bbsCtgrySn=2310200014&sc_qnaCtgryCd=001&sc_faqCtgryCd=001",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "서울특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261021005400214191",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026 청년 몽땅 정보통 운영",
+      "category": "참여·권리",
+      "summary": "AI가 추천해 주는 300만 서울청년의 맞춤형 청년 플랫폼",
+      "target": "만 19~39세 — 청년몽땅정보통 AI 맞춤형 서비스, 선제적 청년정책 전달, 청년지원사업 온라인신청",
+      "deadline": "2026-01-01 ~ 2026-12-31",
+      "applyMethod": "청년몽땅정보통(youth.seoul.go.kr) 온라인 신청",
+      "link": "https://youth.seoul.go.kr/mainB.do",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "서울특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261021005400214190",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026 서울광역청년센터 운영",
+      "category": "참여·권리",
+      "summary": "서울청년센터 안정적 운영지원, 청년수당 등 주요 시책사업 추진 및 청년 사회안전망 구축 등 서울시 청년정책 집행·전달의 종합 컨트롤타워 기능 수행",
+      "target": "만 19~39세 — 서울광역청년센터 관리 및 운영 사무 위탁",
+      "deadline": "2026-01-01 ~ 2026-12-31",
+      "applyMethod": "서울광역청년센터 온라인 신청",
+      "link": "https://youth.seoul.go.kr/content.do?key=2310200001",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "서울특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261021005400214189",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026 곡성군 청년창업 공유사무실 입주자 모집",
+      "category": "창업",
+      "summary": "신청일 기준 관내 주소지를 둔 19세 이상 49세 이하 예비 창업자 또는 5년 이내 창업자 공유사무실 지원",
+      "target": "만 19~49세 — 공유사무실 지원",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "신청서 작성하여 인구정책과 방문 또는 우편제출",
+      "link": "https://www.gokseong.go.kr/board/GosiView.do?menuNo=102001003000&pageIndex=1&searchCnd=0&not_ancmt_mgt_no=34821&not_ancmt_se_code=&list_gubun=&srhCate=title&searchWrd=%EA%B3%B5%EC%9C%A0%EC%82%AC%EB%AC%B4%EC%8B%A4",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 49,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
     },
     {
       "id": "yc-20261021005400214188",
@@ -617,435 +1044,6 @@
         "maxAge": 45,
         "regions": [
           "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261021005400214166",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026 서울형 강소기업 육성 지원",
-      "category": "취업",
-      "summary": "청년 정규직 채용 및 12개월 만근 시 근무환경개선금 지급(기업당 3명, 최대 4,500만원)",
-      "target": "만 18~39세 — 청년 정규직 채용 및 12개월 만근 후 신청 가능(기업별 상이)",
-      "deadline": "2026-10-19 ~ 2026-12-31",
-      "applyMethod": "모집공고→정량심사→면접심사→최종선정",
-      "link": "https://youth.seoul.go.kr/content.do?key=2310100029",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 39,
-        "regions": [
-          "서울특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261020005400114158",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "에너지 국제기구 인턴 파견",
-      "category": "참여·권리",
-      "summary": "국제에너지기구(IEA), 국제재생에너지기구(IRENA) 등 에너지 관련 국제기구에서 통상 6개월간 근무할 수 있는 인턴 선발 및 지원",
-      "target": "만 0~99999세 — - 대한민국 국적자로 학사 또는 그 이상 학위 소지자 - 구술 및 작문 등이 원활한 수준의 영어",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "외교부 경제안보외교과 담당자 이메일로 관련 서류 송부",
-      "link": "https://www.mofa.go.kr/www/brd/m_4075/list.do",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261020005400214157",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년공동체 활성화",
-      "category": "참여·권리",
-      "summary": "ㅇ (대상) 19~49세 울진군 청년 ㅇ (주요내용) - 청년중심 네트워크 구축 - 지역 청년과 소통을 통한 군정 공유 - 청년문제 해소방안 모색 및 정책 자문…",
-      "target": "만 19~49세 — 청년 공동체 활성화",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.imaeil.com/page/view/2023062909332055498",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 49,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261020005400214155",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년농업인 소득작목육성과제포 지원사업",
-      "category": "교육",
-      "summary": "ㅇ (대상) 청년농업인4-H연합회원 ㅇ (주요내용) 영농 기자재, 관수시설 및 묘목 등 농업기반 시실 및 자재 지원 ㅇ (전달체계) 지자체 직접신청",
-      "target": "만 19~45세 — 농업인 소득원 창출 지원",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://gbyfarmer.kr/pages/index.htm",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 45,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261020005400214154",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년 이사비 지원사업",
-      "category": "주거",
-      "summary": "ㅇ (대상) 울진군으로 전입오는 무주택 청년 ㅇ (주요내용) 이사비&부동산중계비 최대 50만원 지원 ㅇ (전달체계)지자체 직접신청",
-      "target": "만 19~49세 — 청년의 초기 주거비용 절감",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.uljin.go.kr/index.uljin?menuCd=DOM_000000103002007001&type=view&ancmtMgtNo=33676",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 49,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261020005400214153",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "영천시 창업정착 지원사업",
-      "category": "창업",
-      "summary": "ㅇ (대상) 19세 ~ 45세 이하의 전국 청년 ㅇ (주요내용) 청년의 지역정착 아이디어(창업·창직 등) 사업화 지원",
-      "target": "만 19~45세 — 청년유입 및 정착을 통해 일자리 창출 및 지역 경제 활성화",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.yc.go.kr/job/contents.do?mId=1702000000",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 45,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261020005400214152",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "문화예술교육사 현장 역량 강화 사업",
-      "category": "교육",
-      "summary": "지역 문화시설 4개소 선정, 문화예술교육사 4인 채용 문화예술교육 프로그램 기획‧운영의 인건비, 프로그램 개발 및 운영, 전문가 컨설팅, 워크숍 등 지원",
-      "target": "만 0~99999세 — 문화예술교육사 자격증 소지자",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "1. 대구문화예술진흥원 주관 지역 문화시설 4개소 선정 (공모, 심의) - 운영시설 선정 통보일로부터 30일 이내 문화예술교육사 채용절차 진행…",
-      "link": "https://dgfca.or.kr/main",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "대구광역시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261020005400214151",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년농업인 스타트업 지원",
-      "category": "교육",
-      "summary": "ㅇ (대상) 19~49세, 1년이상 울진군 거주 ㅇ (주요내용) 농업생산기반, 가공유통, 체험관광등에 필요한 시설 장비 지원(70~80%) ㅇ (전달체계) 지자…",
-      "target": "만 19~49세 — 농촌에 정착한 젊은 농업인 기반조성",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://gbyfarmer.kr/pages/index.htm",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 49,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261020005400214150",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "산림분야 자격증 취득 교육과정 지원사업",
-      "category": "교육",
-      "summary": "ㅇ (대상) 국민내일배움카드를 발급받은 19세 이상 74세 이하 울진군민 ㅇ (주요내용) 산림관련 자격증 수업료, 시험응시비 지원 ㅇ (전달체계)지자체 직접신청",
-      "target": "만 19~74세 — 산림분야 직업능력개발훈련",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.uljin.go.kr/images/01_potal/file/work/2024/15.pdf",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 74,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261020005400214149",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "자격증 취득교육 지원사업",
-      "category": "교육",
-      "summary": "ㅇ (대상) 19~75세 울진군민 ㅇ (주요내용) 취업교육비 지원 1인 최대 40만원 ㅇ (전달체계) 지자체 직접 신청",
-      "target": "만 19~75세 — 청년 취업역량강화",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.welfarehello.com/policy/2026-%EA%B2%BD%EB%B6%81-%EC%9A%B8%EC%A7%84-%EC%9E%90%EA%B2%A9%EC%A6%9D-%EC%B7%A8%EB%93%9D-%EA%B5%90%EC%9C%A1%EC%A7%80%EC%9B%90--6233a001-f95c-4e47-88d4-4412383ae0eb",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 75,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261020005400214148",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년창업 사업장 임차료 지원사업",
-      "category": "창업",
-      "summary": "ㅇ (대상) 사업장 소재지 및 주소지가 영천시이고 창업 5년 이내인 19 ~ 45세 청년근로자 ㅇ (주요내용) 월 임차료 50만원 한도 내 지원(최대 1년)",
-      "target": "만 19~45세 — ㅇ (대상) 사업장 소재지 및 주소지가 영천시이고 창업 5년 이내인 19 ~ 45세 청년근로자",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://gbyouth.go.kr/policy/list.tc?mn=2379&pageNo=5069&searchPolicyNm=%EC%9E%84%EC%B0%A8%EB%A3%8C&_csrf=5ff74cc9-7e5c-4c76-bda2-4407ba03281a",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 45,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": [
-          "self-employed"
-        ],
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261020005400214147",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년근로자 근속장려금 지원사업",
-      "category": "취업",
-      "summary": "ㅇ (대상) 관내 중소기업에 1년 이상 재직 중이며 관내 주소지를 둔 19 ~ 45세 청년근로자 ㅇ (주요내용) 분기별 근속장려금 60 ~ 80만원 지원(최대…",
-      "target": "만 19~45세 — 관내 중소기업에 1년 이상 재직 중이며 관내 주소지를 둔 19 ~ 45세 청년근로자",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.yc.go.kr/job/contents.do?mId=1700000000",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 45,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": [
-          "employed"
-        ],
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261020005400214146",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "울진군 청년 자격증 응시료 지원사업",
-      "category": "교육",
-      "summary": "ㅇ (대상) 19~49세 울진군 거주 청년 ㅇ (주요내용) 자격증 응시료지원 1인 최대 5만원/연2회 ㅇ (전달체계) 지자체 직접지원",
-      "target": "만 19~49세 — 청년 취업역량강화",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.uljin.go.kr/index.uljin?menuCd=DOM_000000103002007001&type=view&ancmtMgtNo=33772",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 49,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261020005400214145",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "제안공모 채택자 창업지원사업",
-      "category": "창업",
-      "summary": "ㅇ (대상) 19~75세 울진군민 ㅇ (주요내용) 취업교육비 지원 1인 최대 41만원 ㅇ (전달체계) (재)환동해산업연구원 수행",
-      "target": "만 19~49세 — 청년 취업역량강화",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.uljin.go.kr/upload_data/board_data/BBS_0000130/174597366874273.pdf",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 49,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261020005400214144",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "6070청춘공작소",
-      "category": "참여·권리",
-      "summary": "6070청춘공작소 1층은 오픈스페이스로 지역주민들과 청년들의 모임, 활동 공간을 무료로 대여해 드립니다.",
-      "target": "만 0~99999세 — 6070청춘공작소는 지역주민들과 청년들이 함께하는 공간으로 자유롭게 출입이 가능하며 시설을 이용할 수 있습니다.",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "6070청춘공작소 홈페이지 - 공간 예약 신청",
-      "link": "http://0space.kr/",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261020005400214143",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년농업인 육성지원사업",
-      "category": "교육",
-      "summary": "ㅇ (대상) 봉화군 4-H연합회 ㅇ (주요내용) 청년농업인 현장교육 및 역량강화 지원 ㅇ (전달체계) 직접수행",
-      "target": "만 19~49세 — 봉화군 청년농업인 단체 활동지원",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.bonghwa.go.kr/depart/contents.do?mid=1003000000",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 49,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261020005400214142",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년농업인 소득기반 구축지원사업",
-      "category": "취업",
-      "summary": "ㅇ (대상) 독립영농 2년이상의 청년농업인 ㅇ (주요내용) 생산기반,가공유통,체험관광 등 영농기반 구축 지원 ㅇ (전달체계) 직접수행",
-      "target": "만 18~29세 — 청년농업인의 안정적 소득기반 구축",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.bonghwa.go.kr/main.do",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 29,
-        "regions": [
-          "경상북도"
         ],
         "maxIncomeRatio": null,
         "employment": null,
