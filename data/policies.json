@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-10-27T00:17:47.429Z",
+  "generatedAt": "2026-10-28T00:21:22.489Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -292,6 +292,110 @@
       "source": "curated"
     },
     {
+      "id": "yc-20261027005400214455",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년 주거 임차비 지원",
+      "category": "주거",
+      "summary": "ㅇ (대상)지역 정착 창업사업 참여 청년(19세 이상 45세 이하) ㅇ (주요내용)창업 청년 거주지 임차비 지원",
+      "target": "만 19~45세 — 청년 창업 기반 마련 및 정착 유도",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.sangju.go.kr/opencenter/youthpolicy/view.tc?pageSeq=0&mn=&pageIndex=1&policyNo=107&selPolicyNo1=95&selPolicyNo2=96&schKeyword=",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 45,
+        "regions": [
+          "경상북도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": [
+          "employed"
+        ],
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261027005400214453",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년 구직자 자격증 취득 지원",
+      "category": "취업",
+      "summary": "ㅇ (대상)상주시 거주 청년 구직자 및 취업준비생 ㅇ (주요내용)구직 청년 자격증시험 응시 비용 지원",
+      "target": "만 19~45세 — 직무 역량 강화 및 취업 경쟁력 도모를 통해 지역 내 고용 촉진",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.sangju.go.kr/opencenter/main.tc",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 45,
+        "regions": [
+          "경상북도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261027005400114442",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "경력단절 청년 재취업 지원(새일여성인턴사업)",
+      "category": "취업",
+      "summary": "❍ 인턴 일자리 연계 : 새일센터가 구직 여성과 인턴 채용을 희망하는 기업을 연결 ❍ 직장 실무 경험 : 실제 기업에서 근무하며 직무 경험을 쌓고 취업 후 직장…",
+      "target": "만 0~99999세 — 해당 없음",
+      "deadline": "2026-01-01 ~ 2026-12-31",
+      "applyMethod": "온라인 신청 접수",
+      "link": "https://saeil.mogef.go.kr/hom/jobOffer/jobOfferInternInfo.do#nameCheckMobile",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "충청남도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": [
+          "jobseeker"
+        ],
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261026005400114439",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년미래센터(고립은둔 및 가족돌봄)",
+      "category": "금융",
+      "summary": "1) 고립은둔 청년(19-39세): 일상회복을 위한 1:1 맞춤형 상담, 프로그램, 부모(가족) 교육 등 2) 가족돌봄 청년(34세 미만): 자기돌봄비(중위소득…",
+      "target": "만 19~39세 — 경기도 청년미래센터는 도내 고립은둔 청년(19-39세)의 일상회복 및 자립지원과, 가족돌봄 청년(34세 미만)을 대상으로 자기돌봄비 지급 및 사회적 지지망 형성 등의 서비스를 제공합니다.",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://youth.gg.go.kr/gg/intro/introducing-the-gyeonggi-youth-portal.do",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "경기도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
       "id": "yc-20261026005400214431",
       "type": "local",
       "open": true,
@@ -512,6 +616,158 @@
         "maxAge": 20,
         "regions": [
           "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261024005400214370",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "자립준비청년 코칭지원사업",
+      "category": "금융",
+      "summary": "도내 자립준비청년 대상 전문 코치의 1:1 맞춤형 코칭을 통해 목표 설정 및 실행으로 잠재력 개발, 사회 정착 지원[본코칭(진단 1회, 코칭 9회/대면·비대면)…",
+      "target": "만 18~24세 — 자립준비청년 대상 1:1 전문 코칭 프로그램 지원",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.ggjarip.or.kr/",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 24,
+        "regions": [
+          "경기도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261023005400214357",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "서구 Job Cafe 청춘발산공작소 운영",
+      "category": "취업",
+      "summary": "- 미니 취업박람회 개최, 취업지도교육 및 원데이클래스 운영 등",
+      "target": "만 0~99999세 — 청년들의 타지역 이탈을 막고 광주권에서 안정적인 일자리를 찾아 삶의 질을 높일 수 있도록 단계별 맞춤 지원을 위한 거점공간으로 운영",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.seogu.gwangju.kr/goodjob/",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": [
+          "jobseeker"
+        ],
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261023005400214356",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "서구 스타트업센터(농성역 청년창업플랫폼) 운영",
+      "category": "창업",
+      "summary": "입주기업실 무상 임차(독립사무실), 창업 프로그램 및 멘토링 제공 등",
+      "target": "만 0~99999세 — 창업을 위한 사무실 제공과 청년이 주체가 되어 창업을 시도해볼 수 있는 창업 인큐베이팅 및 창작 공간 운영",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.seogu.gwangju.kr/goodjob/",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261023005400214342",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "공학교육혁신센터 지원",
+      "category": "교육",
+      "summary": "각 대학 공학교육혁신센터별 프로그램 운영",
+      "target": "만 0~99999세 — 공학교육프로그램의 개선, 산업계 수요·대학 특성을 고려한 프로그램 운영을 통한 공과대학 특성화를 지원합니다.",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "- (목포대학교) 공학교육혁신센터 (https://abeek.mokpo.ac.kr/sites/abeek/index.do) - (순천대학교) 공…",
+      "link": "https://jeonnam-gwangju.go.kr",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261023005400214334",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "대학창업보육센터 운영지원",
+      "category": "창업",
+      "summary": "입주공간 제공 및 경영, 회계, 법률 등 전문가 자문 제공",
+      "target": "만 0~99999세 — 예비 창업자, 창업 7년 이내 기업",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://jeonnam-gwangju.go.kr",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261023005400214330",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "대학생 벤처동아리 육성 지원",
+      "category": "창업",
+      "summary": "우수창업 아이템 사업화 지원(동아리) - 기본지원금(150만원) + 변동지원금(동아리 수, 실적 등 반영)",
+      "target": "만 0~99999세 — 도내 8개 대학 재학생",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "① 사업계획서 및 교부신청서 접수(도) ② 동아리 운영계획 확인 및 대상자 확정(각 대학 산학협력단) ③ 지급 신청서 제출 및 동아리 운영비…",
+      "link": "https://www.jeonnam-gwangju.go.kr/",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전국"
         ],
         "maxIncomeRatio": null,
         "employment": null,
@@ -783,260 +1039,6 @@
       "category": "금융",
       "summary": "ㅇ (목적) 청년 금융자립지원 ㅇ (대상) 도내 대학생 및 주민등록자 ㅇ (주요내용) 학자금 대출 이자 및 신용회복 지원 ㅇ (전달체계) 한국장학재단 업무협약…",
       "target": "만 0~99999세 — 청년 금융자립지원",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://gbyouth.go.kr/",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261023005400214302",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "K-탑티어 석박사 프로젝트",
-      "category": "교육",
-      "summary": "ㅇ (목적) 한류인재 및 과학기술인재 양성을 위한 미래 아이디어 산업주도 지역인재 육성 ㅇ (대상) 수행대학/석박사 최우수 청년인재 ㅇ (주요내용) 학교별 대학…",
-      "target": "만 0~99999세 — 한류인재 및 과학기술인재 양성을 위한 미래 아이디어 산업주도 지역인재 육성",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://gbyouth.go.kr/",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261023005400214301",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "지역 고교 인재 비즈쿨 프로젝트",
-      "category": "교육",
-      "summary": "ㅇ (목적) 도내 고교 인재 대상 창업 교육 및 일경험 제공을 통한 청년 창업 활성화 및 지역 기업 구인난 해소 ㅇ (대상) 도내 특성화고 재학생 및 고교졸업생…",
-      "target": "만 0~99999세 — 도내 고교 인재 대상 창업교육·일경험 제공으로 청년 창업 활성화 및 구인난 해소",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://gbyouth.go.kr/",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261023005400214300",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "원전현장인력양성원 운영사업 지원",
-      "category": "교육",
-      "summary": "ㅇ (목적) 원전산업 현장 기능인력 양성 ㅇ (대상) 도내 원전 관련 기업.기관 취업 희망자 ㅇ (주요내용) 원전 관련 실습교육 및 전문자격증 취득 지원 ㅇ (…",
-      "target": "만 0~99999세 — 원전산업 현장 기능인력 양성",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://gbyouth.go.kr/",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": [
-          "jobseeker"
-        ],
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261023005400214299",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "원자력전문인력양성사업",
-      "category": "교육",
-      "summary": "ㅇ (목적) 경북 원전산업 맞춤형 지역인재 양성 ㅇ (대상) 도내 원자력 전공학과 및 원전산업 관련 학과 ㅇ (주요내용) 도내 원자력 학과 교육사업 지원 ㅇ (…",
-      "target": "만 0~99999세 — 경북 원전산업 맞춤형 지역인재 양성",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://gbyouth.go.kr/",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261023005400214297",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "경북형 인재양성 취업연계 AI메타버스 아카데미",
-      "category": "취업",
-      "summary": "ㅇ (목적) 기업 수요를 반영한 프로젝트 기반 학습, 인턴십, 자격증 교육 등을 통해 즉시 산업 현장에 투입 가능한 인재 육성 ㅇ (대상) 경북도 지역 대학생…",
-      "target": "만 0~99999세 — 기업수요 반영 프로젝트 학습·인턴십·자격증 교육으로 현장 투입형 인재 육성",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://gbyouth.go.kr/",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261023005400214295",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년무역전문인력양성 지원",
-      "category": "교육",
-      "summary": "ㅇ (목적) 급변하는 무역환경에 대응하여 청년무역 전문인력 양성을 통한 청년취업 역량강화 및 청년취업 활성화 도모 ㅇ (대상) 청년 미취업자 ㅇ (주요내용) 중…",
-      "target": "만 0~99999세 — 무역환경 변화에 대응한 청년무역 전문인력 양성으로 청년취업 역량강화",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://gbyouth.go.kr/",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": [
-          "jobseeker"
-        ],
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261023005400214294",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "경북형 초청 장학제도(K-GKS)",
-      "category": "교육",
-      "summary": "ㅇ (목적) 외국 우수 이공계열 인재 유치 ㅇ (대상) 이공계열 석박사과정 진학 40세 미만 외국인 ㅇ (주요내용) 이공계열 외국인 장학생 장학금 지원 ㅇ (전…",
-      "target": "만 0~39세 — 외국 우수 이공계열 인재 유치",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://gbyouth.go.kr/",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": 39,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261023005400214293",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "산학일체형 도제학교 지원",
-      "category": "교육",
-      "summary": "ㅇ (목적) 특성화고 학생들의 이론, 실습 병행 학습으로 졸업 후 취업 연결 ㅇ (대상) 교육부, 고용노동부 지정 도제학교 ㅇ (주요내용) 현장학습을 위한 교통…",
-      "target": "만 0~99999세 — 특성화고 학생들의 이론, 실습 병행 학습으로 졸업 후 취업 연결",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=18933",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261023005400214292",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "직업교육 혁신지구 지원사업",
-      "category": "교육",
-      "summary": "ㅇ (목적) 직업계고와 지역기업, 지자체, 대학이 참여하여 혁신지구 교육과정 운영으로 고졸인재 성장 경로 구축 및 취업활성화 지원 ㅇ (대상) 지역기업 및 직업…",
-      "target": "만 0~99999세 — 직업계고·지역기업·지자체·대학 연계 교육과정으로 고졸인재 성장 및 취업 지원",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://gbyouth.go.kr/",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261023005400214290",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "지역대학 글로벌 무역전문가 양성",
-      "category": "교육",
-      "summary": "ㅇ (목적) 경북 도내 대학생에게 무역 실무교육과 실습과정을 체험시킴으로써 예비 실무 무역 인력 양성 ㅇ (대상) 영남대학교, 동국대학교(경주캠퍼스) 학생 ㅇ…",
-      "target": "만 0~99999세 — 경북 도내 대학생에게 무역 실무교육과 실습과정을 체험시킴으로써 예비 실무 무역 인력 양성",
       "deadline": "상시 신청 (상세 공고 확인)",
       "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
       "link": "https://gbyouth.go.kr/",
