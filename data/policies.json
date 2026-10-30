@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-10-29T00:41:14.656Z",
+  "generatedAt": "2026-10-30T00:41:45.621Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -290,6 +290,31 @@
         "minHouseholdSize": null
       },
       "source": "curated"
+    },
+    {
+      "id": "yc-20261028005400214474",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "김제청년축제",
+      "category": "참여·권리",
+      "summary": "10월 30~31일 김제실내체육관 일원에서 공연·먹거리·체험·정책홍보 등 참여형 축제 운영",
+      "target": "만 18~39세 — ○ (사업대상) 김제시 청년 및 시민 - (연령기준) 청년 18~39세(주요 참여대상) - (기타조건) 청년이 기획·운영에 참여하고 시민 누구나 관람·참여 가능",
+      "deadline": "2026-10-30 ~ 2026-10-31",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.gimje.go.kr/",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 39,
+        "regions": [
+          "전북특별자치도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
     },
     {
       "id": "yc-20261028005400114470",
@@ -800,6 +825,31 @@
       }
     },
     {
+      "id": "yc-20261025005400214402",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년의 목소리 운영",
+      "category": "참여·권리",
+      "summary": "청년정책 참여기회 제공으로 맞춤형 청년정책 발굴 - 청년 관련 각종 정책의 제안 및 의견 제출, 지역 청년과 소통 및 의견 수렴, 청년정책 관련 시정활동 참여",
+      "target": "만 18~45세 — 청년의 정책제안 및 의견수렴 등 참여기회를 확대하고 네트워크 형성을 지원합니다.",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://youth.jeonnam-gwangju.go.kr/",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 45,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
       "id": "yc-20261025005400214399",
       "type": "local",
       "open": true,
@@ -850,6 +900,56 @@
       }
     },
     {
+      "id": "yc-20261025005400214397",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "국내외 모터스포츠 행사",
+      "category": "금융",
+      "summary": "국내외 모터스포츠 대회 개최, 지원 - 전남 GT, KIC-CUP 투어링카, 전남 모터 페스티벌, 아시아 모터스포츠 카니발, 영암 모터피아 등",
+      "target": "만 0~99999세 — 국제자동차경주장을 찾을 수 있는 다양한 행사를 개최하여 청년들에게 레포츠문화 참여 기회를 제공합니다.",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "국제자동차경기장 누리집, 대회 주최사",
+      "link": "https://jeonnam-gwangju.go.kr",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261025005400214395",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "금연대학교 운영",
+      "category": "금융",
+      "summary": "대학생 흡연율 감소를 위한 금연프로그램 제공 - 금연서포터즈 운영 - 교내 금연 및 흡연 예방에 대한 교육·홍보·캠페인 추진 - 대학생 금연 클리닉 등록·보건소…",
+      "target": "만 0~99999세 — 3개 대학(청암대, 동신대, 세한대) 문의 3개 대학 재학생 중 금연희망 청년",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "① 대학 내 금연서포터즈 모집 및 금연 홍보활동 전개 ② 수행대학 재학생 중 금연희망자 보건소 금연클리닉 등록 연계 ③ 수행대학 재학생 중 금…",
+      "link": "https://jeonnam-gwangju.go.kr",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
       "id": "yc-20261025005400214394",
       "type": "local",
       "open": true,
@@ -875,142 +975,67 @@
       }
     },
     {
-      "id": "yc-20261025005400214389",
+      "id": "yc-20261025005400214393",
       "type": "local",
       "open": true,
       "source": "youthcenter",
-      "name": "청년 예술가 및 청년 창작자 지원",
+      "name": "청소년한부모 자립 지원",
       "category": "금융",
-      "summary": "청년 예술인 창작활동 지원 - 생애 첫 지원 : 창작준비-활동-발표 지원(3백만원) - 연속지원(2년) ① 1년차 : 창작활동 준비·역량강화(6백만원 이내) ②…",
-      "target": "만 34~39세 — 특화분야 : 예술, 창작 전남광주통합특별시 22개 시군(기존 전남 지역)에 주민등록상 주소지를 둔 34세(생애 첫 지원) ~ 39세(연속지원) 이하 예술인",
+      "summary": "아동양육비, 검정고시 등 학습지원, 자립촉진 수당",
+      "target": "만 0~24세 — 1. 청소년 한부모 아동양육비 (지급시기) 월별 지급 / (지원액) 월 37만원 또는 40만원 / (지원대상) : 기준중위소득65% 이하 2. 청소년 한부모 검정고시 등 학습 지원 (지급시기) 수시지급 / (지원액…",
       "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "신청기간 : 매 년 1분기 (전남문화재단 홈페이지에 공고 게시) ① 국가문화예술지원시스템 접속(www.ncas.or.kr) ② 회원가입(단체,…",
-      "link": "https://www.ncas.or.kr",
-      "eligibility": {
-        "minAge": 34,
-        "maxAge": 39,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261025005400214385",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "전남 · 시군 출생기본소득",
-      "category": "금융",
-      "summary": "18년간 매 월 20만원 지원 (특별시 10만원 + 시군 10만원)",
-      "target": "만 1~18세 — 2024년부터 태어나 전남 지역에서 출생신고를 하고 계속해서 보호자와 함께 기존 전남에 거주한 아동",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "주소지 읍 · 면 · 동 행정복지센터, 정부24(보조금 24) - 1세가 되는 날이 속한 달부터 신청 가능",
-      "link": "https://jeonnam-gwangju.go.kr",
-      "eligibility": {
-        "minAge": 1,
-        "maxAge": 18,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261025005400214384",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년부부 결혼축하금 지원",
-      "category": "금융",
-      "summary": "청년부부 결혼축하금 200만원 지원",
-      "target": "만 0~49세 — 1. 혼인신고 이후 부부 모두 전남광주통합특별시 22개 시군(기존 광주 제외) 6개월 이상 거주, 부부 중 1명(신청자)은 신청일부터 지급일까지 해당 시군에 주소를 두고 거주 2. 청년부부 중 1명이 외국인일 경우…",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "주소지 읍 · 면 · 동 행정복지센터, 시 · 군청",
-      "link": "https://jeonnam-gwangju.go.kr",
+      "applyMethod": "주소지 읍 · 면 · 동 행적복지센터 및 복지로 홈페이지",
+      "link": "https://www.bokjiro.go.kr",
       "eligibility": {
         "minAge": null,
-        "maxAge": 49,
+        "maxAge": 24,
         "regions": [
           "전남광주통합특별시"
         ],
         "maxIncomeRatio": null,
         "employment": null,
-        "maritalStatus": "married",
+        "maritalStatus": null,
         "requiresChildren": false,
         "minHouseholdSize": null
       }
     },
     {
-      "id": "yc-20261025005400214375",
+      "id": "yc-20261025005400214392",
       "type": "local",
       "open": true,
       "source": "youthcenter",
-      "name": "신혼부부 이사비 지원",
-      "category": "주거",
-      "summary": "1. 지원금액 : 최초 1회, 최대 50만원(정책발행 장흥사랑상품권 지급) 2. 지원대상 : '23. 1. 1.이후 혼인 / 49세 이하 / 이사일로부터 3개월…",
-      "target": "만 19~49세 — 신혼부부의 결혼 비용 부담을 완화하고 안정적인 지역 정착을 지원",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.jangheung.go.kr/www/life_welfare/population_plan/info",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 49,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": "married",
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261025005400214374",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "신혼부부 웨딩포토비 지원",
+      "name": "청년 자살시도자 치료비 지원",
       "category": "금융",
-      "summary": "1. 지원금액 : 최초 1회, 최대 30만원(정책발행 장흥사랑상품권 지급) 2. 지원대상 : '23. 1. 1.이후 혼인 / 49세 이하 / 혼인신고일로부터 6…",
-      "target": "만 19~49세 — 신혼부부의 결혼 비용 부담을 완화하고 안정적인 지역 정착 지원",
+      "summary": "전국 응급의료기관에 자살시도로 내원한 자에게 지역 정신건강복지센터 사례관리 서비스 및 자살 시도로 인한 신체 손상치료비, 입원·외래 치료비 지원 * 지원금액 :…",
+      "target": "만 15~34세 — 본인 거주지의 기초정신건강복지센터 사례관리 서비스에 동의 한 자에 해당",
       "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.jangheung.go.kr/www/life_welfare/population_plan/info",
+      "applyMethod": "① 응급의료기관 내원 및 기초정신건강복지센터 사례관리서비스 동의(기초정신건강복지센터) * 순천성가롤로병원, 목포중앙병원(생명사랑위기대응센터 운…",
+      "link": "https://jeonnam-gwangju.go.kr",
       "eligibility": {
-        "minAge": 19,
-        "maxAge": 49,
+        "minAge": 15,
+        "maxAge": 34,
         "regions": [
-          "전남광주통합특별시"
+          "전국"
         ],
         "maxIncomeRatio": null,
         "employment": null,
-        "maritalStatus": "married",
+        "maritalStatus": null,
         "requiresChildren": false,
         "minHouseholdSize": null
       }
     },
     {
-      "id": "yc-20261025005400214373",
+      "id": "yc-20261025005400214390",
       "type": "local",
       "open": true,
       "source": "youthcenter",
-      "name": "신혼부부 주거지원",
-      "category": "주거",
-      "summary": "1. 지원대상 : 혼인기간 5년 이내, 중위소득 200% 이하 2. 지원내용 - 주택구입 및 전세 대출이자 /연 대출 이자의 50%이내 (3년간, 연 최대 10…",
-      "target": "만 0~99999세 — 혼인기간 5년 이내",
+      "name": "자립준비청년(보호종료아동) 자립 수당",
+      "category": "금융",
+      "summary": "월 50만원 지급 (최대 5년)",
+      "target": "만 0~99999세 — 보호종료 아동 중 보호종료일 기준 과거 2년 이상 연속하여 보호를 받은 자 중 아래 어느 하나에 해당하는 자 - 18세 이후 만기 및 연장 보호종료 또는 재보호종료된 자로서 보호종료 5년 이내인 자 - 15세…",
       "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.jangheung.go.kr/www/life_welfare/population_plan/info",
+      "applyMethod": "주소지 읍 · 면 · 동 행정복지센터",
+      "link": "https://jeonnam-gwangju.go.kr",
       "eligibility": {
         "minAge": null,
         "maxAge": null,
@@ -1019,32 +1044,7 @@
         ],
         "maxIncomeRatio": null,
         "employment": null,
-        "maritalStatus": "married",
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261025005400214372",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "결혼장려금 지원",
-      "category": "금융",
-      "summary": "1.지원대상 : 49세 이하 (혼인신고일로부터 6개월 이내) 2. 지 원 금 : 6백만원(3회 분할) ※최대 8백만원(최초 전입금 2백만원 포함)",
-      "target": "만 19~49세 — 결혼 장려 환경 조성을 통한 청년 정착 및 인구 증가 도모",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.jangheung.go.kr/www/life_welfare/population_plan/info",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 49,
-        "regions": [
-          "전남광주통합특별시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": "married",
+        "maritalStatus": null,
         "requiresChildren": false,
         "minHouseholdSize": null
       }
