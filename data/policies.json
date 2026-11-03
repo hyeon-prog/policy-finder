@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-10-31T00:34:55.906Z",
+  "generatedAt": "2026-11-03T02:50:03.903Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -290,6 +290,287 @@
         "minHouseholdSize": null
       },
       "source": "curated"
+    },
+    {
+      "id": "yc-20261101005400214683",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "대학연계 로컬크리에이터 양성",
+      "category": "교육",
+      "summary": "ㆍ지역 대학 로컬크리에이터 양성 교육과정 개설·운영 ㆍ온·오프라인 양성과정 교과 개발 TF 운영 ㆍ로컬크리에이터 창업 아이디어 경진대회 개최",
+      "target": "만 0~99999세 — 지역대학 내 '로컬크리에이터' 양성 교과 운영 및 창업 지원으로 지역 내 정주 인력 양성",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.daegu.go.kr/YouthPolicy/index.do?menu_id=00939131&menu_link=/front/youthpolicy/selectYouthpolicy.do",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261101005400214681",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "글로벌첨단전략산업 기술경영 전문인력 양성사업",
+      "category": "교육",
+      "summary": "ㆍ기술경영전문대학원 전문석사 과정 운영 ㆍ공학기술을 핵심으로 글로벌경영을 연계한 첨단기술 경영관리자 양성 ㆍ대구경북과학기술원 특화 분야(AI, 로봇 등)와 경영…",
+      "target": "만 0~99999세 — 학사 학위 취득자 또는 취득 예정자(기업 재직자 포함)",
+      "deadline": "2026-11-01 ~ 2026-11-30",
+      "applyMethod": "DGIST 누리집(www.dgist.ac.kr) 대학원 신입생 모집공고 참조",
+      "link": "www.dgist.ac.kr",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261101005400214680",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "여성과학기술인 육성 지원",
+      "category": "교육",
+      "summary": "ㆍ(초·중·고 여학생) 대외 환경 변화에 따른 교육 소외지역 집중 지원 및 수요·지역 맞춤형 자기주도형 공학프로그램 운영을 통한 이공계 진학 유도 ㆍ(여대생)…",
+      "target": "만 0~99999세 — 지역 초ㆍ중ㆍ고 여학생 및 여대생",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "대경강원권역R-WeSET사업단 누리집(http://www.wisetkmu.kr) 참조",
+      "link": "http://www.wisetkmu.kr",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261101005400214679",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "공학교육혁신센터 지원",
+      "category": "교육",
+      "summary": "ㆍ미래 신산업, 산업체 수요 특화형 교육과정 및 교육방법 개발․운영 ㆍ캡스톤 디자인(종합설계 프로젝트를 통한 창의성, 팀워크, 문제해결능력 증진) ㆍ미래형 모빌…",
+      "target": "만 0~99999세 — 공학 관련 학부(과) 재학생",
+      "deadline": "2026-06-01 ~ 2026-12-31",
+      "applyMethod": "경북대 공학교육혁신센터 누리집(https://ceedin.knu.ac.kr) 공고문 공지 참조",
+      "link": "https://ceedin.knu.ac.kr",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261101005400214675",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "혁신융합캠퍼스 구축",
+      "category": "교육",
+      "summary": "ㆍ산학연 협력 프로그램 및 취창업 프로그램 운영 ㆍ기업 문제해결형 프로젝트 교육, 산학연 공동 연구개발 ㆍ현장실습 및 취·창업 부트캠프 운영 등",
+      "target": "만 0~99999세 — 대구한의대 대학생(재활치료학부)",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.daegu.go.kr/YouthPolicy/index.do",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261101005400214673",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "글로벌 AI로봇 해커톤 개최 지원",
+      "category": "취업",
+      "summary": "ㆍ(일반주제) 지역산업 현장에서의 문제 탐색 및 인지, 해결 방안 모색 ㆍ(제조현장) AI로봇 기술의 융합 가능성을 실험하는 플랫폼 구축",
+      "target": "만 0~99999세 — 지역 미래 AI로 산업을 주도할 전문 기술개발 육성에 기여하고 성장가능한 AI로봇 융합 생태계 조성",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "미정",
+      "link": "https://www.daegu.go.kr/YouthPolicy/index.do",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261101005400214671",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년농업인 맞춤 지원",
+      "category": "취업",
+      "summary": "ㆍ신기술 도입, 생산비 및 노동력 절감에 필요한 시설 장비 지원 ㆍ농산물 가공 및 유통에 필요한 시설과 장비 지원, 가공품 개발 ㆍ제품 및 브랜드개발, 홈페이지…",
+      "target": "만 18~39세 — 청년농업인(18~39세) ㆍ신청일 현재 대구광역시에 주소를 등록하고, 관내 농지소재지에서 1년 이상 영농을 하고 있는 농업인(농업경영체등록자)",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "해당 구·군 농업부서",
+      "link": "https://www.daegu.go.kr/YouthPolicy/index.do",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 39,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": [
+          "self-employed"
+        ],
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261101005400214669",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "재직자 직업훈련 사업",
+      "category": "취업",
+      "summary": "ㆍ지역 기업에서 필요로 하는 재직자 직무능력향상 교육, 훈련 실시 ㆍ교육과정 - 산업현장 효율성 향상 및 중간관리자 역량 교육, 디지털OA, 경영 정보화, 2D…",
+      "target": "만 0~99999세 — 지역 거주 및 지역 기업 재직 근로자",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "수시 모집(프로그램별 상이) 한국노총대구지역본부 누리집 수강 신청(https://inochongdg.org) (☎ 053-570-7181)",
+      "link": "https://inochongdg.org",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": [
+          "employed"
+        ],
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261101005400214668",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "현장중심 실무인력 양성사업",
+      "category": "취업",
+      "summary": "ㆍ기업 현장중심 교육훈련 실시 및 취업 지원 ㆍ대구시 기업 현장에서 필요로 하는 전문 기술(기계설비유지 및 보수관리 과정, 스마트 자동화 설비운영, 모빌리티 부…",
+      "target": "만 18~99세 — 18세 이상 대구시에 거주하는 취업 희망자, 지역 기업 취업 희망자 ㆍ(기계 설비 분야 등) 본 사업 참여기관 재학생(졸업예정자) ㆍ(중장년 과정) 대구시 거주하는 중장년걍5",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.daegu.go.kr/YouthPolicy/index.do",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 99,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261101005400214667",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "대학일자리플러스센터 설치운영 지원",
+      "category": "취업",
+      "summary": "ㆍ대학 내 취업 지원 인프라 구축 ㆍ진로지도 강화 ㆍ취업 지원서비스 강화(단계별 맞춤형 서비스 제공) ㆍ지역청년고용거버넌스 구축 운영",
+      "target": "만 0~99999세 — 고용노동부 대학일자리플러스센터 선정 4개 대학 ㆍ(거점형) 계명대학교, 계명문화대학교, 영남이공대학교 ㆍ(일반형) 영진전문대학교",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "각 대학교 대학일자리플러스센터 누리집 온라인 신청 또는 방문 신청",
+      "link": "https://www.daegu.go.kr/YouthPolicy/index.do",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261101005400214666",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "대구형 청년 그린 내일채움공제",
+      "category": "취업",
+      "summary": "5년간 청년근로자 1인당 월 10만원 지원 ※ 근로자와 사업 주체들이 매월 34만원(시 10, 기업 14, 청년근로자 10)을 적립하여 5년 최종 만기 시 청년…",
+      "target": "만 19~34세 — 15~34세 이하 대구 소재 중소(중견)기업 재직 청년",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "해당없음",
+      "link": "https://www.daegu.go.kr/YouthPolicy/index.do",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 34,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": [
+          "employed"
+        ],
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
     },
     {
       "id": "yc-20261030005400214653",
@@ -763,283 +1044,6 @@
         ],
         "maxIncomeRatio": null,
         "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214590",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "건강증진대학만들기",
-      "category": "금융",
-      "summary": "상) MOU 협약을 맺은 관내 10개 대학 재학생 및 교직원 ㅇ (주요내용) 건강증진 프로그램 운영 경비 지원",
-      "target": "만 0~99999세 — MOU 협약을 맺은 관내 10개 대학 재학생 및 교직원",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.xn--289ax9fnsqbqat17bcmg.com/index.html",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214589",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년취업지원사업",
-      "category": "취업",
-      "summary": "ㅇ (대상) 15~39세 청년으로서 취업면접이 예정된 자 ㅇ (주요내용) 입사면접용 남녀 정장 무료 대여",
-      "target": "만 15~39세 — 청년 구직자들에게 면접정장 무료대여로 경제적 부담 경감",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.xn--289ax9fnsqbqat17bcmg.com/board/free/list.html?board_no=5&page=1&board_sort=&search_date=all&search_key=subject&search=%EC%B7%A8%EC%97%85",
-      "eligibility": {
-        "minAge": 15,
-        "maxAge": 39,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214588",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "대학생 학자금대출 이자지원",
-      "category": "금융",
-      "summary": "ㅇ (대상)경산시에 주소를 둔 대학교 재학생 ㅇ (주요내용)한국장학재단 '20년 이후 대출금의 신청연도 발생이자 지원",
-      "target": "만 0~99999세 — 학자금대출을 받은 대학생들의 대출이자를 재학기간 중 지원하여 안정적이고 균등한 교육기회 제공",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.gbgs.go.kr/open_content/ko/page.do?mnu_uid=2160&&parm_bod_uid=258224&step=258",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214587",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "경산시 청년센터",
-      "category": "금융",
-      "summary": "ㅇ (대상) 15~39세 청년 ㅇ (주요내용) 정책참여, 역량강화, 문화, 상담 등 지원프로그램 운영",
-      "target": "만 0~99999세 — 청년정책 수요를 반영한 청년 활동 기반 마련 및 참여·소통 기능을 통합한 청년 공간 지원",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.xn--289ax9fnsqbqat17bcmg.com/",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214586",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "경산청년지식놀이터",
-      "category": "금융",
-      "summary": "ㅇ (대상) 경산시민 ㅇ (주요내용) 공공도서관 및 국민체육센터 운영",
-      "target": "만 0~99999세 — 청년들의 삶의 질 향상 및 주민 만족도 제고 사회기반시설 설치",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://gsplay.gitc.or.kr/",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214584",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "서울시 내발산동 공공기숙사",
-      "category": "주거",
-      "summary": "ㅇ (대상) 수도권 소재 2년제 이상 대학에 재학중이거나 입학 예정인 자 ㅇ (주요내용) 대학생 공공기숙사 운영비 지원",
-      "target": "만 19~39세 — 지역출신 학생들의 애향심 고취 및 학부모 경제적 부담 경감",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.gbgs.go.kr/open_content/ko/page.do?mnu_uid=2160&parm_bod_uid=249572&step=258",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214583",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "글로벌 미래인재 육성사업",
-      "category": "교육",
-      "summary": "ㅇ (대상) 경산시에 주소를 둔 관내대학 재학생 20명 정도 ㅇ (주요내용) 글로벌 사회공헌활동 지원",
-      "target": "만 19~39세 — 지구촌 공통과제 해결에 기여하는 지역의 글로벌 사회공헌 미래인재 육성",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.xn--289ax9fnsqbqat17bcmg.com/",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214582",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년농업인 온라인 마케팅 경쟁력 제고",
-      "category": "취업",
-      "summary": "ㅇ (대상) 만18세 이상 ~ 40세 미만 영농에 종사하고 있는 병역필 또는 면제 받은 청년농업인 ㅇ (주요내용) 온라인 스토어 개설, 판매전략 수립 및 운영…",
-      "target": "만 19~39세 — 온라인 스토어 개설을 통한 농산물 유통채녈 다각화 및 판로확대로 청년농업인 소득증대",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.gbgs.go.kr/gsa/main/index.do",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "경상북도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261029005400214581",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "세종시 위원회 청년참여 확대",
-      "category": "참여·권리",
-      "summary": "- 市 위원회 구성 시 청년참여 확대 추진 및 반기별 추진현황 점검 - 세종 청년인재DB 인재풀 확충 및 참여 홍보(공공기관, 대학교 등)",
-      "target": "만 19~39세 — 市 모든 위원회에 청년 참여 의무화 및 청년을 주로 다루는 위원회의 경우 청년 참여 점진적 확대*",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.sejong.go.kr",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "세종특별자치시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261029005400214580",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "출생축하금 지원",
-      "category": "금융",
-      "summary": "신생아 출생일을 기준으로 3개월 이전 또는 출생일을 포함하여 이후 3개월 이상 계속 市에 주민등록 주소를 두고 거주하는 부 또는 모로서 신생아의 출생신고를 우리…",
-      "target": "만 0~99999세 — 신생아 출생일을 기준으로 3개월 이전 또는 출생일을 포함하여 이후 3개월 이상 계속 市에 주민등록 주소를 두고 거주하는 부 또는 모로서 신생아의 출생신고를 우리 市에 한 경우",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "읍면동) 신청․접수→ (시군구) 지원결정 및 지급 → (시군구) 대상자 관리",
-      "link": "https://www.sejong.go.kr",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "세종특별자치시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261029005400214578",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "행복일터 인증제",
-      "category": "취업",
-      "summary": "고용평등 실천과 고용차별 개선으로 '공정' 가치를 확립하고 근로자의 '행복'한 근로환경을 조성한 우수 기업('26년 3개사)",
-      "target": "만 0~99999세 — 노동자간 차별 개선 및 관내 청년 채용 등 '행복한 일터' 조성을선도적으로 추진한 사업장을 발굴·지원하여 모범사례 확산 유도",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.sejong.go.kr",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "세종특별자치시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": [
-          "employed"
-        ],
         "maritalStatus": null,
         "requiresChildren": false,
         "minHouseholdSize": null
