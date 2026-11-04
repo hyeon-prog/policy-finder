@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-11-03T02:50:03.903Z",
+  "generatedAt": "2026-11-04T01:07:45.668Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -292,6 +292,58 @@
       "source": "curated"
     },
     {
+      "id": "yc-20261103005400114715",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026 우수인재 연계 기업인턴십",
+      "category": "취업",
+      "summary": "콘텐츠 기업 대상 인턴 채용시 1인당 월 108만원 인건비 지급",
+      "target": "만 0~99999세 — 콘텐츠 분야 우수인재 대상 시업 현장교육 기회 제공",
+      "deadline": "2026-08-12 ~ 2026-11-06",
+      "applyMethod": "공고문 참조",
+      "link": "https://www.kocca.kr/kocca/bbs/view/B0000137/2012372.do?searchCnd=1&searchWrd=%EC%9D%B8%ED%84%B4&cateTp1=&cateTp2=&useYn=&menuNo=204802&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&ufSetting=&recovery=&option1=&option2=&year=&morePage=&qtp=&domainId=&sortCode=&pageIndex=1",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": [
+          "jobseeker"
+        ],
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261103005400214707",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "신혼부부 및 청년 임대주택 임대보증금 지원",
+      "category": "주거",
+      "summary": "○ (사업내용) 공공임대주택 임대보증금 무이자 지원(융자) - (지원대상 임대주택) 10년임대, 영구임대, 국민임대, 행복주택, 기존주택 매입임대주택 - (지원…",
+      "target": "만 0~99999세 — ○ (사업내용) 공공임대주택 임대보증금 무이자 지원(융자) - (지원대상 임대주택) 10년임대, 영구임대, 국민임대, 행복주택, 기존주택 매입임대주택 - (지원대상) 도내 무주택 신혼부부 및 청년 ※ 혼인신고…",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.jeonbuk.go.kr/index.jeonbuk?menuCd=DOM_000000104015059002",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전북특별자치도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
       "id": "yc-20261101005400214683",
       "type": "local",
       "open": true,
@@ -573,6 +625,258 @@
       }
     },
     {
+      "id": "yc-20261031005400214665",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "경기북부 청년 서포터즈 운영",
+      "category": "참여·권리",
+      "summary": "경기북부발전 홍보 온·오프라인 활동 - (온라인) 경기북부대개발 등 경기북부 주요 정책 소개 콘텐츠 제작 및 SNS·공식 채널을 통한 공유 - (오프라인) 북부…",
+      "target": "만 19~39세 — 개인 소셜미디어(SNS) 활발히 운영하는 자, 디자인 및 영상 편집 우수자",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://youth.gg.go.kr/gg/intro/youth-policy-law-test.do?mode=view&articleNo=9015&title=%EA%B2%BD%EA%B8%B0%EB%B6%81%EB%B6%80+%EC%B2%AD%EB%85%84+%EC%84%9C%ED%8F%AC%ED%84%B0%EC%A6%88+%EC%9A%B4%EC%98%81",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "경기도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261031005400214664",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "경기청년 기후특사단",
+      "category": "참여·권리",
+      "summary": "경기청년 개발도상국 나무심기, 환경 교육, 문화교류 등 해외봉사 추진",
+      "target": "만 19~39세 — 사회적 배려층*‧국내봉사 사회공헌도 높은 청년 우대 *사회적 배려층 우대 : 기초생활수급자, 차상위계층, 고졸 이하, 초대 재/졸, 자립준비청년 등",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "잡아바 어플라이 접수",
+      "link": "https://apply.jobaba.net/bsns/bsnsDetailView.do?bsnsSeq=5705",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "경기도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261031005400214663",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "경기청년공간 조성 및 운영",
+      "category": "참여·권리",
+      "summary": "프로그램 운영지원, 우수청년공간 지원, 청년공간 활성화",
+      "target": "만 0~99999세 — 소통, 휴식, 취·창업 등의 지원을 위해 조성된 청년전용 복합공간을 활용하여 청년이 행복한 지역환경 구현",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://youth.gg.go.kr/ggyouthplace/youth/place",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "경기도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261031005400214661",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "경기 컬처패스",
+      "category": "금융",
+      "summary": "- 26년부터 1인당 지원 한도(2.5만원 → 6만원 내) 확대 및 연중 상시 발급 - 쿠폰 지원 분야, 지원 금액 및 사용처 확대로 일상 속 문화 향유 확산",
+      "target": "만 0~99999세 — 문화소비쿠폰 지원을 통해 도민 문화 향유 기회 확대 및 경기도 대표 문화관광플랫폼 육성",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.gg.go.kr/myggd/vol197/2_1.php",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "경기도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261031005400214659",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "재난복구지원 군 장병 상해보험 가입지원",
+      "category": "금융",
+      "summary": "군 장병이 道 내 재난복구 현장에 동원 중 사망, 재해 등 피해발생에 대한 상해보험 가입 지원",
+      "target": "만 0~99999세 — 도내 재난복구 현장에 동원되는 군 장병",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://youth.gg.go.kr/gg/intro/youth-policy-housing-test.do?mode=view&articleNo=8986&title=%EC%9E%AC%EB%82%9C%EB%B3%B5%EA%B5%AC%EC%A7%80%EC%9B%90+%EA%B5%B0+%EC%9E%A5%EB%B3%91+%EC%83%81%ED%95%B4%EB%B3%B4%ED%97%98+%EA%B0%80%EC%9E%85+%EC%A7%80%EC%9B%90",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "경기도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261031005400214658",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "군복무 경기청년 상해보험 가입지원",
+      "category": "금융",
+      "summary": "군복무 중 상해·질병 등 피해 발생시 상해보험지원 - 질병·상해 입원일당, 수술비, 정신질환진단비 등 16가지 보장항목 ※ 훈련 중 폭발·화재·붕괴로 인한 상해…",
+      "target": "만 0~99999세 — 경기도에 주민등록을 둔 청년 중 현역 군 복무중인 자 ※ 현역군인, 상근예비역, 의무경찰(해양경찰 포함), 의무 소방대원 등 / 직업군인, 사회복무요원 제외",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "군복무 경기청년 상해보험 접수센터",
+      "link": "https://www.gg.go.kr/contents/contents.do?ciIdx=1498&menuId=3400",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "경기도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261031005400214657",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "공중보건 장학제도 운영",
+      "category": "금융",
+      "summary": "공공의료에 사명감을 갖춘 학생을 선발하여 장학금 지원 및 졸업 후 장학금 지원 기간동안 지역 공공보건의료기관에 의무 근무",
+      "target": "만 0~99999세 — -사업대상: 전국 의대생 및 간호대생",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.mohw.go.kr/board.es?mid=a10501010100&bid=0003&act=view&list_no=1489983",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "경기도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": [
+          "jobseeker"
+        ],
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261031005400214656",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "자립준비청년 자립수당 지원",
+      "category": "금융",
+      "summary": "아동복지시설 퇴소, 가정위탁보호종료 5년이내 아동 중 과거 2년 이상 연속하여 보호를 받은 아동에게 1인당 월 50만원씩 지원",
+      "target": "만 0~99999세 — 아동복지시설 퇴소, 가정위탁보호 종료 5년이내 아동 중 과거 2년 이상 연속하여 보호를 받은 아동 - (연령 기준) 18세 이후 만기 또는 연장 보호종료된 자",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "읍면동 행정복지센터 방문신청, 우편 또는 팩스, 온라인 신청(복지로누리집(www.bokjiro.go.kr)에 접속)",
+      "link": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001175",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "경기도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261031005400214655",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년 노동자 통장 운영",
+      "category": "금융",
+      "summary": "- 자산형성지원 : 매월 10만원 저축, 2년 만기 시 최대 580만원(지역화폐 100만원 포함) 지급, 참여자 저축 10만원 + 경기도 지원금 14만2천원 (…",
+      "target": "만 19~39세 — - 근로유형에 관계없이 공고일 기준 근로하는 청년 *휴직자(육아휴직자)는 신청가능. 국가근로장학생은 신청불가 - 공고일 기준 주민등록상 주소지가 경기도인 청년 ※ 주민등록번호 부여자만 신청 가능(재외국인 신청 불…",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "경기도 청년 노동자 통장 홈페이지를 통한 온라인 접수",
+      "link": "https://account.gfgf.kr/main/freshman_main.do",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "경기도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261031005400214654",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "근로능력 있는 수급자의 탈수급 지원",
+      "category": "금융",
+      "summary": "- 기존유지자 근로소득장려금 지원 - 청년내일저축계좌 운영",
+      "target": "만 15~39세 — 근로 능력있는 저소득층(수급·차상위 등 중위소득 100%이하)의 자산형성을 체계적으로 지원하여 탈수급 및 자립 촉진",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "읍면동 행정복지센터 방문신청, 우편 또는 팩스, 온라인 신청(복지로누리집(www.bokjiro.go.kr)에 접속)",
+      "link": "www.bokjiro.go.kr",
+      "eligibility": {
+        "minAge": 15,
+        "maxAge": 39,
+        "regions": [
+          "경기도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
       "id": "yc-20261030005400214653",
       "type": "policy",
       "open": true,
@@ -648,6 +952,31 @@
       }
     },
     {
+      "id": "yc-20261030005400214646",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "대학기숙사 확충",
+      "category": "주거",
+      "summary": "경기푸른미래관 운영 지원 - 기숙사 제공 (370명 수용 : 남156, 여214) - 입사생 선발 및 생활지원, 교육프로그램 운영",
+      "target": "만 0~99999세 — ㅇ장애인 등 가산점 및 통학거리가점 등 합산",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "학자금지원구간통지서, 재학증명서, 성적증명서 등 제출",
+      "link": "https://youth.gg.go.kr/gg/intro/youth-policy-educational-testing.do?mode=view&articleNo=7668&title=%EB%8C%80%ED%95%99%EC%83%9D+%EA%B8%B0%EC%88%99%EC%82%AC+%ED%99%95%EC%B6%A9+%28%EA%B2%BD%EA%B8%B0%ED%91%B8%EB%A5%B8%EB%AF%B8%EB%9E%98%EA%B4%80+%EC%9A%B4%EC%98%81+%EC%A7%80%EC%9B%90%29",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "경기도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
       "id": "yc-20261030005400214644",
       "type": "policy",
       "open": true,
@@ -712,333 +1041,6 @@
       "eligibility": {
         "minAge": 19,
         "maxAge": 39,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214637",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년농업인 경쟁력제고 사업",
-      "category": "교육",
-      "summary": "- 청년농업인 영농정착 생산 및 가공 시설 등 기반조성 - 청년농업인 창농기반 조성을 위한 아이디어 사업화 지원, 조직체 육성 지원 등",
-      "target": "만 18~39세 — 청년농업인 및 청년4-H회원",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "시군농업기술센터",
-      "link": "https://youth.gg.go.kr/gg/intro/youth-policy-culture-test.do?mode=view&articleNo=8963&title=%EC%B2%AD%EB%85%84%EB%86%8D%EC%97%85%EC%9D%B8+%EA%B2%BD%EC%9F%81%EB%A0%A5+%EC%A0%9C%EA%B3%A0%EC%82%AC%EC%97%85",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 39,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214635",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "경기도 평생교육이용권 지원 및 사업운영",
-      "category": "교육",
-      "summary": "1인당 35만원 평생교육이용권 등록기관 수강료 지원 ※ 경기도평생교육이용권 5개 유형 중 '지역특화 평생교육이용권'만 청년대상사업에 해당",
-      "target": "만 19~39세 — 19세 이상 경기도민 - (연령 기준) 19~39세 - (소득 기준) 기초생활수급자, 차상위계층 순 우선 지원(소득무관 신청 가능)",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.gg.go.kr/",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214634",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "경기청년 역량강화 기회지원",
-      "category": "교육",
-      "summary": "1인 최대 30만원, 어학·자격시험 응시료 실비 지원",
-      "target": "만 0~99999세 — 경기도 내 미취업 청년 - (연령 기준) 시군별 조례에 따른 청년 연령",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "신청일정 : 2026년 5월 ~ 12월",
-      "link": "https://youth.gg.go.kr/",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214624",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "경기도형 창업특화주택 조성 및 운영",
-      "category": "창업",
-      "summary": "- 공유오피스 운영 - 창업지원프로그램 운영(KPI 컨설팅, IR 피칭 교육 등)",
-      "target": "만 0~99999세 — 도 내 창업인 및 예비창업인 - (초기육성형) 창업 3년 미만(예비 포함) - (성장도약형) 창업 3년 이상 ~ 7년 미만 ※ 세부 입주기준은 '26년 중 수립 예정",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://youth.gg.go.kr/gg/intro/youth-policy-job-test.do?mode=view&articleNo=9027&title=%EA%B2%BD%EA%B8%B0%EB%8F%84%ED%98%95+%EC%B0%BD%EC%97%85%ED%8A%B9%ED%99%94%EC%A3%BC%ED%83%9D+%EC%A1%B0%EC%84%B1+%EB%B0%8F+%EC%9A%B4%EC%98%81",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214623",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "GH 청춘 빌드업 창업 공모전 개최",
-      "category": "창업",
-      "summary": "경기도 청년 대상 'GH 청춘 빌드업 창업 공모전' 개최",
-      "target": "만 19~39세 — 경기도 소재 대학(원) 재·휴학생, 경기도에 창업한 초기창업자* 및 초기창업기업 근로자, 경기도에 주민등록을 둔 자 *초기창업자: 공고일 기준 사업 개시일로부터 3년이 지나지 않은 자",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.gh.or.kr/",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214621",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "진안군 청년쉐어하우스 월랑 입주 지원",
-      "category": "주거",
-      "summary": "○ 지원대상: 진안군에 거주(예정)하는 만 18~45세 1인가구 무주택 청년 ○ 위치: 진안읍 우화1길 7(진안군 청년센터 건물 3~4층) ○ 규모: 총 10실…",
-      "target": "만 18~45세 — 1인가구 무주택자로 진안군에서 직장 또는 활동 중이거나 예정인 자(입주 시 주소 이전 필수)",
-      "deadline": "2026-01-01 ~ 2026-12-31",
-      "applyMethod": "모집 공고에 따라 입주신청서 및 구비서류를 진안군 청년센터 또는 진안군청 농촌활력과 청장년지원팀에 제출",
-      "link": "https://www.jinan.go.kr",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 45,
-        "regions": [
-          "전북특별자치도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214620",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년 사회적경제 창업동아리",
-      "category": "창업",
-      "summary": "- 희망분야 조사 통한 맞춤형 멘토링 40회 이상 지원 - 모의창업 해커톤, 모의창업 IR 대회 등 창업 밀착형 교육 운영 - 사회문제 해결 지원금 교부(팀별…",
-      "target": "만 19~24세 — 청년 창업동아리 15팀(팀별 4인 이내)",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://youth.gg.go.kr",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 24,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214619",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "진안청년 참여지원(청년참여 포인트제도)",
-      "category": "참여·권리",
-      "summary": "○ 지원대상: 진안군에 주소를 둔 만 18~45세 청년 ○ 지원내용: 정책 제안·군정 홍보·교육 및 행사 참여 시 포인트 적립, 1만 포인트 이상 적립 시 진안…",
-      "target": "만 18~45세 — 진안 청년이 군정 홍보·행사 참여로 포인트를 모아 지역상품권으로 교환합니다.",
-      "deadline": "2026-04-01 ~ 2026-12-31",
-      "applyMethod": "포인트 적립 신청서 및 증빙자료를 진안군 청년센터에 방문 또는 이메일로 제출(매월 25일 신청)",
-      "link": "https://www.jinan.go.kr",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 45,
-        "regions": [
-          "전북특별자치도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214618",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "소상공인 청년 창업 원스텝",
-      "category": "창업",
-      "summary": "- [창업교육] 청년 창업 원스텝 클래스(온·오프라인 역량강화교육) - [창업컨설팅] 창업 진단컨설팅 및 경쟁오디션 참가희망자 대상 심화컨설팅 - [경쟁오디션]…",
-      "target": "만 0~99999세 — 창업역량강화 통한 우수청년창업자 육성",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://youth.gg.go.kr/gg/intro/youth-policy-job-test.do?mode=view&articleNo=8998&title=%EC%86%8C%EC%83%81%EA%B3%B5%EC%9D%B8+%EC%B2%AD%EB%85%84+%EC%B0%BD%EC%97%85+%EC%9B%90%EC%8A%A4%ED%85%9D",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214615",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "경기청년 해외 취창업 기회 확충",
-      "category": "창업",
-      "summary": "무역 및 해외 취·창업에 관심이 높은 취업준비생에게 국내외 역량개발 및 기업현장 실무경험 지원 - 참여자 사전교육(안전교육 등 포함) - 해외체험 (13개국 1…",
-      "target": "만 19~39세 — 도내 취업준비생(청년)에게 무역전문가 등 글로벌 인재로 성장할 기회 제공을 통한 중소기업 수출 경쟁력 강화 및 청년 실업 해소에 기여",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "상반기 공고 접수 예정",
-      "link": "https://youth.gg.go.kr/",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": [
-          "jobseeker"
-        ],
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214613",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "반도체 산업 전문인력 양성사업",
-      "category": "취업",
-      "summary": "반도체 중소·중견기업 수요 중심 실무형 기술인력 양성(980명) - (G-SPEC 전문인력 양성) G-SPEC(경기도 반도체 인력개발센터) 인프라 활용 반도체…",
-      "target": "만 0~99999세 — 반도체 산업 전문인력 양성을 통한 중·장기적 기술 경쟁력 강화 및 인력 공급망 안정화 도모",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://youth.gg.go.kr/gg/intro/youth-policy-job-test.do?mode=view&articleNo=8982&title=%25EB%25B0%2598%25EB%258F%2584%25EC%25B2%25B4+%25EC%2582%25B0%25EC%2597%2585+%25EC%25A0%2584%25EB%25AC%25B8%25EC%259D%25B8%25EB%25A0%25A5+%25EC%2596%2591%25EC%2584%25B1%25EC%2582%25AC%25EC%2597%2585",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214611",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "나노기술 인력양성 사업",
-      "category": "취업",
-      "summary": "- 교육시간 : 전문대 190시간, 특성화고 430시간(70% 이상 실습 운영) - 교육과정 ※ 전문대 졸업예정자 또는 졸업생(미취업자) 대상 · 반도체 제조공…",
-      "target": "만 0~99999세 — - 교육대상 : 도내 전문대 졸업예정자 또는 졸업생(미취업자), 특성화고 졸업 예정자(취업희망자)",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://youth.gg.go.kr/gg/intro/youth-policy-job-test.do?mode=view&articleNo=8981&title=%25EB%2582%2598%25EB%2585%25B8%25EA%25B8%25B0%25EC%2588%25A0+%25EC%259D%25B8%25EB%25A0%25A5%25EC%2596%2591%25EC%2584%25B1+%25EC%2582%25AC%25EC%2597%2585",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214610",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년어촌 정착지원",
-      "category": "취업",
-      "summary": "만 40세 미만 청년어업인에게 정착지원급 지급(3년간) : 14명 * 매월 90~110만원 차등지원(1년차 110만원, 2년차 100만원, 3년차 90만원)",
-      "target": "만 18~40세 — 만40세 미만, 수산업경영 3년이하의 청년어업인의 안정적인 어촌정착을 지원하여 우수한 청년인력의 어촌유치로 어촌 활성화 도모",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "시군구청에 방문하여 신청",
-      "link": "https://www.gov.kr/portal/rcvfvrSvc/dtlEx/119200000174",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 40,
         "regions": [
           "경기도"
         ],
