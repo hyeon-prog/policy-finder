@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-11-04T01:07:45.668Z",
+  "generatedAt": "2026-11-06T01:26:05.263Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -292,6 +292,406 @@
       "source": "curated"
     },
     {
+      "id": "yc-20261105005400214736",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "자립준비청년 자립지원 체계구축",
+      "category": "금융",
+      "summary": "ㆍ자립준비청년 자립수준평가 및 사후관리 ㆍ자립지원 통합서비스 운영 ㆍ자립지원전담기관 자립지원 전담인력 지원",
+      "target": "만 19~39세 — 보호종료 5년 이내 청년을 대상으로한 사후관리와 맞춤형 자립지원 상담을 통한 자립통합지원서비스 제공",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "www.dgyouth.kr",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261105005400214735",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "자립준비청년 자립수당 지급",
+      "category": "금융",
+      "summary": "ㆍ18~29세 보호종료 5년이내의 아동 - 18세 이후 만기, 연장보호 종료된 자 - 보호종료일 기준 과거 2년이상 연속해 아동복지시설이나 가정위탁 보호를 받은…",
+      "target": "만 18~29세 — ㆍ18~29세 보호종료 5년이내의 아동 - 18세 이후 만기, 연장보호 종료된 자 - 보호종료일 기준 과거 2년이상 연속해 아동복지시설이나 가정위탁 보호를 받은 자",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "주소지 행정복지센터 방문 신청",
+      "link": "https://www.daegu.go.kr/YouthPolicy/index.do",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 29,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261105005400214734",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년생활 종합상담사업",
+      "category": "금융",
+      "summary": "ㆍ심리・취업・진로 등 7개 분야에서 1:1 상담 및 집단프로그램 제공 ㆍ고립은둔척도 검사를 통한 사회적 고립청년 발굴 및 지원 ㆍ청년정책 관련 종합정보 제공",
+      "target": "만 19~39세 — 청년의 심리건강 회복과 사회진입 지원을 위한 종합상담 및 청년정책 정보 제공",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "ㆍ(1:1상담) 네이버 예약(네이버 검색창에서 대구광역시청년센터 검색) ㆍ(집단프로그램) 대구광역시 청년센터(www.dgyouth.kr) 온라…",
+      "link": "www.dgyouth.kr",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261105005400214733",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "사회적 고립청년 지원사업",
+      "category": "금융",
+      "summary": "ㆍ맞춤형 상담 운영 : 1:1 심화심리상담, 정서 및 관계 회복 멘토링 ㆍ유형별 프로그램 제공 (심리지원·신체활동·취업역량강화 프로그램) ㆍ발굴 및 사후관리(발…",
+      "target": "만 19~39세 — 대구광역시 거주 마음돌봄이 필요한 19~39세 청년(소득 무관)",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "ㆍ청년커뮤니티포털 젊프(www.dgjump.com) 온라인 신청 ㆍ대구광역시 청년센터(www.dgyouth.kr) 온라인 및 방문 신청",
+      "link": "www.dgjump.com",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261105005400214732",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "대구 청년 재무 클리닉 운영",
+      "category": "금융",
+      "summary": "ㆍ금융교육 프로그램 운영(기초,심화,실습 과정별 강의 제공) ㆍ청년재무상담 운영(전문가와 1:1 상담 진행) ㆍ재무토크콘서트(전문가 패널을 초청하여 청년금융에…",
+      "target": "만 19~39세 — 재무관리 역량 부족으로 어려움을 겪는 지역 청년들에게 금융교육 및 재무상담을 제공하여, 청년층의 재무 건전성 제고 및 안정적인 자산 형성 지원",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "ㆍ대구광역시 청년센터(www.dgyouth.kr) 온라인 신청 ㆍ대구청년커뮤니티포털 젊프(www.dgjump.com) 온라인 신청",
+      "link": "www.dgyouth.kr",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261105005400214731",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년마음건강센터 운영",
+      "category": "금융",
+      "summary": "ㆍ청년 정신건강 선별검사 및 상담 ㆍ찾아가는 마음건강 상담 「마음을 잇는 따뜻한 카페 : 마잇따」 운영 ㆍ정신건강의학과 전문의 상담 「마음건강 주치의」 운영 ㆍ…",
+      "target": "만 19~34세 — 9~34세 정신건강서비스가 필요한 대구시 거주 청년",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "ㆍ(온라인) 대구청년마음건강센터(www.youthdgmhc.or.kr) ㆍ(유 선) ☎ 053-565-2030",
+      "link": "www.youthdgmhc.or.kr",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 34,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261105005400214730",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년층 자살시도자 치료비 지원사업",
+      "category": "금융",
+      "summary": "ㆍ(지원금액) 1인간 연간 100만원 한도 ※ 당해연도 예산 소진시까지 ㆍ(지원내용) 자살시도로 인한 신체 손상치료비, 입원・외래 치료비, 약제비, 정신건강의학…",
+      "target": "만 15~34세 — 15~34세 청년층 자살시도자(응급의료기관 내원)",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "주소지 기초정신건강복지센터 등록・신청",
+      "link": "https://www.daegu.go.kr/YouthPolicy/index.do",
+      "eligibility": {
+        "minAge": 15,
+        "maxAge": 34,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261105005400214726",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "남구 백운광장 청년축제ヽ(✿゜▽゜)ノ",
+      "category": "금융",
+      "summary": "-+",
+      "target": "만 0~99999세 — 일시 : 2026. 11. 7. (토) 17:00 ~ 22:00 장소 : 남구 백운광장 스트리트 푸드존 무알콜 칵테일 무료 시음 스탬프 투어 완료 시 온누리상품권 5천원 증정(푸드존, 플리마켓 사용 가능) 행…",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "-",
+      "link": "https://youth.jeonnam-gwangju.go.kr/www/50?siteId=www&mapngColumn=policy_id&policyId=1495&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261105005400214725",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026년 나주시 청년의 날",
+      "category": "참여·권리",
+      "summary": "나주시 청년의 날 행사 추진 및 프로그램 제공 - 청년정책 골든벨 - 초청공연, 청년버스킹, DJ공연 - 청년정책 홍보존, 청년마켓존(로컬마켓), 파랑우체통(느…",
+      "target": "만 0~99999세 — 청년의 주체적인 사회 참여를 유도하고 청년 간 교류의 장을 제공하여 문화향유, 자기계발, 네트워크 형성 등 청년의 다양한 니즈를 충족시킬 수 있는 지역청년 문화 행사 추진",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "신청 불필요",
+      "link": "https://youth.jeonnam-gwangju.go.kr/www/50?siteId=www&policyId=1492&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261105005400214724",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026년 나주시 청년센터 하반기 청년 희망학교 수강생 모집",
+      "category": "교육",
+      "summary": "청년 희망학교 강좌 수강(1인당 최대 2강좌) - 수강료 무료, 강좌에 따라 별도 재료비 있을 수 있음 - 강좌별 수강생 선착순 모집",
+      "target": "만 18~45세 — 다양한 사회 경험이 필요한 청년들에게 역량 강화 및 자기 계발 기회 제공",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "청년센터 온라인 신청 → 대상자 선정 → 강의 수강",
+      "link": "https://youth.jeonnam-gwangju.go.kr/www/50?siteId=www&policyId=1494&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 45,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261105005400214723",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026년 청년도전지원사업",
+      "category": "취업",
+      "summary": "- 맞춤형 프로그램 제공(단기 5주, 중기 15주, 장기 25주) - 참여수당(단기 50만원, 중기 150만원, 장기 250만원) - 인센티브(이수, 구직활동,…",
+      "target": "만 18~45세 — 구직단념청년 등을 대상으로 맞춤형 프로그램을 통해 청년의 구직의욕 고취, 노동시장 참여를 지원합니다.",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인(워크넷) 신청 → 심사 → 대상자 선정 후 프로그램 진행",
+      "link": "https://youth.jeonnam-gwangju.go.kr/www/50?siteId=www&policyId=1490&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 45,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261105005400214722",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026년 나만의 특별한 결혼식 지원사업",
+      "category": "금융",
+      "summary": "- 예식장소 제공(관내 공공시설 및 지역명소 5개소) - 결혼식장 조성(버진로드, 신부대기실, 포토테이블, 접수대, 음향장비, 무대, 사회자 단상, 하객의자,…",
+      "target": "만 18~49세 — 나주 지역 명소를 활용한 청년 예비부부의 결혼식을 지원하여 생활인구 유입 및 지역 경제 활성화 도모",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "신청서 접수 → 자격조건 확인 및 대상자 선정 → 컨설팅(웨딩업체 상담) → 예식 진행",
+      "link": "https://youth.jeonnam-gwangju.go.kr/www/50?siteId=www&policyId=1491&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 49,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261104005400214721",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "귀환 청년 주거지원(공공기관 사택제공)",
+      "category": "주거",
+      "summary": "ㆍ타지역 청년이 취업*에 성공하는 경우 공유사택 주거공간 지원 * (취업) 「대구고용복지+센터 일자리 수요데이」 참가 후 취업 / 참가확인서 및 재직증명서 통해…",
+      "target": "만 19~39세 — 19~39세 대구에 관심 있는 전국 청년(대구 외 타지역)",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "대구광역시 누리집(www.daegu.go.kr)",
+      "link": "https://www.daegu.go.kr/YouthPolicy/index.do?menu_id=00939131&menu_link=/front/youthpolicy/selectYouthpolicy.do",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "전국"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261104005400214720",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "신혼부부 전세자금 대출이자 지원",
+      "category": "주거",
+      "summary": "ㆍ월 대출금액에 대하여 자녀 수에 따라 차등 이자지원 ※ 무자녀 연 0.5%, 1자녀 연 1%, 2자녀이상 연 1.6% ㆍ기본 2년, 최장 6년 지원(2년마다…",
+      "target": "만 0~99999세 — 「주택도시기금 신혼부부 전용 전세자금」 대출계약자로서, 대출자의 임차주택 주소가 대구인 신혼(예비)부부",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "대구安방 누리집(anbang.daegu.go.kr) 온라인 신청",
+      "link": "https://anbang.daegu.go.kr/",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": "married",
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261104005400214719",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "대구청년 부동산 중개수수료 지원",
+      "category": "주거",
+      "summary": "부동산 중개수수료 1인당 최대 30만원 지원(생애 1회)",
+      "target": "만 19~39세 — ㆍ2026. 1. 1. 이후 지역내 전입한 19~39세 무주택 청년세대주 - (소득) 청년가구 중위소득 150% 이하 - (주택) 임대차 거래금액 1억5천만원 이하 전·월세",
+      "deadline": "2026-04-01 ~ 2026-11-30",
+      "applyMethod": "ㆍ대구광역시 청년센터 누리집(www.dgyouth.kr) ㆍ대구청년커뮤니티포털 젊프 누리집(www.dgjump.com)",
+      "link": "www.dgyouth.kr",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261104005400214717",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년희망주택 임대료 지원",
+      "category": "주거",
+      "summary": "청년희망주택으로 공급된 행복주택 입주자에 한해 표준임대료에서 입주자 부담 임대료(시세 50%)를 제외한 금액 지원",
+      "target": "만 19~39세 — 청년희망주택(행복주택)으로 공급된 입대주택의 입주자로 선정된 자 - 19~39세 사이 청년, 도시근로자 가구당 월평균 소득의 100%이하 대학생(복학 예정자) 및 졸업후 2년 이내의 취업준비생, 혼인기간 7년 이…",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "입주 선정된 자에게 대구도시개발공사 및 LH대구경북지역본부에서 별도 공지",
+      "link": "https://www.daegu.go.kr/YouthPolicy/index.do",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
       "id": "yc-20261103005400114715",
       "type": "policy",
       "open": true,
@@ -313,6 +713,131 @@
         "employment": [
           "jobseeker"
         ],
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261103005400214712",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년전용 버팀목 전세자금 대출이자 지원",
+      "category": "주거",
+      "summary": "본인부담 대출금리의 1/2 이자지원 ※ 2년, 연장가능(최장 4년까지)",
+      "target": "만 19~34세 — 대구시 거주 무주택 청년(19~34세)으로, 주택도시기금 '청년전용 버팀목 전세자금 대출' 이용자",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://www.daegu.go.kr/YouthPolicy/index.do?menu_id=00939141&menu_link=/front/youthpolicy/selectYouthpolicy.do",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 34,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261103005400214711",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청년 전월세 임차보증금 대출이자 지원",
+      "category": "주거",
+      "summary": "대출금 최대 1억원(임차보증금의 90% 이내)의 최대 연 3.5% 이자지원 ※ 본인 최저 연 1.5% 이자 부담",
+      "target": "만 19~39세 — 19 ~ 39세 대구시 거주 무주택 청년 - (물건기준) 전세보증금 2.5억원 이하 주거용 주택 - (소득기준) 연소득 6천만원(부부합산 8천만원)이하",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "대구安방 누리집(anbang.daegu.go.kr) 온라인 신청",
+      "link": "https://anbang.daegu.go.kr/",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261103005400214710",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "원스톱 주거상담서비스 플랫폼 운영(대구安방)",
+      "category": "주거",
+      "summary": "ㆍ청년/신혼부부 주거지원 신청·접수 ㆍ부동산 상담시스템 운영 ㆍ기타 주거지원 사업 연계 및 안내 ※ 대구安방 누리집(anbang.daegu.go.kr) 참고",
+      "target": "만 0~99999세 — 대구형 주거종합포털로 주거지원사업 정보 안내 및 상담서비스 제공",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
+      "link": "https://anbang.daegu.go.kr/",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261103005400214709",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "전세보증금 반환보증료 지원",
+      "category": "주거",
+      "summary": "납부 보증료의 최대 40만원 지원 ※ '25. 3. 30. 이전 보증 가입자는 최대 30만원",
+      "target": "만 0~99999세 — 대구시 거주 무주택 임차인 - (물건기준) 임차보증금 3억원 이하 주택 - (소득기준) 청년 5천만원, 청년 외 6천만원, 신혼부부 7천5백만원 이하",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "ㆍ정부24 누리집(plus.gov.kr) 온라인 신청 ㆍHUG안심전세포털 누리집(www.khug.or.kr) 온라인 신청",
+      "link": "https://www.daegu.go.kr/YouthPolicy/index.do?menu_id=00939141&menu_link=/front/youthpolicy/selectYouthpolicy.do",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261103005400214708",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "대구행복기숙사 운영",
+      "category": "주거",
+      "summary": "ㆍ수용규모 : 503실 1,000명(1인실(장애인실) 6실, 2인실(일반실) 497실) ㆍ이용비용 : 기숙사비 273천원/월, 식비 5,100원/식, 보증금 1…",
+      "target": "만 18~39세 — 대구권(대구, 경산) 소재 대학에 재학 중인 대학생(신입생 포함), 39세 이하 청년",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "구행복기숙사 누리집(www.happydorm.or.kr/daegu) 온라인 신청",
+      "link": "https://www.happydorm.or.kr/daegu/ko/index",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 39,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
         "maritalStatus": null,
         "requiresChildren": false,
         "minHouseholdSize": null
@@ -344,114 +869,14 @@
       }
     },
     {
-      "id": "yc-20261101005400214683",
+      "id": "yc-20261103005400214704",
       "type": "local",
       "open": true,
       "source": "youthcenter",
-      "name": "대학연계 로컬크리에이터 양성",
+      "name": "대구식품산업 인재양성 및 마케팅 지원사업",
       "category": "교육",
-      "summary": "ㆍ지역 대학 로컬크리에이터 양성 교육과정 개설·운영 ㆍ온·오프라인 양성과정 교과 개발 TF 운영 ㆍ로컬크리에이터 창업 아이디어 경진대회 개최",
-      "target": "만 0~99999세 — 지역대학 내 '로컬크리에이터' 양성 교과 운영 및 창업 지원으로 지역 내 정주 인력 양성",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.daegu.go.kr/YouthPolicy/index.do?menu_id=00939131&menu_link=/front/youthpolicy/selectYouthpolicy.do",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "대구광역시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261101005400214681",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "글로벌첨단전략산업 기술경영 전문인력 양성사업",
-      "category": "교육",
-      "summary": "ㆍ기술경영전문대학원 전문석사 과정 운영 ㆍ공학기술을 핵심으로 글로벌경영을 연계한 첨단기술 경영관리자 양성 ㆍ대구경북과학기술원 특화 분야(AI, 로봇 등)와 경영…",
-      "target": "만 0~99999세 — 학사 학위 취득자 또는 취득 예정자(기업 재직자 포함)",
-      "deadline": "2026-11-01 ~ 2026-11-30",
-      "applyMethod": "DGIST 누리집(www.dgist.ac.kr) 대학원 신입생 모집공고 참조",
-      "link": "www.dgist.ac.kr",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "대구광역시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261101005400214680",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "여성과학기술인 육성 지원",
-      "category": "교육",
-      "summary": "ㆍ(초·중·고 여학생) 대외 환경 변화에 따른 교육 소외지역 집중 지원 및 수요·지역 맞춤형 자기주도형 공학프로그램 운영을 통한 이공계 진학 유도 ㆍ(여대생)…",
-      "target": "만 0~99999세 — 지역 초ㆍ중ㆍ고 여학생 및 여대생",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "대경강원권역R-WeSET사업단 누리집(http://www.wisetkmu.kr) 참조",
-      "link": "http://www.wisetkmu.kr",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "대구광역시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261101005400214679",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "공학교육혁신센터 지원",
-      "category": "교육",
-      "summary": "ㆍ미래 신산업, 산업체 수요 특화형 교육과정 및 교육방법 개발․운영 ㆍ캡스톤 디자인(종합설계 프로젝트를 통한 창의성, 팀워크, 문제해결능력 증진) ㆍ미래형 모빌…",
-      "target": "만 0~99999세 — 공학 관련 학부(과) 재학생",
-      "deadline": "2026-06-01 ~ 2026-12-31",
-      "applyMethod": "경북대 공학교육혁신센터 누리집(https://ceedin.knu.ac.kr) 공고문 공지 참조",
-      "link": "https://ceedin.knu.ac.kr",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "대구광역시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261101005400214675",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "혁신융합캠퍼스 구축",
-      "category": "교육",
-      "summary": "ㆍ산학연 협력 프로그램 및 취창업 프로그램 운영 ㆍ기업 문제해결형 프로젝트 교육, 산학연 공동 연구개발 ㆍ현장실습 및 취·창업 부트캠프 운영 등",
-      "target": "만 0~99999세 — 대구한의대 대학생(재활치료학부)",
+      "summary": "ㆍ식품제조업 분야별(생산 및 품질관리 등) 현장 맞춤형 인재 양성 교육 ㆍ식품업체 마케팅 역량 강화를 위한 현장 컨설팅 지원 ㆍ국내·외 시장분석 및 식품기업 간…",
+      "target": "만 0~99999세 — 대구시 소재 식품 관련학과 재학생 및 식품 제조·가공업체",
       "deadline": "상시 신청 (상세 공고 확인)",
       "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
       "link": "https://www.daegu.go.kr/YouthPolicy/index.do",
@@ -469,17 +894,42 @@
       }
     },
     {
-      "id": "yc-20261101005400214673",
+      "id": "yc-20261103005400214699",
       "type": "local",
       "open": true,
       "source": "youthcenter",
-      "name": "글로벌 AI로봇 해커톤 개최 지원",
-      "category": "취업",
-      "summary": "ㆍ(일반주제) 지역산업 현장에서의 문제 탐색 및 인지, 해결 방안 모색 ㆍ(제조현장) AI로봇 기술의 융합 가능성을 실험하는 플랫폼 구축",
-      "target": "만 0~99999세 — 지역 미래 AI로 산업을 주도할 전문 기술개발 육성에 기여하고 성장가능한 AI로봇 융합 생태계 조성",
+      "name": "영광청년 생애 첫 주택구입 대출이자 지원",
+      "category": "주거",
+      "summary": "생애 첫 주택구입에 따른 대출이자 지원 (월 최대 25만 원, 최장 3년간)",
+      "target": "만 18~45세 — ❍ 신청자격: 영광군에 거주하는 18세∼45세의 청년 1인 가구로, 생애 최초 주택구입 자금을 금융권에서 대출받은 자 - (무주택조건) 주택을 소유한 사실이 없는 생애 최초 주택 구입자 ※ 2025. 7. 1.이…",
+      "deadline": "2026-04-07 ~ 2026-12-11",
+      "applyMethod": "신청주체: 신청자 본인(대출자 및 소유자) 직접 신청 원칙 신청방법: 영광군 인구일자리과 방문 신청 제출서류: 공고일 이후 발급된 서류에 대해…",
+      "link": "https://www.yeonggwang.go.kr/bbs/?b_id=gosigonggo&site=headquarter_new&mn=9059&type=view&sc_cate=&per_page=10&start_date=&end_date=&sc_key=subject&sc_word=%EC%A3%BC%ED%83%9D%EA%B5%AC%EC%9E%85&bs_idx=28498",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 45,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": "single",
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261102005400214696",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "지역관광 역량강화",
+      "category": "교육",
+      "summary": "관광 관련 종사자 맞춤형 교육 프로그램 운영 (관광산업 트렌드, 콘텐츠‧마케팅, 현장안전 등 실무 중심 교육)",
+      "target": "만 0~99999세 — 지역 관광 관련 종사자",
       "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "미정",
-      "link": "https://www.daegu.go.kr/YouthPolicy/index.do",
+      "applyMethod": "대구광역시관광협회(www.daegutravel.or.kr) 온라인 신청 또는 이메일 접수 ※ 누리집 내 별도 안내 예정",
+      "link": "www.daegutravel.or.kr",
       "eligibility": {
         "minAge": null,
         "maxAge": null,
@@ -494,16 +944,66 @@
       }
     },
     {
-      "id": "yc-20261101005400214671",
+      "id": "yc-20261102005400214695",
       "type": "local",
       "open": true,
       "source": "youthcenter",
-      "name": "청년농업인 맞춤 지원",
+      "name": "게임아카데미 운영",
+      "category": "교육",
+      "summary": "ㆍ(교육지원) 게임개발 및 그래픽 분야 중급 이상 정규교육 운영 -기획 : 게임기획 및 분석, 스토리텔링, 시스템 기획 -프로그래밍 : 유니티 실전, AI 활용…",
+      "target": "만 0~99999세 — 지역 게임기업 재직자 및 업계 종사자 등",
+      "deadline": "2026-05-01 ~ 2026-12-31",
+      "applyMethod": "대구콘텐츠밸리 통합누리집(dcoe.or.kr) 공고문 확인 후 온라인 신청",
+      "link": "https://dcoe.or.kr/main",
+      "eligibility": {
+        "minAge": null,
+        "maxAge": null,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261102005400214694",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "전남 청년 희망일자리 지원사업",
       "category": "취업",
-      "summary": "ㆍ신기술 도입, 생산비 및 노동력 절감에 필요한 시설 장비 지원 ㆍ농산물 가공 및 유통에 필요한 시설과 장비 지원, 가공품 개발 ㆍ제품 및 브랜드개발, 홈페이지…",
-      "target": "만 18~39세 — 청년농업인(18~39세) ㆍ신청일 현재 대구광역시에 주소를 등록하고, 관내 농지소재지에서 1년 이상 영농을 하고 있는 농업인(농업경영체등록자)",
+      "summary": "1. 대상 : 18~45세 이하 전남 거주 중소기업 및 사회적경제기업 근로 청년 2. 인건비: 최저임금 110% 수준인 월230만원 보장지원 * 기업부담(60%…",
+      "target": "만 18~49세 — 취업상태 : 중소기업 취업예정자",
       "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "해당 구·군 농업부서",
+      "applyMethod": "[청년] 1. 전남일자리정보망 접속(회원가입 및 로그인) 2. 참여기업 확인 3. 입사지원 4. 자격심사 및 면접 5. 근로계약 및 사업 참여…",
+      "link": "https://job.jeonnam-gwangju.go.kr",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 49,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261102005400214692",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "문화예술교육사 현장역량 강화사업",
+      "category": "교육",
+      "summary": "ㆍ문화예술교육사의 문화예술교육 전문성 강화를 위한 간담회 운영 ㆍ문화예술교육사의 기초 행정 및 기획역량 강화 연수 프로그램 운영 ㆍ타 지역 센터 및 기관과의 네…",
+      "target": "만 18~39세 — 문화예술교육사 자격증 취득 후 3년이 지나지 않은 자(39세 이하)",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "대구광역시 문화예술정책과 ☎ 053-803-3634",
       "link": "https://www.daegu.go.kr/YouthPolicy/index.do",
       "eligibility": {
         "minAge": 18,
@@ -512,60 +1012,6 @@
           "대구광역시"
         ],
         "maxIncomeRatio": null,
-        "employment": [
-          "self-employed"
-        ],
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261101005400214669",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "재직자 직업훈련 사업",
-      "category": "취업",
-      "summary": "ㆍ지역 기업에서 필요로 하는 재직자 직무능력향상 교육, 훈련 실시 ㆍ교육과정 - 산업현장 효율성 향상 및 중간관리자 역량 교육, 디지털OA, 경영 정보화, 2D…",
-      "target": "만 0~99999세 — 지역 거주 및 지역 기업 재직 근로자",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "수시 모집(프로그램별 상이) 한국노총대구지역본부 누리집 수강 신청(https://inochongdg.org) (☎ 053-570-7181)",
-      "link": "https://inochongdg.org",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "대구광역시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": [
-          "employed"
-        ],
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261101005400214668",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "현장중심 실무인력 양성사업",
-      "category": "취업",
-      "summary": "ㆍ기업 현장중심 교육훈련 실시 및 취업 지원 ㆍ대구시 기업 현장에서 필요로 하는 전문 기술(기계설비유지 및 보수관리 과정, 스마트 자동화 설비운영, 모빌리티 부…",
-      "target": "만 18~99세 — 18세 이상 대구시에 거주하는 취업 희망자, 지역 기업 취업 희망자 ㆍ(기계 설비 분야 등) 본 사업 참여기관 재학생(졸업예정자) ㆍ(중장년 과정) 대구시 거주하는 중장년걍5",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.daegu.go.kr/YouthPolicy/index.do",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 99,
-        "regions": [
-          "대구광역시"
-        ],
-        "maxIncomeRatio": null,
         "employment": null,
         "maritalStatus": null,
         "requiresChildren": false,
@@ -573,476 +1019,22 @@
       }
     },
     {
-      "id": "yc-20261101005400214667",
+      "id": "yc-20261101005400214691",
       "type": "local",
       "open": true,
       "source": "youthcenter",
-      "name": "대학일자리플러스센터 설치운영 지원",
-      "category": "취업",
-      "summary": "ㆍ대학 내 취업 지원 인프라 구축 ㆍ진로지도 강화 ㆍ취업 지원서비스 강화(단계별 맞춤형 서비스 제공) ㆍ지역청년고용거버넌스 구축 운영",
-      "target": "만 0~99999세 — 고용노동부 대학일자리플러스센터 선정 4개 대학 ㆍ(거점형) 계명대학교, 계명문화대학교, 영남이공대학교 ㆍ(일반형) 영진전문대학교",
+      "name": "대학생 결혼육아 예비교실",
+      "category": "교육",
+      "summary": "대학교 교양교과목(건강육아 레시피 운영 - 임신과 분만, 영유아 이해 및 건강관리, 행복한 가족생활 등 * (참여대학) 경북대, 계명문화대, 대구과학대, 대구교…",
+      "target": "만 0~99999세 — 각 학교별 수강신청 방법에 따름",
       "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "각 대학교 대학일자리플러스센터 누리집 온라인 신청 또는 방문 신청",
+      "applyMethod": "각 학교별 수강신청 방법에 따름",
       "link": "https://www.daegu.go.kr/YouthPolicy/index.do",
       "eligibility": {
         "minAge": null,
         "maxAge": null,
         "regions": [
           "대구광역시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261101005400214666",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "대구형 청년 그린 내일채움공제",
-      "category": "취업",
-      "summary": "5년간 청년근로자 1인당 월 10만원 지원 ※ 근로자와 사업 주체들이 매월 34만원(시 10, 기업 14, 청년근로자 10)을 적립하여 5년 최종 만기 시 청년…",
-      "target": "만 19~34세 — 15~34세 이하 대구 소재 중소(중견)기업 재직 청년",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "해당없음",
-      "link": "https://www.daegu.go.kr/YouthPolicy/index.do",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 34,
-        "regions": [
-          "대구광역시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": [
-          "employed"
-        ],
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261031005400214665",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "경기북부 청년 서포터즈 운영",
-      "category": "참여·권리",
-      "summary": "경기북부발전 홍보 온·오프라인 활동 - (온라인) 경기북부대개발 등 경기북부 주요 정책 소개 콘텐츠 제작 및 SNS·공식 채널을 통한 공유 - (오프라인) 북부…",
-      "target": "만 19~39세 — 개인 소셜미디어(SNS) 활발히 운영하는 자, 디자인 및 영상 편집 우수자",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://youth.gg.go.kr/gg/intro/youth-policy-law-test.do?mode=view&articleNo=9015&title=%EA%B2%BD%EA%B8%B0%EB%B6%81%EB%B6%80+%EC%B2%AD%EB%85%84+%EC%84%9C%ED%8F%AC%ED%84%B0%EC%A6%88+%EC%9A%B4%EC%98%81",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261031005400214664",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "경기청년 기후특사단",
-      "category": "참여·권리",
-      "summary": "경기청년 개발도상국 나무심기, 환경 교육, 문화교류 등 해외봉사 추진",
-      "target": "만 19~39세 — 사회적 배려층*‧국내봉사 사회공헌도 높은 청년 우대 *사회적 배려층 우대 : 기초생활수급자, 차상위계층, 고졸 이하, 초대 재/졸, 자립준비청년 등",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "잡아바 어플라이 접수",
-      "link": "https://apply.jobaba.net/bsns/bsnsDetailView.do?bsnsSeq=5705",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261031005400214663",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "경기청년공간 조성 및 운영",
-      "category": "참여·권리",
-      "summary": "프로그램 운영지원, 우수청년공간 지원, 청년공간 활성화",
-      "target": "만 0~99999세 — 소통, 휴식, 취·창업 등의 지원을 위해 조성된 청년전용 복합공간을 활용하여 청년이 행복한 지역환경 구현",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://youth.gg.go.kr/ggyouthplace/youth/place",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261031005400214661",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "경기 컬처패스",
-      "category": "금융",
-      "summary": "- 26년부터 1인당 지원 한도(2.5만원 → 6만원 내) 확대 및 연중 상시 발급 - 쿠폰 지원 분야, 지원 금액 및 사용처 확대로 일상 속 문화 향유 확산",
-      "target": "만 0~99999세 — 문화소비쿠폰 지원을 통해 도민 문화 향유 기회 확대 및 경기도 대표 문화관광플랫폼 육성",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.gg.go.kr/myggd/vol197/2_1.php",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261031005400214659",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "재난복구지원 군 장병 상해보험 가입지원",
-      "category": "금융",
-      "summary": "군 장병이 道 내 재난복구 현장에 동원 중 사망, 재해 등 피해발생에 대한 상해보험 가입 지원",
-      "target": "만 0~99999세 — 도내 재난복구 현장에 동원되는 군 장병",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://youth.gg.go.kr/gg/intro/youth-policy-housing-test.do?mode=view&articleNo=8986&title=%EC%9E%AC%EB%82%9C%EB%B3%B5%EA%B5%AC%EC%A7%80%EC%9B%90+%EA%B5%B0+%EC%9E%A5%EB%B3%91+%EC%83%81%ED%95%B4%EB%B3%B4%ED%97%98+%EA%B0%80%EC%9E%85+%EC%A7%80%EC%9B%90",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261031005400214658",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "군복무 경기청년 상해보험 가입지원",
-      "category": "금융",
-      "summary": "군복무 중 상해·질병 등 피해 발생시 상해보험지원 - 질병·상해 입원일당, 수술비, 정신질환진단비 등 16가지 보장항목 ※ 훈련 중 폭발·화재·붕괴로 인한 상해…",
-      "target": "만 0~99999세 — 경기도에 주민등록을 둔 청년 중 현역 군 복무중인 자 ※ 현역군인, 상근예비역, 의무경찰(해양경찰 포함), 의무 소방대원 등 / 직업군인, 사회복무요원 제외",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "군복무 경기청년 상해보험 접수센터",
-      "link": "https://www.gg.go.kr/contents/contents.do?ciIdx=1498&menuId=3400",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261031005400214657",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "공중보건 장학제도 운영",
-      "category": "금융",
-      "summary": "공공의료에 사명감을 갖춘 학생을 선발하여 장학금 지원 및 졸업 후 장학금 지원 기간동안 지역 공공보건의료기관에 의무 근무",
-      "target": "만 0~99999세 — -사업대상: 전국 의대생 및 간호대생",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.mohw.go.kr/board.es?mid=a10501010100&bid=0003&act=view&list_no=1489983",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": [
-          "jobseeker"
-        ],
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261031005400214656",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "자립준비청년 자립수당 지원",
-      "category": "금융",
-      "summary": "아동복지시설 퇴소, 가정위탁보호종료 5년이내 아동 중 과거 2년 이상 연속하여 보호를 받은 아동에게 1인당 월 50만원씩 지원",
-      "target": "만 0~99999세 — 아동복지시설 퇴소, 가정위탁보호 종료 5년이내 아동 중 과거 2년 이상 연속하여 보호를 받은 아동 - (연령 기준) 18세 이후 만기 또는 연장 보호종료된 자",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "읍면동 행정복지센터 방문신청, 우편 또는 팩스, 온라인 신청(복지로누리집(www.bokjiro.go.kr)에 접속)",
-      "link": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001175",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261031005400214655",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년 노동자 통장 운영",
-      "category": "금융",
-      "summary": "- 자산형성지원 : 매월 10만원 저축, 2년 만기 시 최대 580만원(지역화폐 100만원 포함) 지급, 참여자 저축 10만원 + 경기도 지원금 14만2천원 (…",
-      "target": "만 19~39세 — - 근로유형에 관계없이 공고일 기준 근로하는 청년 *휴직자(육아휴직자)는 신청가능. 국가근로장학생은 신청불가 - 공고일 기준 주민등록상 주소지가 경기도인 청년 ※ 주민등록번호 부여자만 신청 가능(재외국인 신청 불…",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "경기도 청년 노동자 통장 홈페이지를 통한 온라인 접수",
-      "link": "https://account.gfgf.kr/main/freshman_main.do",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261031005400214654",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "근로능력 있는 수급자의 탈수급 지원",
-      "category": "금융",
-      "summary": "- 기존유지자 근로소득장려금 지원 - 청년내일저축계좌 운영",
-      "target": "만 15~39세 — 근로 능력있는 저소득층(수급·차상위 등 중위소득 100%이하)의 자산형성을 체계적으로 지원하여 탈수급 및 자립 촉진",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "읍면동 행정복지센터 방문신청, 우편 또는 팩스, 온라인 신청(복지로누리집(www.bokjiro.go.kr)에 접속)",
-      "link": "www.bokjiro.go.kr",
-      "eligibility": {
-        "minAge": 15,
-        "maxAge": 39,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214653",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "전세보증금반환보증 보증료 지원",
-      "category": "주거",
-      "summary": "실 납부 전세보증금반환보증 보증료(최대 40만원) 지원",
-      "target": "만 0~99999세 — 보증보험에 가입한 전세보증금 3억원 이하인 무주택 임차인",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://housing.gg.go.kr/html/51502.do",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214651",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "자립준비청년 주거비 지원사업",
-      "category": "주거",
-      "summary": "자립준비청년이 경기주택도시공사 공공임대주택에 입주하는 경우, 표준 임대보증금 전액 지원",
-      "target": "만 0~99999세 — 아동·청소년복지시설, 가정위탁 퇴소 5년 이내 자립준비청년 - (연령) 연령무관(아동·청소년복지시설 퇴소 5년 이내)",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.gg.go.kr/contents/contents.do?ciIdx=987237&menuId=1534071",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214650",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "사하청년 온라인 플랫폼",
-      "category": "참여·권리",
-      "summary": "- 사하청년 대표 포털로써, 플랫폼 활성화를 위해 사하청년의 소통 공간으로 청년들의 꿈을 실현할 수 있는 공간이라는 의미의 “사하청년시대 1839”로 2024년…",
-      "target": "만 18~39세 — ❍ 온라인 소통 플랫폼 운영으로 사하 청년들에게 꼭 필요한 정보들을 한데 모아 청년들이 원하는 정책을 쉽고 빠르게 제공",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.saha.go.kr/startup/main.do",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 39,
-        "regions": [
-          "부산광역시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214646",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "대학기숙사 확충",
-      "category": "주거",
-      "summary": "경기푸른미래관 운영 지원 - 기숙사 제공 (370명 수용 : 남156, 여214) - 입사생 선발 및 생활지원, 교육프로그램 운영",
-      "target": "만 0~99999세 — ㅇ장애인 등 가산점 및 통학거리가점 등 합산",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "학자금지원구간통지서, 재학증명서, 성적증명서 등 제출",
-      "link": "https://youth.gg.go.kr/gg/intro/youth-policy-educational-testing.do?mode=view&articleNo=7668&title=%EB%8C%80%ED%95%99%EC%83%9D+%EA%B8%B0%EC%88%99%EC%82%AC+%ED%99%95%EC%B6%A9+%28%EA%B2%BD%EA%B8%B0%ED%91%B8%EB%A5%B8%EB%AF%B8%EB%9E%98%EA%B4%80+%EC%9A%B4%EC%98%81+%EC%A7%80%EC%9B%90%29",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214644",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "경기도 공공기숙사 운영",
-      "category": "주거",
-      "summary": "기숙사 입사생 선발 및 생활지원, 교육프로그램 운영, 시설관리 - 경기도기숙사 : 입사생 278명(대학생 70%, 청년 30%), 심리상담·스포츠·취업·문화활동…",
-      "target": "만 15~39세 — 경기도민 대학생·청년 주거비용 경감과 주거안정 도모",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://youth.gg.go.kr/gg/intro/youth-policy-educational-testing.do?mode=view&articleNo=7667&title=%EA%B2%BD%EA%B8%B0%EB%8F%84+%EA%B3%B5%EA%B3%B5%EA%B8%B0%EC%88%99%EC%82%AC+%EC%9A%B4%EC%98%81",
-      "eligibility": {
-        "minAge": 15,
-        "maxAge": 39,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214643",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년층을 위한 지분적립형 분양주택 공급",
-      "category": "주거",
-      "summary": "광교 A17블록 지분적립형 분양주택 공급을 통하여 청년층의 주거 안정 기회 제공",
-      "target": "만 19~39세 — 자산 기준 충족, 주택청약 가입 6개월 등",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "온라인/방문 신청 (상세 공고 확인)",
-      "link": "https://www.gh.or.kr/gh/index.do#board",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "경기도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261030005400214640",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년층을 위한 매입임대주택 공급",
-      "category": "주거",
-      "summary": "기존주택을 매입(또는 신축약정)하여 청년층에게 저렴하게 임대",
-      "target": "만 19~39세 — 무주택자, 자산 기준 충족",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "위 내용은 사업 안내를 위함으로, 사업 기간 및 제출 서류 등은 반드시 사업 추진 기관의 상세 공고를 확인하시길 바랍니다.",
-      "link": "https://www.gg.go.kr/",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "경기도"
         ],
         "maxIncomeRatio": null,
         "employment": null,
