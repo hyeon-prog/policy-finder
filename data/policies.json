@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-11-06T01:26:05.263Z",
+  "generatedAt": "2026-11-07T00:46:26.730Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -692,33 +692,6 @@
       }
     },
     {
-      "id": "yc-20261103005400114715",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026 우수인재 연계 기업인턴십",
-      "category": "취업",
-      "summary": "콘텐츠 기업 대상 인턴 채용시 1인당 월 108만원 인건비 지급",
-      "target": "만 0~99999세 — 콘텐츠 분야 우수인재 대상 시업 현장교육 기회 제공",
-      "deadline": "2026-08-12 ~ 2026-11-06",
-      "applyMethod": "공고문 참조",
-      "link": "https://www.kocca.kr/kocca/bbs/view/B0000137/2012372.do?searchCnd=1&searchWrd=%EC%9D%B8%ED%84%B4&cateTp1=&cateTp2=&useYn=&menuNo=204802&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&ufSetting=&recovery=&option1=&option2=&year=&morePage=&qtp=&domainId=&sortCode=&pageIndex=1",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "전국"
-        ],
-        "maxIncomeRatio": null,
-        "employment": [
-          "jobseeker"
-        ],
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
       "id": "yc-20261103005400214712",
       "type": "local",
       "open": true,
@@ -1033,6 +1006,31 @@
       "eligibility": {
         "minAge": null,
         "maxAge": null,
+        "regions": [
+          "대구광역시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261101005400214690",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "대구 청년을 위한 노동법·생활법률 교육",
+      "category": "교육",
+      "summary": "ㆍ전문가(변호사·노무사) 교육 - (노 동 법) 근로계약서, 최저임금, 휴게시간 및 휴가, 해고 등 - (생활법률) 소송제도, 도로교통법, 세법, 특허법 등 ㆍ…",
+      "target": "만 19~39세 — 사회초년생 청년 및 청년 창업가들이 알아야 할 노동법 및 법률 지식을 교육하여 청년들의 노동권 및 법적 권리 인식 제고",
+      "deadline": "2026-11-04 ~ 2026-11-25",
+      "applyMethod": "대구광역시 청년센터 누리집(www.dgyouth.kr) 온라인 신청",
+      "link": "www.dgyouth.kr",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
         "regions": [
           "대구광역시"
         ],
