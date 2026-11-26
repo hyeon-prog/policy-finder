@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-11-24T05:11:44.858Z",
+  "generatedAt": "2026-11-26T03:26:12.796Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -360,6 +360,31 @@
         "maxAge": 30,
         "regions": [
           "충청남도"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261123005400214885",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "(접수 마감)2026년 11기 광주 청년 13(일+삶)통장",
+      "category": "금융",
+      "summary": "월 10만원씩 10개월 저축 시, 광주광역시 100만원 지원 금융역랑강화 교육프로그램 운영",
+      "target": "만 19~39세 — 지역 청년 특성 및 수요에 적합한 자산 형성 기회를 제공함으로써 경제적 자립 및 생활 안정 지원",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "광주청년통합플랫폼 온라인 신청",
+      "link": "https://youth.jeonnam-gwangju.go.kr/www/50?siteId=www&policyId=1032&url=%2Fwww%2Fpolicy%2FgjYgPolicyView",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 39,
+        "regions": [
+          "전남광주통합특별시"
         ],
         "maxIncomeRatio": null,
         "employment": null,
@@ -1014,31 +1039,6 @@
         "maxAge": 39,
         "regions": [
           "대구광역시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261109005400114774",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "충청남도 노동권익센터 운영",
-      "category": "참여·권리",
-      "summary": "❍ 노동상담: 임금체불, 부당해고, 근로계약, 직장 내 괴롭힘 등 노동문제 상담 ❍ 권리구제 지원: 노동분쟁 관련 진정·신청 및 법률적 권리구제 지원 ❍ 노동교…",
-      "target": "만 0~99999세 — 해당 없음",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "❍ 상담 신청: 전화·방문 등 노동상담 채널을 통한 상담 접수 ❍ 권리구제: 상담 후 필요시 진정·신청 등 권리구제 절차 지원 ❍ 교육 참여:…",
-      "link": "http://cnnodong.net/",
-      "eligibility": {
-        "minAge": null,
-        "maxAge": null,
-        "regions": [
-          "충청남도"
         ],
         "maxIncomeRatio": null,
         "employment": null,
