@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-07-10",
-  "generatedAt": "2026-11-26T03:26:12.796Z",
+  "generatedAt": "2026-11-27T03:33:07.757Z",
   "source": "curated+youthcenter-portal",
   "items": [
     {
@@ -292,6 +292,56 @@
       "source": "curated"
     },
     {
+      "id": "yc-20261126005400214897",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026년 청년성장프로젝트 지원사업(청년 일자리스테이션 광산)",
+      "category": "취업",
+      "summary": "- 청년카페와 1:1 심층 상담실 제공 - 음악·미술·스포츠·댄스·연극 활동 동아리 - 심리·정서 성장 프로그램 - 진로·취업 특강 프로그램",
+      "target": "만 15~40세 — 미취업청년 등에게 청년 친화적 인프라와 맞춤형 프로그램(문화예술기반)을 지원합니다.",
+      "deadline": "2026-07-01 ~ 2026-12-31",
+      "applyMethod": "온라인 신청 → 초기상담 → 프로그램 참여",
+      "link": "https://www.gwangsan.go.kr/boardView.do?pageId=www3&boardId=NEWS_NEW&seq=4666429",
+      "eligibility": {
+        "minAge": 15,
+        "maxAge": 40,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261126005400214896",
+      "type": "local",
+      "open": true,
+      "source": "youthcenter",
+      "name": "2026년 화순군 청년·신혼부부 만원임대주택 지원사업",
+      "category": "주거",
+      "summary": "• 화순읍 부영아파트를 월 임대료 1만원에 공급(공급면적 68㎡(20평)형, 신혼부부 우선순위 대상자 24평형 10호) • 지원기간: 기본 2년, 2회 연장 가…",
+      "target": "만 18~50세 — 사회 첫발을 내딛는 무주택 청년과 신혼부부의 주거 안정과 정주여건 향상을 위해, 화순읍 부영아파트를 월 임대료 1만원에 공급합니다.",
+      "deadline": "상시 신청 (상세 공고 확인)",
+      "applyMethod": "정부24 온라인 신청 및 서류 보완 → 자격 검증(주택 소유·제외대상 여부 확인) → 추첨대상자 발표(화순군청 누리집) → 입주자 선정 추첨(…",
+      "link": "https://www.hwasun.go.kr/youth/contents.do?M=040200000000&S=",
+      "eligibility": {
+        "minAge": 18,
+        "maxAge": 50,
+        "regions": [
+          "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
       "id": "yc-20261123005400214892",
       "type": "policy",
       "open": true,
@@ -385,6 +435,31 @@
         "maxAge": 39,
         "regions": [
           "전남광주통합특별시"
+        ],
+        "maxIncomeRatio": null,
+        "employment": null,
+        "maritalStatus": null,
+        "requiresChildren": false,
+        "minHouseholdSize": null
+      }
+    },
+    {
+      "id": "yc-20261123005400214883",
+      "type": "policy",
+      "open": true,
+      "source": "youthcenter",
+      "name": "청춘거리 활성화 사업",
+      "category": "금융",
+      "summary": "청년창업공간 지원 및 활성화 프로그램 운영",
+      "target": "만 19~45세 — 해당 없음",
+      "deadline": "2026-01-01 ~ 2026-12-31",
+      "applyMethod": "누구나가게(방문접수) 청춘거리활성화프로그램(인터넷 또는 방문접수)",
+      "link": "https://m.blog.naver.com/cheongyange/224164049837",
+      "eligibility": {
+        "minAge": 19,
+        "maxAge": 45,
+        "regions": [
+          "충청남도"
         ],
         "maxIncomeRatio": null,
         "employment": null,
@@ -964,81 +1039,6 @@
         "maxAge": 39,
         "regions": [
           "충청남도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261111005400114813",
-      "type": "policy",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2027 하계 세계대학경기대회 개최",
-      "category": "금융",
-      "summary": "충남도 배정 종목(테니스, 배구, 축구, 수구, 비치발리볼) 국제대회 추진 ❍ 국제스포츠대회 개최: 세계 대학생 선수들이 참여하는 국제종합스포츠대회 개최 및 운…",
-      "target": "만 18~25세 — 해당사항 없음",
-      "deadline": "2026-01-01 ~ 2026-12-31",
-      "applyMethod": "❍ 선수 참가: 국가별 대학 스포츠협회 및 종목별 참가 절차를 통해 신청 ❍ 자원봉사 및 운영 참여: 조직위원회 공식 모집공고를 통해 별도 신…",
-      "link": "https://www.chungcheong2027.com/home/main.do",
-      "eligibility": {
-        "minAge": 18,
-        "maxAge": 25,
-        "regions": [
-          "충청남도"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261110005400214811",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "청년놀이터·창업놀이터 운영",
-      "category": "창업",
-      "summary": "1. 위탁사무명 : 청년놀이터․창업놀이터 운영 위탁사업 2. 위탁기간 : 2025. 1. 1. ~ 2027. 12. 31.(3년) 3. 위탁금액 : 365백만원…",
-      "target": "만 19~39세 — 매년 입주기업 모집, 멤버십 회원 모집, 프로그램 모집 등 자격요건이 다를 수 있으며, 공고문을 통해 확인 요망",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "입주기업 모집, 멤버십 모집, 창업지원 프로그램별 공고문 확인 후 신청",
-      "link": "https://bukguplayground.or.kr/",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "대구광역시"
-        ],
-        "maxIncomeRatio": null,
-        "employment": null,
-        "maritalStatus": null,
-        "requiresChildren": false,
-        "minHouseholdSize": null
-      }
-    },
-    {
-      "id": "yc-20261110005400214810",
-      "type": "local",
-      "open": true,
-      "source": "youthcenter",
-      "name": "2026 대구 북구 청년창업 특례보증 지원(이차보전금)",
-      "category": "창업",
-      "summary": "1. 사업기간 : 2026. 1. ~ 12. 2. 대 상 : 2023년~2025년 청년창업 특례보증 대출기업 - 업 체 수 : 2023년 57개사, 2025년…",
-      "target": "만 19~39세 — 1. 지원대상 : 북구에 사업장을 둔 제조업 및 지식서비스업을 영위 중인 청년창업기업 ☞ 청년창업기업 : 신청접수일 기준 대표자 만 19세 이상 만 39세 이하, 창업 5년 이내 ☞ 개인신용평점 반영 등 2. 신…",
-      "deadline": "상시 신청 (상세 공고 확인)",
-      "applyMethod": "- 대출기업이 이차보전금 신청할 필요 없음 - 대출은행이 구청으로 이차보전금 청구",
-      "link": "https://www.buk.daegu.kr/index.do?menu_id=00000198",
-      "eligibility": {
-        "minAge": 19,
-        "maxAge": 39,
-        "regions": [
-          "대구광역시"
         ],
         "maxIncomeRatio": null,
         "employment": null,
